@@ -279,7 +279,7 @@
     <string name="pref_camera_zsl_value_off">off</string>
     <string name="pref_camera_zsl_value_on">on</string>
     <string name="pref_camera_facedetection_title">Yüz tanıma</string>
-    <string name="pref_camera_hand_night_title">Hht</string>
+    <string name="pref_camera_hand_night_title">Gece modu</string>
     <string name="camera_settings_label">Kamera</string>
     <string name="pref_camera_settings_title">Ayarlar</string>
     <string name="pref_camera_referenceline_title">Klavuz çizgileri</string>
@@ -303,7 +303,7 @@
     <string name="pref_camera_movie_solid_default">true</string>
     <string name="pref_camera_movie_solid_title">Görüntü sabitleme</string>
     <string name="simple_mode_button_text_hdr">"Hdr'i kapat"</string>
-    <string name="simple_mode_button_text_hand_night">"Hht'i kapat"</string>
+    <string name="simple_mode_button_text_hand_night">Gece modunu kapat</string>
     <string name="simple_mode_button_text_panorama">Panoramayı kapat</string>
     <string name="simple_mode_button_text_color_effect">Filtreyi kapat</string>
     <string name="simple_mode_button_text_slow_video">Zaman atlamayı kapat</string>
