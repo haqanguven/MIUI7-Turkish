@@ -30,13 +30,13 @@
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Bu dosyayı temizle</item>
-        <item>Dosya konumunu gör</item>
+        <item>Dosya konumunu görüntüle</item>
         <item>İstisnalara dosya ekle</item>
-        <item>İstisnalara uygulamayı ekle</item>
+        <item>İstisnalara uygulama ekle</item>
     </string-array>
     <string-array name="trash_clean_menu">
         <item>Dosyayı temizle</item>
-        <item>Dosya konumunu gör</item>
+        <item>Dosya konumunu görüntüle</item>
         <item>İstisnalara dosya ekle</item>
     </string-array>
     <string-array name="video_clean_menu">
@@ -49,9 +49,9 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Temizle</item>
-        <item>Apk konumunu gör</item>
+        <item>Yükle</item>
+        <item>Konumu görüntüle</item>
         <item>İstisnalara ekle</item>
-        <item>Apk yükle</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Kaldır</item>
