@@ -76,6 +76,7 @@
     <string name="pref_title_expand_cache_group">Önbelleğe alınan ögeleri görüntüle</string>
     <string name="pref_summary_expand_cache_group">Önbellek listesindeki ögeleri otomatik olarak genişlet</string>
     <string name="pref_category_title_auto_clean_settings">Otomatik olarak temizle</string>
+    <string name="pref_section_auto_clean_and_alert">Otomatik olarak temizle</string>
     <string name="pref_title_auto_clean_and_alert">Otomatik olarak temizle</string>
     <string name="pref_summary_auto_clean_and_alert">Temizleyiciyi otomatik olarak çalışmaya ayarla</string>
     <string name="pref_category_title_other_clean_settings">Diğer</string>
@@ -200,7 +201,7 @@
     <string name="notification_summary_of_garbage_cleanup">"Çöp boyutu %s'nin üzerinde"</string>
     <string name="notification_summary_after_auto_cleanup">Temizlendi %s</string>
     <string name="toast_uninstall_success">Kaldırma işlemi tamamlandı</string>
-    <string name="toast_app_no_residual_on_sdcard">Uygulamanın Sd kartınızda kayıtlı hiçbir dosyası yok</string>
+    <string name="toast_app_no_residual_on_sdcard">Uygulamanın SD kartınızda kayıtlı hiçbir dosyası yok</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
     <string name="default_cache_type">Veri dosyaları</string>
 	<string name="similar_image_title">Kopyaları sil</string>
@@ -338,6 +339,8 @@
     <string name="buy_immediately">Satın al</string>
     <string name="title_of_auto_launch_manage">Otomatik başlatma</string>
     <string name="tips_of_auto_launch_manage">Nadir kullanılan uygulamaların otomatik olarak başlatılmalarının önüne geçin</string>
+    <string name="title_of_app_manage">Uygulamalar</string>
+    <string name="tips_of_app_manage">Depolama alanı kazanmak için nadir kullanılan uygulamaları silin</string>
     <string name="title_of_traffic_notification">Veri istatistikleri çubuğu</string>
     <string name="tips_of_traffic_notification">Bildirim çubuğunda mobil veri istatistiklerini görüntüleyin</string>
     <string name="title_of_package_set">Tarife ayarları</string>
@@ -370,7 +373,7 @@
     <string name="deepclean_list_item_from_download">İndirmeler</string>
     <string name="deepclean_list_item_from_music">Müzik</string>
     <string name="deepclean_list_item_from_miui">Miui</string>
-    <string name="deepclean_list_item_from_sdcard">Sd kart</string>
+    <string name="deepclean_list_item_from_sdcard">SD kart</string>
     <string name="deepclean_size_summary_less">Yeterli alan yok</string>
     <string name="deepclean_size_summary_normal">Depolama alanı</string>
     <string name="deepclean_size_summary_more">Kullanılabilir depolama alanı</string>
@@ -405,4 +408,7 @@
 	<string name="dialog_title_stop_scan">Çöp taramasını durdur</string>
     <string name="dialog_msg_stop_scan">Tamamlanmadan önce çöp taraması durdurulsun mu?</string>
     <string name="recommend_the_following">Cihazınıza en iyi şekilde aşağıdaki eylemleri alın</string>
+    <string name="news_change">Değiştir</string>
+    <string name="long_click_dialog_title">Uyarı</string>
+    <string name="long_click_dialog_summary">İstisnalara eklemek için uzun basın</string>
 </resources>
