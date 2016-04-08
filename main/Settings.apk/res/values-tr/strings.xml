@@ -147,14 +147,14 @@
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_lac">Lac</string>
     <string name="radioInfo_cid">Cid</string>
-    <string name="sdcard_unmount">Sd kartının bağlantısını kes</string>
-    <string name="sdcard_format">Sd kartı sil</string>
+    <string name="sdcard_unmount">SD kartının bağlantısını kes</string>
+    <string name="sdcard_format">SD kartı sil</string>
     <string name="small_font">Küçük</string>
     <string name="medium_font">Ortam</string>
     <string name="large_font">Büyük</string>
     <string name="font_size_preview_text">HER GÜN AYNI ŞEYLER</string>
     <string name="font_size_save">Tamam</string>
-    <string name="sdcard_setting">Sd kart</string>
+    <string name="sdcard_setting">SD kart</string>
     <string name="battery_info_status_label">Pil durumu:</string>
     <string name="battery_info_power_label">Güç fişi:</string>
     <string name="battery_info_scale_label">Pil skalası:</string>
@@ -317,14 +317,14 @@
     <string name="sdcard_changes_instructions">Değişiklikler Usb kablosu tekrar bağlandığında devreye girer</string>
     <string name="sdcard_settings_screen_mass_storage_text">Usb yığın depolamasını etkinleştir</string>
     <string name="sdcard_settings_total_bytes_label">Toplam bayt sayısı:</string>
-    <string name="sdcard_settings_not_present_status">Sd kart yok</string>
+    <string name="sdcard_settings_not_present_status">SD kart yok</string>
     <string name="sdcard_settings_available_bytes_label">Kullanılabilir bayt:</string>
-    <string name="sdcard_settings_mass_storage_status">Sd kart yığın depolama cihazı olarak kullanılıyor</string>
-    <string name="sdcard_settings_unmounted_status">Sd kart şimdi güvenli olarak çıkarılabilir</string>
-    <string name="sdcard_settings_bad_removal_status">Sd kart kullanılırken çıkarıldı</string>
+    <string name="sdcard_settings_mass_storage_status">SD kart yığın depolama cihazı olarak kullanılıyor</string>
+    <string name="sdcard_settings_unmounted_status">SD kart şimdi güvenli olarak çıkarılabilir</string>
+    <string name="sdcard_settings_bad_removal_status">SD kart kullanılırken çıkarıldı</string>
     <string name="sdcard_settings_used_bytes_label">Kullanılan bayt miktarı:</string>
-    <string name="sdcard_settings_scanning_status">Sd kartta medya aranıyor</string>
-    <string name="sdcard_settings_read_only_status">Sd kart salt okunur olarak eklendi</string>
+    <string name="sdcard_settings_scanning_status">SD kartta medya aranıyor</string>
+    <string name="sdcard_settings_read_only_status">SD kart salt okunur olarak eklendi</string>
     <string name="skip_label">Atla</string>
     <string name="next_label">İleri</string>
     <string name="language_picker_title">Dil</string>
@@ -334,7 +334,7 @@
     <string name="battery_info_label">Pil bilgileri</string>
     <string name="display_label">Ekran</string>
     <string name="phone_info_label">Telefon bilgileri</string>
-    <string name="sd_card_settings_label">Sd kart</string>
+    <string name="sd_card_settings_label">SD kart</string>
     <string name="proxy_settings_label">Proxy ayarları</string>
     <string name="cancel">İptal et</string>
     <string name="settings_label">Ayarlar</string>
@@ -379,8 +379,8 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler"</string>
     <string name="biometric_weak_liveliness_summary">Kilit açma sırasında göz kırpma gerektir</string>
     <string name="lock_after_timeout">Otomatik kilitle</string>
     <string name="lock_after_timeout_summary">Uykuya geçtikten %1$s sonra</string>
-    <string name="show_owner_info_on_lockscreen_label">Kilit ekranı sahip bilgisi</string>
-    <string name="owner_info_settings_title">Kilit ekranı sahip bilgisi</string>
+    <string name="show_owner_info_on_lockscreen_label">Kilit ekranı mesajı</string>
+    <string name="owner_info_settings_title">Kilit ekranı mesajı</string>
     <string name="security_enable_widgets_title">Araçları etkinleştir</string>
     <string name="security_enable_widgets_disabled_summary">Yönetici tarafından devre dışı bırakıldı</string>
     <string name="owner_info_settings_summary" />
@@ -727,7 +727,7 @@ Telefonun kurulumu önemli miktarda ağ etkinliği gerektirebilir"</string>
     <string name="wifi_p2p_menu_search">Cihaz ara</string>
     <string name="wifi_p2p_menu_searching">Aranıyor</string>
     <string name="wifi_p2p_menu_rename">Cihazı yeniden adlandır</string>
-    <string name="wifi_p2p_peer_devices">Eş cihazlar</string>
+    <string name="wifi_p2p_peer_devices">Eşleşen cihazlar</string>
     <string name="wifi_p2p_remembered_groups">Hatırlanan gruplar</string>
     <string name="wifi_p2p_failed_connect_message">Bağlantı kurulamadı</string>
     <string name="wifi_p2p_failed_rename_message">Cihaz yeniden adlandırılamadı</string>
@@ -887,7 +887,7 @@ Pin yanlış olabilir"</string>
     <string name="device_status_summary">Telefon numarası ve sinyal</string>
     <string name="storage_settings">Depolama</string>
     <string name="storage_settings_title">Depolama ayarları</string>
-    <string name="storage_settings_summary">Sd kartın bağlantısını kes, kullanılan depolama alanını görüntüle</string>
+    <string name="storage_settings_summary">SD kartın bağlantısını kes, kullanılan depolama alanını görüntüle</string>
     <string name="status_imei">İmei</string>
     <string name="status_imei_sv">İmei Sv</string>
     <string name="status_number">Telefon numaram</string>
@@ -910,7 +910,7 @@ Pin yanlış olabilir"</string>
     <string name="status_up_time">Açık kalma süresi</string>
     <string name="status_awake_time">Uyanık geçen süre</string>
     <string name="internal_memory">Dahili dep birm</string>
-    <string name="sd_memory">Sd kart</string>
+    <string name="sd_memory">SD kart</string>
     <string name="memory_available">Kullanılabilir</string>
     <string name="memory_available_read_only">Kullanılabilir (Salt okunur)</string>
     <string name="memory_size">Toplam alan</string>
@@ -922,21 +922,21 @@ Pin yanlış olabilir"</string>
     <string name="memory_music_usage">Ses (Müzik ve zil sesleri)</string>
     <string name="memory_media_misc_usage">Çeşitli</string>
     <string name="memory_media_cache_usage">Önbelleğe alınan veriler</string>
-    <string name="sd_eject">Sd kartının bağlantısını kes</string>
-    <string name="sd_eject_summary">Güvenle çıkarabilmeniz için Sd kartın bağlantısını kesin</string>
-    <string name="sd_insert_summary">Eklemek için Sd kartı cihazınıza yerleştirin</string>
-    <string name="sd_mount">Sd kart ekle</string>
+    <string name="sd_eject">SD kartının bağlantısını kes</string>
+    <string name="sd_eject_summary">Güvenle çıkarabilmeniz için SD kartın bağlantısını kesin</string>
+    <string name="sd_insert_summary">Eklemek için SD kartı cihazınıza yerleştirin</string>
+    <string name="sd_mount">SD kart ekle</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">Biçimlendir</string>
-    <string name="sd_format_summary">Sd kartınızdaki tüm veriler silinecektir</string>
+    <string name="sd_format_summary">SD kartınızdaki tüm veriler silinecektir</string>
     <string name="memory_clear_cache_title">Önbelleğe alınan veriler silinsin mi?</string>
     <string name="memory_clear_cache_message">Bu tüm uygulamaların önbellek verilerini siler</string>
     <string name="mtp_ptp_mode_summary">Mtp veya Ptp işlevi etkin</string>
-    <string name="dlg_confirm_unmount_title">Sd kartının bağlantısı kesilsin mi?</string>
-    <string name="dlg_confirm_unmount_text">Sd kartı çıkarırsanız kullanmakta olduğunuz bazı uygulamalar durur ve Sd kart yeniden takılıncaya kadar kullanılamayabilir</string>
+    <string name="dlg_confirm_unmount_title">SD kartının bağlantısı kesilsin mi?</string>
+    <string name="dlg_confirm_unmount_text">SD kartı çıkarırsanız kullanmakta olduğunuz bazı uygulamalar durur ve SD kart yeniden takılıncaya kadar kullanılamayabilir</string>
     <string name="dlg_error_unmount_title" />
-    <string name="dlg_error_unmount_text">Sd kartın bağlantısı kesilemiyor. Daha sonra tekrar deneyin</string>
-    <string name="unmount_inform_text">Sd kart bağlantısı kesilecek</string>
+    <string name="dlg_error_unmount_text">SD kartın bağlantısı kesilemiyor. Daha sonra tekrar deneyin</string>
+    <string name="unmount_inform_text">SD kart bağlantısı kesilecek</string>
     <string name="sd_ejecting_title">Kaldırılıyor</string>
     <string name="sd_ejecting_summary">Kaldırma işlemi devam ediyor</string>
     <string name="storage_low_title">Depolama alanı bitiyor</string>
@@ -1009,9 +1009,9 @@ Pin yanlış olabilir"</string>
 "<li>Diğer kullanıcı verileri</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>Sd kartın</b> silinmesi gerekir</string>
-    <string name="erase_external_storage">Sd kartı sil</string>
-    <string name="erase_external_storage_description">Sd kartınızdaki tüm veriler silinir</string>
+Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>SD kartın</b> silinmesi gerekir</string>
+    <string name="erase_external_storage">SD kartı sil</string>
+    <string name="erase_external_storage_description">SD kartınızdaki tüm veriler silinir</string>
     <string name="master_clear_button_text">Telefonu sıfırla</string>
     <string name="master_clear_final_desc">Tüm kişisel bilgilerinizi ve indirilen tüm uygulamaları silmek istiyor musunuz?</string>
     <string name="master_clear_final_button_text">Her şeyi sil</string>
@@ -1019,14 +1019,14 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>Sd kar
     <string name="master_clear_gesture_explanation">Fabrika verilerine sıfırlamayı onaylamak için kilit açma deseninizi çizmeniz gerekir</string>
     <string name="master_clear_failed">Sistem temizleme hizmeti kullanılamadığından sıfırlama yapılmadı</string>
     <string name="master_clear_confirm_title">Sıfırlansın mı?</string>
-    <string name="media_format_title">Sd kartı sil</string>
-    <string name="media_format_summary">Sd karttaki tüm verileri siler</string>
+    <string name="media_format_title">SD kartı sil</string>
+    <string name="media_format_summary">SD karttaki tüm verileri siler</string>
     <string name="media_format_desc">Karttaki tüm veriler silinecektir. Biçimlendirmek istediğinize emin misiniz?</string>
-    <string name="media_format_button_text">Sd kartı sil</string>
+    <string name="media_format_button_text">SD kartı sil</string>
     <string name="media_format_final_desc">Burada saklanan tüm dosyalar silinecektir. Biçimlendirmek istediğinize emin misiniz?</string>
     <string name="media_format_final_button_text">Her şeyi sil</string>
     <string name="media_format_gesture_prompt">Kilit açma deseninizi çizin</string>
-    <string name="media_format_gesture_explanation">Sd kartı silmek istediğinizi onaylamak için kilit açma desenini çizmeniz gerekmektedir</string>
+    <string name="media_format_gesture_explanation">SD kartı silmek istediğinizi onaylamak için kilit açma desenini çizmeniz gerekmektedir</string>
     <string name="call_settings_title">Arama ayarları</string>
     <string name="call_settings_summary">Sesli mesaj, arama yönlendirme ve bekletme arayan kimliğini ayarları</string>
     <string name="tether_settings_title_usb">Usb internet paylaşımı</string>
@@ -1152,10 +1152,10 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>Sd kar
     <string name="applications_settings_summary">Uygulamaları yönet ve hızlı başlatma kısayollarını ayarla</string>
     <string name="applications_settings_header">Uygulama ayarları</string>
     <string name="install_applications">Bilinmeyen kaynaklar</string>
-    <string name="install_unknown_applications">Bilinmeyen kaynaklardan uygulamaları yüklemeye izin ver</string>
+    <string name="install_unknown_applications">Bilinmeyen kaynaklardan uygulamaları yüklemeye izin verir</string>
     <string name="install_all_warning">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından yalnızca kendinizin sorumlu olduğunu kabul edersiniz</string>
     <string name="verify_applications">Uygulamaları doğrula</string>
-    <string name="verify_applications_summary">Zararlı olabilecek uygulamaların yüklenmesine izin verir veya uyarı alırsınız</string>
+    <string name="verify_applications_summary">Zararlı olabilecek uygulamaların yüklenmesine izin veya uyarı verir</string>
     <string name="advanced_settings">Gelişmiş ayarlar</string>
     <string name="advanced_settings_summary">Diğer ayar seçeneklerini etkinleştirin</string>
     <string name="application_info_label">Uygulama bilgileri</string>
@@ -1173,7 +1173,7 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>Sd kar
     <string name="application_size_label">Uygulama</string>
     <string name="external_code_size_label">Usb bellek uygulaması</string>
     <string name="data_size_label">Veri</string>
-    <string name="external_data_size_label">Sd kart</string>
+    <string name="external_data_size_label">SD kart</string>
     <string name="uninstall_text">Kaldır</string>
     <string name="uninstall_all_users_text">Yüklemeyi tüm kullanıcılar için kaldır</string>
     <string name="install_text">Yükle</string>
@@ -1212,12 +1212,12 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>Sd kar
     <string name="filter_apps_disabled">Devre dışı</string>
     <string name="filter_apps_third_party">İndirilenler</string>
     <string name="filter_apps_running">Çalışanlar</string>
-    <string name="filter_apps_onsdcard">Sd kartta</string>
+    <string name="filter_apps_onsdcard">SD kartta</string>
     <string name="disabled">Devre dışı</string>
     <string name="not_installed">Yüklü değil</string>
     <string name="no_applications">Uygulama yok</string>
     <string name="internal_storage">Dahili Bellek</string>
-    <string name="sd_card_storage">Sd kart dep brm</string>
+    <string name="sd_card_storage">SD kart dep brm</string>
     <string name="recompute_size">Boyut yeniden hesaplanıyor</string>
     <string name="clear_data_dlg_title">Uygulama verileri silinsin mi?</string>
     <string name="clear_data_dlg_text">Bu uygulamanın tüm verileri kalıcı olarak silinecek. Bu veriler arasında tüm dosyalar, ayarlar, hesaplar, veritabanları yer alıyor</string>
@@ -1244,7 +1244,7 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>Sd kar
     <string name="version_text">Sürüm %1$s</string>
     <string name="move_app">Taşı</string>
     <string name="move_app_to_internal">Telefona taşı</string>
-    <string name="move_app_to_sdcard">Sd karta taşı</string>
+    <string name="move_app_to_sdcard">SD karta taşı</string>
     <string name="moving">Taşınıyor</string>
     <string name="insufficient_storage">Yeterli depolama alanı yok</string>
     <string name="does_not_exist">Uygulama mevcut değil</string>
@@ -1407,10 +1407,10 @@ Ekle düğmesini kullanarak kelime ekleyebilirsiniz"</string>
     <string name="dev_settings_warning_message">Bu ayarlar yalnızca geliştirme amaçlıdır. Cihazınızın veya cihazdaki uygulamaların bozulmasına veya hatalı çalışmasına neden olabilir</string>
     <string name="verify_apps_over_usb_title">"Usb'den yüklenen uygulamaları doğrula"</string>
     <string name="verify_apps_over_usb_summary">Adb veya Adt üzerinden yüklenen uygulamaları zararlı davranışlara karşı denetler</string>
-    <string name="enforce_read_external_title">Sd kartı koru</string>
-    <string name="enforce_read_external_summary">Uygulamalar Sd kartı okumak için izin istemelidir</string>
-    <string name="enforce_read_external_confirm_title">Sd kart korunsun mu?</string>
-    <string name="enforce_read_external_confirm_message">"Sd kart korumalı olduğunda uygulamaların harici depolama biriminden veri okumak için izin istemeleri gerekir
+    <string name="enforce_read_external_title">SD kartı koru</string>
+    <string name="enforce_read_external_summary">Uygulamalar SD kartı okumak için izin istemelidir</string>
+    <string name="enforce_read_external_confirm_title">SD kart korunsun mu?</string>
+    <string name="enforce_read_external_confirm_message">"SD kart korumalı olduğunda uygulamaların harici depolama biriminden veri okumak için izin istemeleri gerekir
 
 Bazı uygulamalar, geliştiricileri tarafından güncellenene kadar çalışmayabilir"</string>
     <string name="enable_terminal_title">Yerel terminal</string>
@@ -1701,8 +1701,8 @@ Cihazda birden fazla kullanıcı varsa, kilit ekranında bu kısayol kullanıld�
     <string name="gadget_brightness_state_off">Kapalı</string>
     <string name="vpn_settings_title">Vpn</string>
     <string name="credentials_title">Kimlik bilgileri deposu</string>
-    <string name="credentials_install">Sd karttan yükle</string>
-    <string name="credentials_install_summary">Sertifikaları Sd karttan yükle</string>
+    <string name="credentials_install">SD karttan yükle</string>
+    <string name="credentials_install_summary">Sertifikaları SD karttan yükle</string>
     <string name="credentials_reset">Kimlik bilgilerini temizle</string>
     <string name="credentials_reset_summary">Tüm sertifikaları kaldır</string>
     <string name="trusted_credentials">Güvenilir kimlik bilgisi</string>
@@ -2142,25 +2142,33 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="regulatory_info_text" />
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wifi kapalı olduğundan kablosuz görüntü devre dışı</string>
     <string name="cell_broadcast_settings_summary">Acil uyarıları görüntülemek için türlerini seçin</string>
-    <string name="screen_timeout_title">Uyku modu</string>
+    <string name="screen_timeout_title">Uyku</string>
     <string name="sim_status_title">Sim durumu</string>
+    <string name="ad_service">Reklam hizmetleri</string>
+    <string name="use_personalized_ad_service">Kişiselleştirilmiş reklamlar</string>
+    <string name="reset_aaid">reklam tanımlayıcısını sıfırla</string>
+    <string name="aaid_info">"
+Reklam tanımlayıcı cihazınıza eşsiz kalıcı bir kimliktir. Reklam içeriğini seçmek için kullanabilirsiniz
+
+Kişiselleştirilmiş reklamları kullanmamayı seçerseniz reklam miktarı azalmaz ama sizin için yararlı reklamların miktarı önemli ölçüde azalacaktır"</string>
+    <string name="confirm_reset_aaid">Tamam</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="config_charging_function_name">charging</string>
     <string name="wifi_type_approval" />
     <string name="do_not_disturb_mode">Uyku</string>
-    <string name="dndm_notification">Uyku modu etkin</string>
+    <string name="dndm_notification">Uyku etkin</string>
     <string name="dndm_open">Uyku</string>
     <string name="dndm_auto_setting_group">Planlama</string>
     <string name="dndm_auto_button_title">Uyku tekrar zamanı</string>
     <string name="dndm_auto_time_setting">Zaman ayarları</string>
     <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">Başlangıç</string>
-    <string name="dndm_auto_time_turn_on_title">Uyku modunu otomatik olarak aç</string>
+    <string name="dndm_auto_time_turn_on_title">Uykuyu otomatik olarak aç</string>
     <string name="dndm_auto_time_turn_off">Bitiş</string>
-    <string name="dndm_auto_time_turn_off_title">Uyku modunu otomatik olarak kapat</string>
-    <string name="dndm_dlg_remove_vip">Uyku modu açık olduğunda bu kişiden gelen aramalar susturulacaktır</string>
+    <string name="dndm_auto_time_turn_off_title">Uykuyu otomatik olarak kapat</string>
+    <string name="dndm_dlg_remove_vip">Uyku açık olduğunda bu kişiden gelen aramalar susturulacaktır</string>
     <string name="dndm_dlg_remove_ok">Kaldır</string>
     <string name="dndm_menu_add_vip_custom">İstisnalar listesine ekle</string>
     <string name="dndm_mute_all">Aramalar ve mesajlar sessiz</string>
@@ -2213,7 +2221,7 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="search_sync">Senk</string>
     <string name="search_battery_indicator">Pil göstergesi</string>
     <string name="search_key">Tuşlar</string>
-    <string name="search_led">Bildirim ışığı</string>
+    <string name="search_led">Işık</string>
     <string name="search_date_time">Tarih ve saat</string>
     <string name="search_language">Dil</string>
     <string name="search_about">Hakkında</string>
@@ -2231,10 +2239,10 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="upload_debug_log_summary">"Anonim kullanıcı verileri göndererek Miui'nin gelişimine katkıda bulunun"</string>
     <string name="device_miui_version">Miui sürümü</string>
     <string name="cmcc_hardware_version">Donanım sürümü</string>
-    <string name="device_cpu">Cpu</string>
+    <string name="device_cpu">İşlemci</string>
     <string name="device_memory">Ram</string>
     <string name="device_internal_memory">Dahili hafıza</string>
-    <string name="device_sd_memory">Sd kart</string>
+    <string name="device_sd_memory">SD kart</string>
     <string name="device_cpu2_info">"2 çekirdek: "</string>
     <string name="device_cpu6_info">Hexa-core</string>
     <string name="device_cpu4_info">"4 çekirdek: "</string>
@@ -2808,7 +2816,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="turn_off_security_lock">Kilidi devre dışı bırak</string>
     <string name="change_password">Şifreyi değiştir</string>
     <string name="change_security_lock">Kilit açma yöntemini değiştir</string>
-    <string name="sync_wifi_only">Yalnızca wifi ile</string>
+    <string name="sync_wifi_only">Yalnızca wifi ile senkronize et</string>
     <string name="line_breaking_title">Metin iyileştirme</string>
     <string name="line_breaking_summary">Paragraf satır kırılmasını iyileştir</string>
     <string name="nfc_se_route_title">Güvenli pozisyon</string>
@@ -2955,7 +2963,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="lock_intro_message">Lock_intro_message</string>
     <string name="priority_storage_title">Depolama ayarları</string>
     <string name="priority_storage_summary">Verilerinizin kaydedileceği yeri seçin</string>
-    <string name="priority_storage_settings_summary">Sd kart bulunamazsa kullanıcı bilgileri cihazınızın dahili depolama birimine otomatik olarak kaydedilecektir</string>
+    <string name="priority_storage_settings_summary">SD kart bulunamazsa kullanıcı bilgileri cihazınızın dahili depolama birimine otomatik olarak kaydedilecektir</string>
     <string name="priority_storage_app_settings">Veriler %1$s adresine kayıt edilecektir</string>
     <string name="enable_mobile_data_when_opening_hotspot">Mobil veri bağlantısı da açılsın mı?</string>
     <string name="free_wifi_agreement_remind_never">Tekrar gösterme</string>
@@ -3109,7 +3117,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="lock_screen_secure_after_timeout_summary">Şifre gerekli: %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Şifre hemen gerekli</string>
     <string name="choose_smartcover_type">Kılıf türünü seç</string>
-    <string name="normal_smartcover_title">Opak ön kapak</string>
+    <string name="normal_smartcover_title">Mat ön kapak</string>
     <string name="smallwindow_smartcover_title">Şeffaf ön kapak</string>
     <string name="theme_settings_title">Temalar</string>
     <string name="wifi_eap_sim_simcard">Sim seç</string>

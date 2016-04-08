@@ -338,7 +338,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Dahili cihaz depolaması</item>
-        <item>Çıkarılabilir Sd kart</item>
+        <item>Çıkarılabilir SD kart</item>
         <item>Sistem karar versin</item>
     </string-array>
     <string-array name="app_install_location_values">
@@ -851,7 +851,7 @@
     <string-array name="usb_connection_mode_entries">
         <item>Her zaman sor</item>
         <item>Sadece şarj et</item>
-        <item>Sd kartı bağla</item>
+        <item>SD kartı bağla</item>
     </string-array>
     <string-array name="usb_connection_mode_values">
         <item>0</item>
@@ -927,8 +927,6 @@
         <item>Mor</item>
     </string-array>
     <string-array name="always_enabled_app_list">
-        <item>com.xiaomi.hm.health</item>
-        <item>cz.zdenekhorak.mibandtools</item>
         <item>com.android.contacts</item>
         <item>com.android.mms</item>
         <item>com.android.providers.applications</item>
