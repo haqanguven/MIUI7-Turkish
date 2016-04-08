@@ -16,8 +16,6 @@
     <string name="find_device_storage_corrupted">Cihazı bul depolama alanı hasarlı. Cihazınız şu anda güvenli değil</string>
     <string name="time_correction_success">Zaman doğrulandı</string>
     <string name="time_correction_failure">Zaman doğrulanamıyor (%s)</string>
-    <string name="time_correction_failure_no_ntp">Ntp sunucuları kullanılabilir durumda değil</string>
-    <string name="time_correction_failure_network">Ağ hatası</string>
     <string name="find_device_stop_noise">Sessizlik için tamama dokunun</string>
     <string name="find_device_noise_title">Cihazı ses ile bulun</string>
     <string name="find_device_success_title">Cihazı bul</string>
@@ -72,6 +70,7 @@ i.mi.com adresinde oturum açın ve cihazınızın kilidini bu adresten açmayı
     <string name="passport_notification_processing">İşleniyor</string>
     <string name="passport_notification_need_unlock_again">Yeniden kilit açmayı deneyin</string>
 	<string name="device_lost">Cihaz kayboldu</string>
+    <string name="device_locked">Bu cihaz kilitli</string>
     <string name="default_lock_msg_words_with_phone">Merhaba. Telefonumu kaybettim. Benimle irtibata geçer misiniz? Teşekkürler</string>
     <string name="default_lock_msg_words">Merhaba. Telefonumu kaybettim. Daha sonra sizinle irtibata geçeceğim. Anlayışın için teşekkür ederim</string>
     <string name="lock_msg_phone">İletişim bilgileri: %s</string>
