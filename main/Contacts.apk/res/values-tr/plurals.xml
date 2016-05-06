@@ -49,8 +49,8 @@
         <item quantity="one">%d kişi Sim karttan silinsin mi?</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d öge seçildi</item>
-        <item quantity="one">%1$d öge seçildi</item>
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d kaldı</item>

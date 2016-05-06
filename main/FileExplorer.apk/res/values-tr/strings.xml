@@ -13,7 +13,7 @@
     <string name="menu_item_cleanup">Temizle</string>
     <string name="menu_item_midrop">Paylaş</string>
     <string name="menu_item_router">Yönlendirici</string>
-    <string name="menu_item_usb">Usb</string>
+    <string name="menu_item_usb">USB</string>
     <string name="menu_item_search">Ara</string>
     <string name="operation_create_folder">Yeni klasör</string>
     <string name="menu_item_sort">Sırala</string>
@@ -42,7 +42,7 @@
     <string name="cancel">İptal et</string>
     <string name="tab_expand">Genişlet</string>
     <string name="mi_router_label">Mi yönlendirici</string>
-    <string name="usb_label">Usb</string>
+    <string name="usb_label">USB</string>
     <string name="background">Hızlı indir</string>
     <string name="no_file">Dosya yok</string>
     <string name="tab_category">Kategoriler</string>
@@ -89,7 +89,7 @@
     <string name="fail_to_rename">Dosya yeniden adlandırılamıyor. Zaten var</string>
     <string name="error_filename_too_long">Dosya adı çok uzun</string>
     <string name="enable_sd_card">SD kart kullanılabilir değil. Önce kartı bağlayın</string>
-    <string name="enable_usb">Usb cihaza bağlan</string>
+    <string name="enable_usb">USB cihaza bağlan</string>
     <string name="start_server">Servisi başlat</string>
     <string name="stop_server">Servisi durdur</string>
     <string name="notif_server_starting">Ftp sunucu başladı</string>
@@ -155,7 +155,7 @@
     <string name="user_guide_other_version">Mi hesabınızla (%1$s) oturum açın ve mi.kuaipan.cn adresinden indirin</string>
     <string name="user_guide_kuaipan_lable">Sürücü size aittir</string>
     <string name="user_guide_continue_use">Tamam</string>
-    <string name="upload_file_toolarge_message">%1$d dosya 300 Mb dan büyük olduğu için yüklenemedi</string>
+    <string name="upload_file_toolarge_message">%1$d dosya 300 MB dan büyük olduğu için yüklenemedi</string>
     <string name="cution">İpuçları</string>
     <string name="clean_trash_box">Çöp kutusu boş</string>
     <string name="trash_box_link">Ziyaret edin: pan.xiaomi.com</string>
@@ -196,7 +196,7 @@
     <string name="copy_failed">Kopyalama hatası</string>
     <string name="delete_failed">Silinemedi</string>
     <string name="toast_file_not_can_read">Dosya okunamıyor ya da bozuk</string>
-    <string name="otg_file_can_not_open">Usb üzerindeki dosya açılamıyor. Dosyayı öncelikle dahili depolama alanına kopyalayın</string>
+    <string name="otg_file_can_not_open">USB üzerindeki dosya açılamıyor. Dosyayı öncelikle dahili depolama alanına kopyalayın</string>
     <string name="ui_main_menu_option_sign_in">Oturum aç</string>
     <string name="sign_description">Oturum açılıyor</string>
     <string name="signin_error">Kullanılabilir ağ bağlantısı yok. Daha sonra tekrar deneyin</string>
@@ -254,10 +254,10 @@ Boş alanınız %1$s"</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">buraya tıklayın&lt;/a>to açık bulut geri dönüşüm kutusu</string>
     <string name="storage_internal">Dahili depolama</string>
     <string name="storage_sd_card">SD kart</string>
-    <string name="storage_usb">Usb depolama</string>
+    <string name="storage_usb">USB depolama</string>
     <string name="storage_internal_description">Dahili depolama</string>
     <string name="storage_sd_card_description">SD kart</string>
-    <string name="storage_usb_description">Usb depolama</string>
+    <string name="storage_usb_description">USB depolama</string>
     <string name="bind_account">Mi sürücü hesabını bağla</string>
     <string name="bind_account_summary">Eğer bir Mi sürücü hesabınız varsa kişisel verilerinizi almak için ekleyebilirsiniz</string>
     <string name="binded_accout_title">Mi sürücü hesabı</string>
@@ -278,14 +278,14 @@ Boş alanınız %1$s"</string>
     <string name="folder_exist">Klasör zaten var</string>
 	<string name="folder_name_illegal">Geçersiz klasör adı</string>
     <string name="folder_name_empty">Klasör adı boş olamaz</string>
-    <string name="unmount_inform_text">Usb depolama bağlantısı kesilecek</string>
-    <string name="dlg_error_unmount_text">Usb depolama kaldırılamaz. Tekrar deneyin</string>
+    <string name="unmount_inform_text">USB depolama bağlantısı kesilecek</string>
+    <string name="dlg_error_unmount_text">USB depolama kaldırılamaz. Tekrar deneyin</string>
     <string name="byteShort">B</string>
-    <string name="kilobyteShort">Kb</string>
-    <string name="megabyteShort">Mb</string>
-    <string name="gigabyteShort">Gb</string>
-    <string name="terabyteShort">Tb</string>
-    <string name="petabyteShort">Pb</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="terabyteShort">TB</string>
+    <string name="petabyteShort">PB</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">Yerel</string>
     <string name="sys_size_enable">" kullanılabilir"</string>
@@ -332,7 +332,7 @@ Boş alanınız %1$s"</string>
     <string name="open_file_failed">Açılamıyor</string>
     <string name="action_mode_deselect_all">Tüm seçimi kaldır</string>
     <string name="action_mode_select_all">Tümünü seç</string>
-    <string name="can_not_send_with_too_many">Bu kadar fazla öge gönderilemiyor</string>
+    <string name="can_not_send_with_too_many">Bu kadar fazla öğe gönderilemiyor</string>
 	<string name="file_already_downlaoded">%1$s dosya kaydediliyor</string>
     <string name="copy_file_to_kuaipan">Boş</string>
     <string name="downloading_in_3g">3G indiriliyor</string>
@@ -417,7 +417,7 @@ Boş alanınız %1$s"</string>
     <string name="search_result_hint3">" "</string>
     <string name="search_result_hint4" />
     <string name="search_result_hint5" />
-    <string name="search_result_hint6">(%d öge)</string>
+    <string name="search_result_hint6">(%d öğe)</string>
     <string name="search_result_hint7">(%d)</string>
     <string name="search_empty_view_hint">Sonuç yok</string>
     <string name="search_result_more">Daha fazla</string>
@@ -535,7 +535,7 @@ havalı çıkartmaları asla gözden kaçırmayın"</string>
     <string name="promot_enctypt_password">Cihazı kapatmak veya Çocuk modunu kapatmak için kullanılan şifreyi girin</string>
     <string name="image_loading_error">Görüntü yüklenemedi</string>
     <string name="ui_main_toast_favorite_added">Favorilere eklendi</string>
-    <string name="already_liked">Bu öge zaten beğenildi</string>
+    <string name="already_liked">Bu öğe zaten beğenildi</string>
     <string name="send_sticker">Etiket gönder</string>
     <string name="save_to_local">İndir</string>
     <string name="send_to_weixin">"Wechat'e gönder"</string>
@@ -575,7 +575,7 @@ havalı çıkartmaları asla gözden kaçırmayın"</string>
 	<string name="homepage_tab_recent">Son eklenenler</string>
     <string name="homepage_tab_category">Kategoriler</string>
     <string name="homepage_tab_file_view">Telefon</string>
-    <string name="found_usb">Usb depolama bağlı</string>
+    <string name="found_usb">USB depolama bağlı</string>
     <string name="found_router">Yönlendirici bağlı</string>
     <string name="hot_video">Popüler videolar</string>
     <string name="hot_sticker">Popüler etiketler</string>
@@ -588,7 +588,8 @@ havalı çıkartmaları asla gözden kaçırmayın"</string>
     <string name="title_upload_video">Küçük video paylaş</string>
     <string name="tag_weixin_video">Küçük videolar</string>
     <string name="tab_local_video">Yerel</string>
-    <string name="tab_remote_video">Popüler</string>
+    <string name="tab_remote_video">En son</string>
+    <string name="tab_hottest_video">Popüler</string>
     <string name="choose_report_reason">Neden bunu bildiriyorsunuz?</string>
     <string name="input_memo_hint">Ek nedenler girin (İsteğe bağlı)</string>
     <string name="upload_local_video">Küçük video paylaş</string>
@@ -635,8 +636,8 @@ havalı çıkartmaları asla gözden kaçırmayın"</string>
     <string name="video_replay">Tekrar oynat</string>
     <string name="midrop_send_files">Göndermek için dosya seçin</string>
     <string name="pick_file">Dosya seç</string>
-    <string name="disk_available">"Kullanılabilir: "</string>
-    <string name="disk_total">"Toplam: "</string>
+    <string name="disk_available">Kullanılabilir</string>
+    <string name="disk_total">Toplam</string>
     <string name="click_to_switch_volume">Dahili depolama ve SD kart arasında geçiş yapmak için buraya dokunun</string>
     <string name="midrop_msg_1">Diğer cihazda Mi damlayı aç</string>
     <string name="midrop_msg_2">Mi damla üzerinden cihazlar için yakın arama ve dosyaları gönderebilirsiniz</string>
@@ -669,5 +670,12 @@ havalı çıkartmaları asla gözden kaçırmayın"</string>
 	<string name="server_error">Sunucu hatası. Daha sonra tekrar deneyin (Hata: %s)</string>
     <string name="network_not_available">Ağa bağlanamıyor</string>
     <string name="request_timeout">Ağ isteği zaman aşımına uğradı</string>
+    <string name="hottest_sticker_str">Popüler</string>
+    <string name="no_new_content_tip">Tüm öğeler güncel</string>
+    <string name="share_title_1">Güzel etiket paketi bulundu</string>
     <string name="symbol_for_storage_tip">:</string>
+    <string name="system_video_control">Popüler videolar</string>
+    <string name="system_video_control_tip">Dosyalarda popüler videoları gösterir</string>
+    <string name="system_sticker_control">Popüler etiketler</string>
+    <string name="system_sticker_control_tip">Dosyalarda popüler etiketleri gösterir</string>
 </resources>

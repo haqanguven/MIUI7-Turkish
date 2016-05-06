@@ -68,7 +68,7 @@
     <string name="alrm_2_hrs_past">%1$s otomatik olarak kapatıldı. %2$d saat geçti</string>
     <string name="scan_channels">İstasyonları tarayın</string>
     <string name="selectall">Tümünü seç</string>
-    <string name="no_channel_selected">En az bir öge seçin</string>
+    <string name="no_channel_selected">En az bir öğe seçin</string>
     <string name="toast_airplane_mode">%s Uçuş modunda kullanılamıyor</string>
     <string name="dialog_tts_confirm">Ses sentezi için gerekli ses verisini yükleyin</string>
     <string name="RSSI">RSSI Seek ayarla (Uzun)</string>
@@ -134,7 +134,7 @@
     <string name="desc_stop">Durdur</string>
     <string name="desc_resume">Devam</string>
     <string name="desc_pause">Duraklat</string>
-    <string name="desc_cancel">İptal</string>
+    <string name="desc_cancel">İptal et</string>
     <string name="desc_frequency">Frekans</string>
     <string name="desc_close">Kapat</string>
     <string name="desc_hour">Saat</string>
@@ -210,8 +210,8 @@ Radyoyu kaydettikten sonra, kayıtlı dosyalar görüntülenecek"</string>
     <string name="notification_barge_in_args">"FM Radyo'yu %1$s, %2$s, %3$s, %4$s, %5$s ve %6$s gibi sesli komutlarla kumanda edebilirsiniz"</string>
     <string name="recording_will_be_cancelled">Kayıt işlemi iptal edilecek ve dosya kaydedilmeyecek</string>
     <string name="unable_to_play_radio_during_call">Arama sırasında radyo çalınamıyor</string>
-    <string name="dialog_one_item_deleted">Bu öge silinecek</string>
-    <string name="dialog_multiple_items_deleted">%d öge silinecek</string>
+    <string name="dialog_one_item_deleted">Bu öğe silinecek</string>
+    <string name="dialog_multiple_items_deleted">%d öğe silinecek</string>
     <string name="dialog_all_items_deleted">Tüm öğeler silinecek</string>
     <string name="turning_on">Açılıyor</string>
     <string name="not_enough_memory_recording_will_stop">Yeterli bellek yok. Kayıt %d saniye içinde duracak</string>

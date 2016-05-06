@@ -214,10 +214,10 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
 Bir dahaki periyod %4$d gün içinde başlayacak (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) ∕ %3$s periyod maksimum</string>
     <string name="throttle_data_rate_reduced_subtext">"%1$s üst limiti geçildi
-Veri hızı %2$d Kb/s'e düşürüldü"</string>
+Veri hızı %2$d KB/s'e düşürüldü"</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ dönümü geçti
 Bir dahaki periyod %2$d gün içinde başlayacak (%3$s)"</string>
-    <string name="throttle_rate_subtext">"Veri limitini aşmanız durumunda veri hızınız %1$d Kb/s'e düşürülecektir"</string>
+    <string name="throttle_rate_subtext">"Veri limitini aşmanız durumunda veri hızınız %1$d KB/s'e düşürülecektir"</string>
     <string name="throttle_help_subtext">Operatörünüzün mobil veri kullanım politikaları hakkında daha fazla bilgi</string>
     <string name="cell_broadcast_sms">Hücre mesaj yayını</string>
     <string name="enable_disable_cell_bc_sms">Hücre mesaj yayını</string>
@@ -294,7 +294,7 @@ Bir dahaki periyod %2$d gün içinde başlayacak (%3$s)"</string>
     <string name="cdma_system_select_summary">Cdma dolaşım modunu değiştir</string>
     <string name="cdma_system_select_dialogtitle">Sistem seç</string>
     <string name="cdma_subscription_title">Cdma abonelik</string>
-    <string name="cdma_subscription_summary">RUIM/SIM ve NV arasında geçiş yapın</string>
+    <string name="cdma_subscription_summary">Ruim/Sim ve NV arasında geçiş yapın</string>
     <string name="cdma_subscription_dialogtitle">abonelik</string>
     <string name="cdma_activate_device">Cihazı etkinleştir</string>
     <string name="cdma_lte_data_service">Veri servisini kur</string>
@@ -376,7 +376,7 @@ Bir dahaki periyod %2$d gün içinde başlayacak (%3$s)"</string>
     <string name="card_title_dialing">Aranıyor</string>
     <string name="card_title_redialing">Yeniden deneniyor</string>
     <string name="card_title_conf_call">Konferans araması</string>
-    <string name="card_title_threeway_call">Üç yönlü arama</string>
+    <string name="card_title_threeway_call">Üç yollu arama</string>
     <string name="card_title_incoming_call">Gelen arama</string>
     <string name="card_title_call_ended">"Arama sona erdi "</string>
     <string name="card_title_on_hold">"Beklemede "</string>
@@ -406,7 +406,7 @@ Bir dahaki periyod %2$d gün içinde başlayacak (%3$s)"</string>
     <string name="incall_error_out_of_service">Mobil ağ kullanılamıyor</string>
     <string name="incall_error_no_phone_number_supplied">Arama gönderilemedi. Girilen numara geçersiz</string>
     <string name="incall_error_call_failed">Arama gönderilemedi</string>
-    <string name="incall_status_dialed_mmi">MMI dizisine başlanıyor</string>
+    <string name="incall_status_dialed_mmi">Mmi dizisine başlanıyor</string>
     <string name="incall_error_supp_service_unknown">Desteklenmeyen servis</string>
     <string name="incall_error_supp_service_switch">Aramalar arası geçiş yapılamıyor</string>
     <string name="incall_error_supp_service_separate">Ayrı bir arama yapılamıyor</string>
@@ -436,12 +436,12 @@ Bir dahaki periyod %2$d gün içinde başlayacak (%3$s)"</string>
     <string name="onscreenAddParticipant">Katılımcı ekle</string>
     <string name="importSimEntry">İçe aktar</string>
     <string name="importAllSimEntries">Tümünü içe aktar</string>
-    <string name="importingSimContacts">SIM kişileri içe aktarılıyor</string>
+    <string name="importingSimContacts">Sim kişileri içe aktarılıyor</string>
     <string name="importToFDNfromContacts">Kişilerden içe aktar</string>
     <string name="hac_mode_title">İşitme cihazı</string>
     <string name="hac_mode_summary">İşitme cihazı uyumluluğunu aç</string>
-    <string name="dtmf_tones_title">DTMF tonları</string>
-    <string name="dtmf_tones_summary">DTMF tonlarının uzunluğunu ayarla</string>
+    <string name="dtmf_tones_title">Dtmf tonları</string>
+    <string name="dtmf_tones_summary">Dtmf tonlarının uzunluğunu ayarla</string>
     <string name="network_message">Ağ mesajı</string>
     <string name="ota_title_activate">Telefonunuzu etkinleştirin</string>
     <string name="ota_touch_activate">"Telefonunuzun etkinleştirilmesi için özel bir arama yapılması gerekiyor 
@@ -605,9 +605,9 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın"</
     <string name="sub_2">Sub 2</string>
     <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
     <string name="call_recording_error_privacy">Ziyaretçi modundayken kayıt yapılamıyor</string>
-    <string name="call_recording_error_sd_access">Sd karta ulaşılamıyor</string>
-    <string name="call_recording_error_sd_unmounted">Kayıt durduruldu: Sd kart çıkartıldı</string>
-    <string name="call_recording_error_low_storage">Yetersiz alan: Sd kartınızda yeterli alan yok</string>
+    <string name="call_recording_error_sd_access">SD karta ulaşılamıyor</string>
+    <string name="call_recording_error_sd_unmounted">Kayıt durduruldu: SD kart çıkartıldı</string>
+    <string name="call_recording_error_low_storage">Yetersiz alan: SD kartınızda yeterli alan yok</string>
     <string name="call_recording_error_start_failed">Kayıt cihazı başka bir uygulama tarafından kullanılıyor</string>
     <string name="call_recording_error_unknown">Bilinmeyen bir hata oluştu</string>
     <string name="antispam_marked_title">%1$s</string>

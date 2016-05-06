@@ -10,6 +10,7 @@
     <string name="about_app_name">Video oynatıcı</string>
     <string name="suffix_countdown">saniye</string>
     <string name="ad_moredetail">Detayları görüntüle</string>
+    <string name="vp_more_show_video">AD göster</string>
     <string name="vp_ad_skip_at">%1$d sonra atla</string>
     <string name="vp_ad_skip">Atla</string>
     <string name="vp_ad_countdown_m_s">%1$d dakika %2$s saniye atla</string>
@@ -28,7 +29,7 @@
     <string name="adjust_position_prev_media_notice">Son</string>
     <string name="adjust_position_next_media_notice">Sonraki</string>
     <string name="loading_video_netplay_label">Yükleniyor</string>
-    <string name="buffering">Arabelleğe alınıyor</string>
+    <string name="buffering">Ara belleğe alınıyor</string>
     <string name="airkan_video_playing_in">"Video olduğunda "</string>
     <string name="airkan_video_playing">Oynatılıyor</string>
     <string name="airkan_playing">Dökümlanıyor</string>
@@ -62,8 +63,8 @@
     <string name="menu_item_enable_audio_enhance">Ses geliştirme</string>
     <string name="vp_next_ci">Sonraki</string>
     <string name="vp_low_definition">Düşük</string>
-    <string name="vp_standard_definition">Sd</string>
-    <string name="vp_high_definition">Hd</string>
+    <string name="vp_standard_definition">SD</string>
+    <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">Süper</string>
     <string name="vp_full_high_definition">1080P</string>
     <string name="vp_content_description">Açıklama</string>
@@ -144,7 +145,11 @@
     <string name="vp_player_plugin_dlg_no_content">Video oynatıcı eklentileri yok</string>
     <string name="vp_download_apk_from_video_ad">Uygulamayı yükle</string>
     <string name="vp_app_download">Uygulamayı indir</string>
-    <string name="app_name">Video</string>
+    <string name="app_name">Videolar</string>
+    <string name="path_settings">Video ve ayarlar</string>
+    <string name="path_develop_settings">Video, ayarlar ve geliştirici ayarları</string>
+    <string name="search_settings">Video ayarları;mobil ağlar;wifi;video oynatıcı;itme;bildirim;ön bellek;geliştirici ayarları</string>
+    <string name="search_develop_settings">Geliştirici ayarları;sürüm seçme;mevcut sürüm;video yükseltme;sürüm;forum;performans;fotoğraf kalitesi;oynatma eklentileri</string>
     <string name="declaration_allow">Kabul et</string>
     <string name="declaration_content_td_custom">Bu özelliğin çalışması için internete bağlanmanız gerekiyor</string>
     <string name="declaration_content">1. Bu hizmeti kullanarak Sohu video, iQiyi ve diğer içerik sağlayıcılar kabul etmiş olursunuz: <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Kullanım koşulları</a>"
@@ -224,7 +229,7 @@
     <string name="personal_center">Kişisel merkez</string>
     <string name="not_login">Oturum açık değil</string>
     <string name="click_to_login">Oturum açmak için dokunun</string>
-    <string name="gong_count_ge">%d öge</string>
+    <string name="gong_count_ge">%d öğe</string>
     <string name="online_video">Çevrimiçi</string>
     <string name="online_video_oneweek">Geçen hafta</string>
     <string name="online_video_oneweek_ago">Bir hafta önce</string>
@@ -246,8 +251,8 @@
     <string name="clear_cache">Görüntü önbelleğini temizle</string>
     <string name="clear_cache_summary">Video tarayıcıdan önbelleğe alınmış görüntüleri temizler</string>
     <string name="clear_cache_success">Önbellek temizlendi</string>
-    <string name="priority_storage">Sd karta kaydet</string>
-    <string name="priority_storage_summary">Otomatik olarak harici Sd karta kaydet</string>
+    <string name="priority_storage">SD karta kaydet</string>
+    <string name="priority_storage_summary">Otomatik olarak harici SD karta kaydet</string>
     <string name="development_setting">Gelişmiş ayarlar</string>
     <string name="develop_version">Gelişmiş sürüm</string>
     <string name="receive_develop_summary">Geliştirilen yeni sürüm güncellemesini al</string>
@@ -427,6 +432,7 @@
     <string name="open_in_browser">Tarayıcıda aç</string>
     <string name="subscribe">Abone ol</string>
     <string name="detail">Detay</string>
+    <string name="enter_detail">Daha fazla bilgi</string>
 	<string name="month">Ay</string>
     <string name="day">Gün</string>
     <string name="update">Güncelle</string>
@@ -447,13 +453,13 @@
     <string name="connect_error">Bağlantı hatası</string>
     <string name="source_error">Kaynak hatası</string>
     <string name="download_error">Çevrimdışı hatası</string>
-    <string name="download_file_fail">Yerel dosya erişimi hatası. Belki Sd kart üzerinde yer yoktur</string>
+    <string name="download_file_fail">Yerel dosya erişimi hatası. Belki SD kart üzerinde yer yoktur</string>
     <string name="offline_max_promote">Önbellek bekleniyor. 2 önbellek görevi aynı anda çalıştırıyor olabilir</string>
     <string name="addon_category">Eklentiler</string>
     <string name="add_more_addons">Daha fazla eklenti ekle</string>
     <string name="pick_addon_to_delete">Ögeleri seç</string>
     <string name="delete_addon">Sil</string>
-    <string name="delete_addon_content">Öge silinsin mi?</string>
+    <string name="delete_addon_content">Öğe silinsin mi?</string>
     <string name="install_comfirm">Yüklemek için dokunun</string>
     <string name="start_addon">Eklentiyi başlat</string>
     <string name="addon_install_complete_disc">%s eklenti yüklendi</string>
@@ -462,8 +468,8 @@
     <string name="sdcard_storage">Dahili bellek</string>
     <string name="disk_volume">Çıkarılabilir depolama</string>
     <string name="gong_count_dlna">%d Dlna</string>
-    <string name="gong_count_xiang">%d öge</string>
-    <string name="count_ge">%d öge</string>
+    <string name="gong_count_xiang">%d öğe</string>
+    <string name="count_ge">%d öğe</string>
     <string name="myfavorite">Yıldız</string>
     <string name="recentplay">Son oynatılan</string>
     <string name="mycamera">Videolarım</string>

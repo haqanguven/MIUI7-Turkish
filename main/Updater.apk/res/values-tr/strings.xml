@@ -65,7 +65,7 @@
     <string name="notification_reboot_btn">Yeniden başlat</string>
     <string name="notification_reboot_seccess_title">Cihaz güncellendi</string>
     <string name="notification_auto_reboot_seccess_title">Cihaz otomatik olarak güncellenecektir</string>
-    <string name="notification_reboot_seccess_des">Güncelleme bilgilerini paylaşmak için dokunun</string>
+    <string name="notification_reboot_seccess_des">Güncelleme bilgisini paylaşmak için dokunun</string>
     <string name="notification_share">Paylaş</string>
     <string name="notification_downloading">Güncelleme indiriliyor</string>
     <string name="notification_updating">Güncelleniyor</string>

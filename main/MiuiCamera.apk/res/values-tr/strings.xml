@@ -9,7 +9,7 @@
     <string name="no_storage">Kamerayı kullanmadan önce SD kartı takın</string>
     <string name="not_enough_space">Dahili depolama dolu</string>
     <string name="preparing_sd">Dahili depolama denetleniyor</string>
-    <string name="access_sd_fail">Usb depolamaya erişilemedi</string>
+    <string name="access_sd_fail">USB depolamaya erişilemedi</string>
     <string name="confirm_restore_title">Varsayılan ayarları geri yükle</string>
     <string name="confirm_restore_message">Kameranın varsayılan ayarları geri yüklensin mi?</string>
     <string name="confirm_location_title">Fotoğraf konumları hatırlatılsın mı?</string>
@@ -379,8 +379,8 @@
     <string name="pref_camera_setting_switch_default">off</string>
     <string name="pref_camera_setting_switch_entryvalue_off">off</string>
     <string name="pref_camera_setting_switch_entryvalue_on">on</string>
-    <string name="pref_video_speed_fast_title">Hızlandırılmış</string>
-    <string name="pref_video_speed_slow_title">Yavaşlatılmış</string>
+    <string name="pref_video_speed_fast_title">Hızlı çekim</string>
+    <string name="pref_video_speed_slow_title">Yavaş çekim</string>
     <string name="pref_camera_manual_mode_title">El ile yakala</string>
     <string name="effect_setting_top_text">Filtreler</string>
     <string name="pref_camera_settings">Cihaz</string>

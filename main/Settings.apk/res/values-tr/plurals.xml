@@ -61,11 +61,11 @@
         <item quantity="one">Hata bildirimi için %1$d adım uzaklıktasınız</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">%d uygulama için devre dışı bırak</item>
-        <item quantity="one">1 uygulama için devre dışı bırak</item>
+        <item quantity="other">%d uygulama için devre dışı bırakıldı</item>
+        <item quantity="one">1 uygulama için devre dışı bırakıldı</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">%d uygulama için devre dışı bırakma</item>
-        <item quantity="one">1 uygulama için devre dışı bırakma</item>
+        <item quantity="other">%d uygulama için etkinleştirildi</item>
+        <item quantity="one">1 uygulama için etkinleştirildi</item>
     </plurals>
 </resources>

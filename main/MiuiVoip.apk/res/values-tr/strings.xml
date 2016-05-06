@@ -37,6 +37,8 @@
     <string name="pref_key_cur_activated_number_title">Telefon numarası</string>
     <string name="pref_key_cur_activated_number_summary">Rehberde numarayı bulmak için kullanabilirsiniz</string>
     <string name="pref_key_only_voip_with_contacts_title">Sadece kişiler aramalar için kullan</string>
+    <string name="blocklist_turn_on_title">Mi ses engelleme listesi</string>
+    <string name="blocklist_turn_on_notice">Mi ses engelleme listesinin açılması düzenli aramalar ve mesajlar için mevcut engelleme listesinin kurallarını etkilemeyecektir. Açılsın mı?</string>
     <string name="pref_key_blacklist_title">Engellenen numara</string>
     <string name="st_show_num_number">" numara"</string>
     <string name="voip_call_saved">" %d dakika kaydedildi"</string>
@@ -86,8 +88,20 @@
     <string name="voip_about">Mi ses</string>
     <string name="voip_about_gif_desc">Bir kişinin bilgi sayfasından doğrudan Mi sesi kullanarak arama yapın</string>
     <string name="voip_about_net_title">Mobil veri kullanımı</string>
-    <string name="voip_about_net_desc">Mi ses ile arama yapma yaparken dakikada en az 400 Kb kullanır (Standart 300M. Aylık plan üzerinden yaklaşık olarak 0,02 yuan)</string>
+    <string name="voip_about_net_desc">Mi ses ile arama yapma yaparken dakikada en az 400 KB kullanır (Standart 300 MB. Aylık plan üzerinden yaklaşık olarak 0,02 yuan)</string>
     <string name="voip_about_support_title">Herhangi bir Android cihaz araması</string>
     <string name="voip_about_support_desc">"Mi cihazı kullanan kişinin Mi sesin açık olduğundan emin olun"</string>
     <string name="voip_support_net_tips">Wifi, 3G ya da daha yüksek mobil veri bağlantısını kullanın</string>
+	<string name="voip_contact_label">Mi ses</string>
+    <string name="voip_shortcut_name">Mi ses</string>
+    <string name="voip_loading_contact">Yükleniyor</string>
+    <string name="create_voip_shortcut_success">Kısayol oluşturuldu</string>
+    <string name="no_voip_contacts">Voip kişisi yok</string>
+    <string name="missing_name">(İsim yok)</string>
+    <string name="starred_contacts">Favoriler</string>
+    <string name="other_contacts">Diğer kişiler</string>
+    <string name="menu_create_contact_shortcut">Ana ekranda konumu</string>
+    <string name="pull_to_refresh_pull_label">Yenilemek için çekin</string>
+    <string name="pull_to_refresh_release_label">Yenilemek için bırakın</string>
+    <string name="pull_to_refresh_refreshing_label">Yükleniyor</string>
 </resources>

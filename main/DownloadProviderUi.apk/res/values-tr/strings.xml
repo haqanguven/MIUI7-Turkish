@@ -34,8 +34,8 @@
     <string name="download_share_dialog">Paylaş</string>
     <string name="action_settings">Ayarlar</string>
     <string name="storage_internal">Dahili depolama</string>
-    <string name="storage_sd_card">Sd kart</string>
-    <string name="storage_usb">Usb depolama</string>
+    <string name="storage_sd_card">SD kart</string>
+    <string name="storage_usb">USB depolama</string>
     <string name="dialog_confirm_delete_downloads_message">%d görev silinsin mi?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Görevi sil</string>
     <string name="dialog_confirm_delete_checkbox_message">Yerel dosyayı sil</string>
@@ -196,10 +196,10 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="expire_today_notification_msg">Üyeliğin bugün sona eriyor</string>
     <string name="start_xunlei_speedup_info">İndirme işlemlerinizi hızlandırmak için oturum açın</string>
     <string name="DOWNLOAD_UNIT_BIT">B</string>
-    <string name="DOWNLOAD_UNIT_KB">Kb</string>
-    <string name="DOWNLOAD_UNIT_MB">Mb</string>
-    <string name="DOWNLOAD_UNIT_GB">Gb</string>
-    <string name="DOWNLOAD_UNIT_TB">Tb</string>
+    <string name="DOWNLOAD_UNIT_KB">KB</string>
+    <string name="DOWNLOAD_UNIT_MB">MB</string>
+    <string name="DOWNLOAD_UNIT_GB">GB</string>
+    <string name="DOWNLOAD_UNIT_TB">TB</string>
     <string name="start_download">İndir</string>
     <string name="starting_analysis">Bilgi alınıyor</string>
     <string name="network_error">Ağa bağlanılamıyor</string>
@@ -268,15 +268,18 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="sniff_terms_agree">Kabul et</string>
     <string name="sniff_terms_title">Uyarı</string>
     <string name="sniff_terms_msg_bold">Kullanım koşulları</string>
-    <string name="sniff_result_website_intro">Toplam &lt;font color=\"#6699ff\">%1$d&lt;/font> öge | Kaynak: %2$s</string>
+    <string name="sniff_terms_msg_a">Bu arama özelliği bir üçüncü taraf geliştiriciler tarafından sağlanmıştır. Bunu kullanmadan önce hizmet şartlarını kabul etmeniz gerekir</string>
+    <string name="sniff_terms_msg_b">Bu arama özelliği bir üçüncü taraf geliştiriciler tarafından sağlanmıştır. Bunu kullanmadan önce hizmet şartlarını kabul etmeniz gerekir. Şartları kabul ediyorsanız aşağıdaki onay işaretine dokunun</string>
+    <string name="sniff_terms_check_text">Hizmet şartlarını kabul et</string>
+    <string name="sniff_terms_msg_bold_new">Kullanım koşulları</string>
+    <string name="sniff_terms_agree_new">Kabul et</string>
+    <string name="sniff_result_website_intro">Toplam &lt;font color=\"#6699ff\">%1$d&lt;/font> öğe | Kaynak: %2$s</string>
     <string name="sniff_result_num_prefix">Bulunan:</string>
-    <string name="sniff_result_num_video_suffix">öge</string>
+    <string name="sniff_result_num_video_suffix">öğe</string>
     <string name="sniff_result_num_website_suffix">internet sitesi</string>
     <string name="sniff_btn_text">Kaynağı bul</string>
     <string name="sniff_sniffing_btn_text">Kaynak aranıyor</string>
     <string name="sniff_result_empty_prompt">Kaynak bulunamadı</string>
-    <string name="sniff_find_some_prefix">Bulunan:</string>
-    <string name="sniff_find_some_suffix">öge</string>
     <string name="sniff_finding_resource_prompt">Kaynak aranıyor</string>
     <string name="sniff_no_network_tip">Ağ bağlantınızı kontrol edin ve yeniden deneyin</string>
     <string name="web_dialog_confirm">Tamam</string>
@@ -398,9 +401,9 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="search_website_more">Daha fazla</string>
     <string name="search_history_today">Bugün</string>
     <string name="search_history_yesterday">Dün</string>
-    <string name="search_recommend_empty">Öge yok</string>
+    <string name="search_recommend_empty">Öğe yok</string>
     <string name="search_favorite_empty">Sık kullanılanlara bazı kaynakları ekle</string>
-    <string name="search_history_empty">Öge yok</string>
+    <string name="search_history_empty">Öğe yok</string>
     <string name="notify_not_support">Bu tür bildirimler desteklenmez. Şimdi güncelle</string>
     <string name="search_hot_movie">Filmler</string>
     <string name="search_hot_tv">TV şovları</string>
@@ -408,5 +411,14 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="search_hot_anime">Çizgi film</string>
     <string name="search_history_month">dd MM</string>
     <string name="search_history_year">dd MM yyyy</string>
+	<string name="no_share_file">Bu dosya paylaşılamaz</string>
+    <string name="no_share_file_content">Seçtiğiniz dosya zaten silindi</string>
+    <string name="no_share_files">Silinmiş dosyalar paylaşılamaz</string>
+    <string name="no_share_files_content">Paylaşmak için çalışıyoruz Bazı dosyalar daha önceden silinmiş. Diğer dosyalar paylaşıldı</string>
+    <string name="all_share_files_content">Seçtiğiniz dosyalar zaten silindi</string>
+    <string name="save_text">%1$s ￥ tasarruf</string>
+    <string name="sniff_copyright_text">Sonuçlar telif hakkı sorunları nedeniyle kullanılamaz</string>
+    <string name="extend">Uzat</string>
+    <string name="task_fail">Başarısız oldu</string>
     <string name="download_title">İndirmeler</string>
 </resources>

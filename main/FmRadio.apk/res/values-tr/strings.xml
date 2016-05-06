@@ -43,7 +43,7 @@
     <string name="replace">Değiştir</string>
     <string name="mhz">MHz</string>
     <string name="setting_region">Bölge</string>
-    <string name="setting_backgroud_playing">Arkaplanda yürütme</string>
+    <string name="setting_backgroud_playing">Arka planda yürütme</string>
     <string name="setting_sationid">İstasyon kimliğini göster</string>
     <string name="setting_af">Alternatif frekans</string>
     <string name="setting_autooff">Otomatik kapatma</string>
@@ -81,7 +81,7 @@
     <string name="alrm_2_hrs_past">Otomatik fm radyo kapalı. %d saat geçti</string>
     <string name="scan_channels">Tara</string>
     <string name="selectall">Hepsini seç</string>
-    <string name="no_channel_selected">En az bir öge seçin</string>
+    <string name="no_channel_selected">En az bir öğe seçin</string>
     <string name="toast_airplane_mode">Çevrimdışı modda iken fm Radyo kullanılamaz</string>
     <string name="dialog_tts_confirm">Ses sentezi için gerekli ses verisini yükleyin</string>
     <string name="RSSI">Rssı aramayı ayarla (Uzun)</string>
@@ -203,7 +203,7 @@ Radyo kaydettikten sonra kaydedilen dosyaları görüntülenir"</string>
     <string name="notification_barge_in_args">Ses komutları ile fm Radyoyu kontrol edebilirsiniz %1$s, %2$s, %3$s, %4$s, %5$s, ve %6$s</string>
     <string name="recording_will_be_cancelled">Kaydetme iptal edilecek ve dosya kaydedilmeyecek</string>
     <string name="unable_to_play_radio_during_call">Görüşme sırasında çalmak için radyo açılamıyor</string>
-    <string name="dialog_one_item_deleted">Bu öge silinecek</string>
+    <string name="dialog_one_item_deleted">Bu öğe silinecek</string>
     <string name="dialog_multiple_items_deleted">%1$d ürün silinecektir</string>
     <string name="dialog_all_items_deleted">Tüm öğeler silinecek</string>
     <string name="turning_on">Çevirme açık</string>

@@ -39,7 +39,7 @@
     <string name="downloading">İndiriliyor</string>
     <string name="download_completed">İndirme %s konumuna kaydedildi</string>
     <string name="download_failed">İndirme işlemi başarısız</string>
-    <string name="download_failed_storage">İndirme işlemi başarısız. Sd kartınızı kontrol edin</string>
+    <string name="download_failed_storage">İndirme işlemi başarısız. SD kartınızı kontrol edin</string>
     <string name="download_failed_network">Ağa bağlanılamıyor</string>
     <string name="download_failed_gone">Dosya mevcut değil</string>
     <string name="download_failed_server">İndirme işlemi başarısız</string>
@@ -278,7 +278,7 @@ Takip numaranızı kontrol edin"</string>
     <string name="express_order_succeeded">Başarılı</string>
     <string name="express_order_failed">Başarısız</string>
     <string name="express_field_empty">Boş</string>
-    <string name="express_cancel_order">İptal</string>
+    <string name="express_cancel_order">İptal et</string>
     <string name="express_delete_order">Sil</string>
     <string name="express_order_state_ordered">Sipariş edildi</string>
     <string name="express_order_state_processing">İşleniyor</string>

@@ -10,7 +10,7 @@
     <string name="change_to_card_memory">Yeterli hafıza yok. Varsayılan kayıt yeri hafıza kartı olarak değiştirildi</string>
     <string name="burst_shot_disabled">Çoklu çekim devre dışı</string>
     <string name="change_to_phone_memory">Yeterli hafıza yok. Varsayılan kayıt yeri telefon hafızası olarak değiştirildi</string>
-    <string name="change_to_device_memory">Sd kartta yeterli alan yok. Varsayılan kayıt yeri cihaz depolama olarak değiştirildi</string>
+    <string name="change_to_device_memory">SD kartta yeterli alan yok. Varsayılan kayıt yeri cihaz depolama olarak değiştirildi</string>
     <string name="video_reach_size_limit">Maksimum kaydetme boyutuna ulaşıldı</string>
     <string name="video_reach_time_limit">Maksimum kaydetme süresine ulaşıldı</string>
     <string name="processing_msg">Uygulanıyor</string>
@@ -217,7 +217,7 @@
     <string name="Title_SoundShotMode">Ses &amp; çekim modu</string>
     <string name="Dialog_Yes">Evet</string>
     <string name="Dialog_No">Hayır</string>
-    <string name="Add_Me_Helptext">İnsanlarla arkaplanı birbirine bağlayarak görsel kompozisyon oluşturun</string>
+    <string name="Add_Me_Helptext">İnsanlarla arka planı birbirine bağlayarak görsel kompozisyon oluşturun</string>
     <string name="Action_Shot_Helptext">Hareketli nesne panoraması oluşturun</string>
     <string name="Stop_Motion_Helptext">Sürekli çekimlerle animasyon oluşturun</string>
     <string name="Cartoon_Helptext">Fotoğrafı karikatüre dönüştür</string>
@@ -238,9 +238,9 @@ Otomatik çekim paylaşmayı etkinleştirin ardından bağlanmak için cihazlar�
     <string name="Title_InsertMemoryCardDailog">Kamera kullanmak için hafıza kartı takın</string>
     <string name="OnScreen_HelpTextTouchAF">Dokunulan alana odaklanmak için ekrana basın</string>
     <string name="media_scanner_running">Ortam tarayıcı çalışıyor</string>
-    <string name="close_camera_when_mmc_inserted">Sd kart takılı. Sd karttaki ortam dosyalarını taramak için %s kapatıldı</string>
+    <string name="close_camera_when_mmc_inserted">SD kart takılı. SD karttaki ortam dosyalarını taramak için %s kapatıldı</string>
     <string name="close_camera_when_media_mounted">Ortam dosyalarının taranması için fotoğraf makinesi kapatıldı</string>
-    <string name="close_camera_for_unmounted_memory">Kamera kullanmadan önce Usb belleği kapat</string>
+    <string name="close_camera_for_unmounted_memory">Kamera kullanmadan önce USB belleği kapat</string>
     <string name="message_size_limited">Mesaj boyut sınırına ulaşıldı</string>
     <string name="crop_save_text">Kaydet</string>
     <string name="crop_discard_text">Sil</string>
@@ -250,7 +250,7 @@ Otomatik çekim paylaşmayı etkinleştirin ardından bağlanmak için cihazlar�
     <string name="low_database_storage_view_text">Veritabanı saklama alanı neredeyse dolu</string>
     <string name="camera_security_enter">Güvenlik ilkesi Kamera kullanımını kısıtlıyor</string>
     <string name="camera_security_exit">Güvenlik ilkesi Kamera kullanımını kısıtlıyor. Kameradan çık</string>
-    <string name="cannot_write_file">Dosya Sd karta kaydedilemedi. Varsayılan kayıt yeri cihaz belleği olarak değiştirildi</string>
+    <string name="cannot_write_file">Dosya SD karta kaydedilemedi. Varsayılan kayıt yeri cihaz belleği olarak değiştirildi</string>
     <string name="default_storage_changed_to_phone">Varsayılan depolama yeri telefon olarak değiştirildi</string>
     <string name="default_storage_changed_to_memory_card">Varsayılan kayıt yeri hafıza kartı olarak değiştirildi</string>
     <string name="context_menu_edit">Kısayolları düzenle</string>
@@ -320,12 +320,12 @@ direkt alın"</string>
     <string name="editable_shortcut_helptext_message">Düzenlemek için kısayollara basın ve basılı tutun</string>
     <string name="editable_shortcut_helptext">Simgeye dokunun ve basılı tutun. Ardından kısayolun konumunu düzenlemek için sürükleyin</string>
     <string name="singleshotburst_capture_helptext">Çoklu çekim yapmak için kamera tuşuna dokunun ve basılı tutun</string>
-    <string name="singleshotburst_storage_helptext">Çoklu çekim resimleri iyi kalitede kaydedildi</string>
+    <string name="singleshotburst_storage_helptext">Çoklu çekim fotoğrafları iyi kalitede kaydedildi</string>
     <string name="sbeam_helptext">Fotoğraflar çekin ve diğer cihazlarla paylaşın. S Beam üzerinden paylaşmak istediğiniz cihazları eklemek için cihazları bir araya getirin</string>
     <string name="storage_setting_dialog_title">Saklama yeri</string>
-    <string name="storage_setting_dialog_message">"Sd kart takıldı. Kayıt yeri Sd kart olarak değiştirilsin mi?
+    <string name="storage_setting_dialog_message">"SD kart takıldı. Kayıt yeri SD kart olarak değiştirilsin mi?
 "</string>
-    <string name="storage_setting_dialog_burstshot_message">Tek çekimler Sd karta kaydedilecek. Çoklu çekim cihaz belleğine kaydedilecek</string>
+    <string name="storage_setting_dialog_burstshot_message">Tek çekimler SD karta kaydedilecek. Çoklu çekim cihaz belleğine kaydedilecek</string>
     <string name="do_not_ask_again">Bir daha gösterme</string>
     <string name="shutter">Deklanşör</string>
     <string name="record">Kayıt</string>
@@ -405,11 +405,11 @@ direkt alın"</string>
     <string name="STRONG_M_INTENSITY">Güçlü</string>
     <string name="NORMAL_M_INTENSITY">Normal</string>
     <string name="EFFECT_INTENSITY">Efekt yoğunluğu</string>
-    <string name="PICTURES_TO_SAVE">Kaydedilecek resimler</string>
-    <string name="HDR_HELPTEXT1">En iyi resim için farklı pozlarda çekilmiş birden çok resmi birleştirir</string>
+    <string name="PICTURES_TO_SAVE">Kaydedilecek fotoğraflar</string>
+    <string name="HDR_HELPTEXT1">En iyi resim için farklı pozlarda çekilmiş birden çok fotoğrafı birleştirir</string>
     <string name="HDR_HELPTEXT2">Seçeneklerde şunları bulacaksınız:</string>
     <string name="HDR_HELPTEXT3">Hdr düzenleme efektinin yoğunluğunu seçin.</string>
-    <string name="HDR_HELPTEXT4">Hem Hdr hem orijinal resimleri veya yalnız Hdr resmi kaydetmeyi seçin</string>
+    <string name="HDR_HELPTEXT4">Hem Hdr hem orijinal fotoğrafları veya yalnız Hdr fotoğrafı kaydetmeyi seçin</string>
     <string name="panorama_warning_text_up">Yukarı</string>
     <string name="panorama_warning_text_down">Aşağı</string>
     <string name="panorama_warning_text_left">Sol</string>
@@ -444,7 +444,7 @@ Patlama çekim daima cihaz hafızasına kaydedilecektir"</string>
     <string name="soundshot_sound_effect_5">Kış</string>
     <string name="soundshot_sound_effect_OK">Tamam</string>
     <string name="soundshot_auto_guidetext">Fotoğraf çekmeye devam edebilirsiniz. Her fotoğrafla, kaydedilen sesin ilk 9 saniye kadarı kaydedilecektir</string>
-    <string name="soundshot_add_voice_guidetext">Resmi çektikten %d saniye sonrasına kadar arkaplan sesi kaydedilecektir</string>
+    <string name="soundshot_add_voice_guidetext">Resmi çektikten %d saniye sonrasına kadar arka plan sesi kaydedilecektir</string>
     <string name="soundshot_add_sound_guidetext">Resim çekildikten sonra bir ses efekti ekleyin</string>
     <string name="unable_launch_camera_while_sidesync">Yan senkronizasyon kullanırken kamera açılamıyor</string>
 </resources>

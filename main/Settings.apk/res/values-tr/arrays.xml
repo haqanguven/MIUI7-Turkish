@@ -942,6 +942,7 @@
         <item>com.miui.yellowpage</item>
         <item>com.miui</item>
         <item>com.android.htmlviewer</item>
+        <item>com.google.android.packageinstaller</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -1108,7 +1109,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>Bilgisayara bağlandığında Usb yığın depolama otomatik olarak açılacaktır</item>
+        <item>Bilgisayara bağlandığında USB yığın depolama otomatik olarak açılacaktır</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -1370,19 +1371,17 @@ Not: Sadece Ubuntu 8.04 için"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
+        <item>30000</item>
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
-        <item>900000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Hemen</item>
+        <item>30 saniye</item>
         <item>1 dakika</item>
         <item>2 dakika</item>
         <item>5 dakika</item>
-        <item>15 dakika</item>
-        <item>30 dakika</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Sistem animasyonları kapalı</item>
@@ -1505,6 +1504,7 @@ Not: Sadece Ubuntu 8.04 için"</item>
         <item>th</item>
         <item>tn</item>
         <item>tr</item>
+        <item>tm</item>
         <item>tt</item>
         <item>ug</item>
         <item>ua</item>

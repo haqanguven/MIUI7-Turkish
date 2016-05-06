@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Usb ayarları</string>
-    <string name="usb_name">Usb</string>
-    <string name="usbsettings_name">Usb ayarları</string>
+    <string name="app_name">USB ayarları</string>
+    <string name="usb_name">USB</string>
+    <string name="usbsettings_name">USB ayarları</string>
     <string name="ap_to_cp">Cp</string>
     <string name="cp_to_ap">Ap</string>
     <string name="mtp_mode">Mtp</string>

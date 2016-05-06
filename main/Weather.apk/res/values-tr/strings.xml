@@ -89,7 +89,7 @@
     <string name="empty">" "</string>
     <string name="twc_logo_title" />
     <string name="information_menu_title" />
-    <string name="information_manager_wlan">"Wifi'e bağlıyken yükle"</string>
+    <string name="information_manager_wlan">Wifi ağına bağlıyken yükle</string>
     <string name="information_manager_information">Hava durumu bilgileri</string>
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">HKİ %1$s</string>
@@ -103,6 +103,14 @@
     <string name="aqi_detail_null">--</string>
     <string name="ads_install_num" />
     <string name="ads_score_title" />
+    <string name="tts_report_city_name" />
+    <string name="tts_report_weather_desc" />
+    <string name="tts_report_temperature_high" />
+    <string name="tts_report_temperature_low" />
+    <string name="tts_report_wind" />
+    <string name="tts_report_aqi" />
+    <string name="tts_report_split" />
+    <string name="tts_report_defautl_head" />
     <string name="ads_extension" />
     <string name="activity_main_one_alert" />
     <string name="activity_main_alert" />

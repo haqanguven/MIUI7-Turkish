@@ -209,7 +209,7 @@
     <string name="setting_wifi_mode">Büyük senkronizeleri sadece wifi ile yap</string>
     <string name="setting_sms_import">Mesaj alma etkinliği</string>
     <string name="preferences_import_credit_repayment">Kredi kartı ödemeleri</string>
-    <string name="data_notice_online_large_image">Büyük resmin takvim sayfasında ayarlandı. Trafiği kurtarmaya yardım etmek için büyük resimleri sadece wifi üzerinden yükleyin</string>
+    <string name="data_notice_online_large_image">Büyük fotoğraf takvim sayfasında ayarlandı. Trafiği kurtarmaya yardım etmek için büyük fotoğrafları sadece wifi üzerinden yükleyin</string>
     <string name="data_notice_change_settings">Ayarları değiştir</string>
     <string name="data_notice_continue_confirm">Kullanmaya devam et</string>
     <string name="not_exist_topic_list">Takvim abone listesi alınamıyor</string>
@@ -260,6 +260,15 @@
     <string name="credit_event_title">Kredi kartı faturası</string>
     <string name="credit_detail_today">Bugün:</string>
     <string name="credit_card_overdue">Süresi doldu</string>
+    <string name="ad_card_install">Şimdi yükle</string>
+    <string name="ad_card_spread">Yayıldı</string>
+    <string name="ad_card_download_count">%1$s insan indirdi</string>
+    <string name="ad_card_download_count_million">%1$s milyon indirdi</string>
+    <string name="ad_card_installed">Yüklendi</string>
+    <string name="ad_card_downloading">İndiriliyor</string>
+    <string name="ad_card_installing">Yükleniyor</string>
+    <string name="ad_card_connecting">Bağlanılıyor</string>
+    <string name="ad_card_network_error">Ağ bağlantı hatası. Daha sonra tekrar deneyin</string>
     <string name="subscribe">Abone ol</string>
     <string name="subscribe_ed">Zaten abone olundu</string>
     <string name="my_subscribe_events">Aboneliklerim</string>
@@ -295,6 +304,8 @@
     <string name="common_sun">Pazar</string>
     <string name="click_watch">İzlemek için tıklayın</string>
     <string name="subscribe_detail_title">Abonelik ayrıntıları</string>
+    <string name="match_ing">Devam ediyor</string>
+    <string name="match_ed">Sona erdi</string>
     <string name="button_day">G</string>
     <string name="button_week">H</string>
     <string name="button_month">A</string>
@@ -467,5 +478,7 @@
 	<string name="more_string">+%1$s</string>
     <string name="copy_email">E-posta adresini kopyala</string>
     <string name="copy_number">Telefon numarasını kopyala</string>
-    <string name="done">Geri dön</string>
+    <string name="action_label">Geri</string>
+    <string name="accessbility_suggestion_dropdown_opened">Tavsiyeler açıldı</string>
+    <string name="dropdown_delete_button_desc">Alıcılardan %s kaldır</string>
 </resources>

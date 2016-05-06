@@ -22,7 +22,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="adaptive_fast_charging_title">Hızlı şarj</string>
     <string name="advance_settings">Gelişmiş ayarlar</string>
-    <string name="air_view_title">Uçak görünümü</string>
+    <string name="air_view_title">Uçak modu görünümü</string>
     <string name="air_wake_up_summary">Sensörün üzerinde elinizi hareket ettirerek ekranda açın</string>
     <string name="air_wake_up_title">Hava uyandırma</string>
     <string name="air_wakeup_message">Tamama tıkladıktan sonra telefon yeniden başlayacaktır</string>

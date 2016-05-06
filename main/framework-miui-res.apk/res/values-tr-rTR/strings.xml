@@ -389,7 +389,7 @@
     <string name="month_of_november">Kas</string>
     <string name="month_of_october">Eki</string>
     <string name="month_of_september">Eyl</string>
-    <string name="multi_select_title">%1$s öge seçildi</string>
+    <string name="multi_select_title">%1$s öğe seçildi</string>
     <string name="national_day">Ulusal gün</string>
     <string name="national_father_day">Hakan Güvenin doğum günü</string>
     <string name="never">Asla</string>
@@ -422,10 +422,10 @@
     <string name="screen_on_proximity_sensor_summary">Telefonu cepta taşıma modu etkin. Telefon fonksiyonları devre dışı</string>
     <string name="screen_on_proximity_sensor_title">Cepte taşıma modu ya da sensör kapalı</string>
     <string name="deprecated_48" />
-    <string name="sd_not_available">Sd kart çıkarılmış veya ulaşılamaz</string>
-    <string name="sd_not_available_low_internal_storage">Sd kart çıkarılmış. Dahili hafıza dolmak üzere</string>
+    <string name="sd_not_available">SD kart çıkarılmış veya ulaşılamaz</string>
+    <string name="sd_not_available_low_internal_storage">SD kart çıkarılmış. Dahili hafıza dolmak üzere</string>
     <string name="sd_not_available_saved_to_internal_storage">Dahili hafızaya kaydedildi</string>
-    <string name="sd_not_available_use_internal_storage">Sd karta ulaşılamıyor. Dahili hafızaya kaydedildi</string>
+    <string name="sd_not_available_use_internal_storage">SD karta ulaşılamıyor. Dahili hafızaya kaydedildi</string>
     <string name="select">Seç</string>
     <string name="select_all">Tümünü seç</string>
     <string name="send_sms_for_sync_notice">Sistem aktivasyon mesajı gönderecek. Devam etmek istiyor musunuz?</string>

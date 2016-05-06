@@ -226,7 +226,7 @@
     <string name="Privacy_App_TrustDialog_Title">Bu uygulama güvenli</string>
     <string name="Privacy_App_TrustDialog_Content">Miui bu uygulama için güvenlik ve gizlilik ile ilgili başka uyarı yapmayacak</string>
     <string name="SysOpt_Boost_Boot">Açılış</string>
-    <string name="SysOpt_Boost_Receiver">Arkaplan</string>
+    <string name="SysOpt_Boost_Receiver">Arka plan</string>
     <string name="SysOpt_Boost_AutoStart_Group">Otomatik başlat</string>
     <string name="SysOpt_Boost_AutoStart">Yetkileri otomatik başlat</string>
     <string name="Su_Enable_Dialog">%1$s uygulaması Root yetkisi almayı deniyor. Root yetkileri sistem güvenliği için devre dışı durumdadır. Etkinleştirmek isterseniz Yetki Yönetimlerine bakınız</string>

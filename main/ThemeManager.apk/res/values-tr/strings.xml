@@ -5,8 +5,8 @@
     <string name="resource_price_free">Ücretsiz</string>
     <string name="resource_price_unit"> Mi kredi</string>
     <string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_not_mounted_dialog_title">Sd kart bulunamadı</string>
-    <string name="sdcard_not_mounted_dialog_message">"Şimdi Sd kartı takın
+    <string name="sdcard_not_mounted_dialog_title">SD kart bulunamadı</string>
+    <string name="sdcard_not_mounted_dialog_message">"Şimdi SD kartı takın
 "</string>
     <string name="resource_mute">Hiçbiri</string>
     <string name="resource_default">Varsayılan zil sesi</string>
@@ -318,7 +318,7 @@
     <string name="theme_user_agreement_remind_never">Tekrar gösterme</string>
     <string name="theme_user_agreement_remind_again">Kullanım şartlarını göster</string>
     <string name="theme_user_agreement_remind_summary">Temalar uygulamasının her açılışında kullanım koşulları uyarısını göster (Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır)</string>
-    <string name="theme_is_external_priority_storage">Sd karta kaydet</string>
+    <string name="theme_is_external_priority_storage">SD karta kaydet</string>
     <string name="theme_is_external_priority_storage_summary">Temalar uygulamasının etkili olması için şimdi yeniden başlayacaktır</string>
     <string name="theme_favorite_add_success">Tema favorilere eklendi</string>
     <string name="theme_favorite_add_fail">Tema favorilere eklenemiyor</string>

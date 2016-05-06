@@ -7,7 +7,7 @@
     <string name="sms_fdn_body">Sayı FDN kısıtlı</string>
     <string name="sms_fdn_restricted">Sayı FDN kısıtlı</string>
     <string name="sim_not_inserted">Sim kartı takın</string>
-    <string name="sdcard_copy_err">Sd kart kopyalama hatası</string>
+    <string name="sdcard_copy_err">SD kart kopyalama hatası</string>
     <string name="data_copy_err">Veri kopyalama hatası</string>
     <string name="sim_crash_title">Sim kart kaza</string>
     <string name="sim_crash_text">Sim kartınıza veya müşteriye dikkat edin</string>

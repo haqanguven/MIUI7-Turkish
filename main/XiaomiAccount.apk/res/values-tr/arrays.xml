@@ -32,10 +32,10 @@
     <string-array name="education">
         <item>Orta okul</item>
         <item>Hazırlık okulu</item>
+        <item>Lise</item>
         <item>Yüksek okul</item>
-        <item>Meslek yüksek okulu</item>
-        <item>Kolej</item>
-        <item>Yüksek lisans</item>
+        <item>Üniversite</item>
+        <item>Master derecesi</item>
         <item>Doktor derecesi</item>
     </string-array>
     <string-array name="income">
@@ -48,39 +48,39 @@
     </string-array>
     <string-array name="question_no1">
         <item>Aile</item>
-        <item>Annenin büyükannesinin adı</item>
-        <item>Annenin dedesinin adı</item>
-        <item>Babanın dedesinin adı</item>
-        <item>Babaannesinin adı</item>
-        <item>"Babalar doğum günü"</item>
-        <item>Anneler doğum günü</item>
-        <item>Ailenin yaş farkı nedir? (Yıl ve ay)</item>
+        <item>Ananenin adı</item>
+        <item>Annenin babasının adı</item>
+        <item>Babanın babasının adı</item>
+        <item>Babaannenin adı</item>
+        <item>Babanızın doğum günü</item>
+        <item>Annenizin doğum günü</item>
+        <item>Ebeveynleriniz arasındaki yaş farkı nedir? (Yıl ve ay)</item>
     </string-array>
     <string-array name="question_no2">
-        <item>Gidilen okul</item>
-        <item>Orta okulda sınıf başkanının adı neydi?</item>
-        <item>ilk okula sınıf başkanının adı neydi?</item>
-        <item>Üniversitede öğrenci kimlik numarası</item>
-        <item>Üniversitede senin oda arkadaşı adı nedir?</item>
-        <item>Üniversitede amiriniz adı nedir?</item>
+        <item>Öğrenim görülen okul</item>
+        <item>Orta okuldaki sınıf başkanınızın adı neydi?</item>
+        <item>İlk okuldaki sınıf başkanınızın adı neydi?</item>
+        <item>Üniversiteki öğrenci numaranız</item>
+        <item>Üniversitedeki oda arkadaşınızın adı nedir?</item>
+        <item>Üniversitedeki danışmanınızın adı nedir?</item>
     </string-array>
     <string-array name="question_no3">
-        <item>Kişisel bilgi</item>
-        <item>Ailen seni nasıl çağırıyor?</item>
-        <item>Pasaport numarasının son 6 basamağı</item>
+        <item>Kişisel bilgiler</item>
+        <item>Ebeveynleriniz size nasıl hitap eder?</item>
+        <item>Pasaport numaranızın son 6 hanesi</item>
         <item>Hangi hastanede doğdunuz?</item>
-        <item>En iyi arkadaşının adı nedir?</item>
+        <item>En yakın arkadaşınızın adı nedir?</item>
     </string-array>
     <string-array name="question_no4">
-        <item>İlk kez</item>
+        <item>İlkler</item>
         <item>İlk evcil hayvanınızın adı nedir?</item>
-        <item>İlk kız veya erkek arkadaşının adı nedir?</item>
-        <item>İlk işiniz veya şirketinizin adı</item>
+        <item>İlk erkek/kız arkadaşınızın adı nedir?</item>
+        <item>Çalışmış olduğunuz ilk şirketin adı nedir?</item>
     </string-array>
     <string-array name="question_no5">
         <item>Evlilik</item>
-        <item>Ne zaman evlendin?</item>
-        <item>Eşinizin ismi</item>
-        <item>Eşinizin doğum günü</item>
+        <item>Ne zaman evlendiniz?</item>
+        <item>Eşinizin adı</item>
+        <item>Eşinizin doğumgünü</item>
     </string-array>
 </resources>

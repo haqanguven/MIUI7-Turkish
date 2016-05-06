@@ -11,6 +11,10 @@
     <string name="dialog_title_attention">Uyarı</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="byteShort">B</string>
     <string name="main_button_normal_traffic">Yoğun zaman</string>
     <string name="main_button_idel_traffic">İndirimli</string>
     <string name="main_toolbar_firewall">Veri kullanımını kısıtla</string>
@@ -103,7 +107,7 @@ Yoğun zaman: %1$s%2$s | %3$s kullandıldı"</string>
     <string name="pref_special_traffic_exceed_limit">Mobil veri limitine ulaşıldığında beni uyar</string>
     <string name="pref_special_traffic_limit_warn">Veri kullanım uyarısı ayarla</string>
     <string name="pref_connect_settings_enable_background">Arka plan verilerine izin ver</string>
-    <string name="pref_connect_settings_enable_background_hint">Arkaplanda çalışan uygulamaların veri kullanımına izin ver</string>
+    <string name="pref_connect_settings_enable_background_hint">Arka planda çalışan uygulamaların veri kullanımına izin ver</string>
     <string name="pref_title_network_diagnostics">Ağı test et</string>
     <string name="pref_check_network_diagnostics">Cihazın internet bağlantısını test et</string>
     <string name="pref_category_title_other">Ek ayarlar</string>
@@ -164,7 +168,7 @@ Yoğun zaman: %1$s%2$s | %3$s kullandıldı"</string>
     <string name="power_save_on_time_end_time_summary_na">Bitti</string>
     <string name="manual_input_traffic">Kullanılan verileri giriniz</string>
     <string name="manual_input_free_traffic">İndirimli veri kullanımını ayarla</string>
-    <string name="declaration_dialog_msg">Bu özellik mobil veri kullanımını izlemenize yardımcı olur fakat ek ücretlerden kaçınmanızı garanti etmez. En iyi sonucu elde edebilmek için makul bir limit belirleyin</string>
+    <string name="declaration_dialog_msg">Bu özellik mobil veri kullanımını izlemenize yardımcı olur. Fakat ek ücretlerden kaçınmanızı garanti etmez. En iyi sonucu elde edebilmek için makul bir limit belirleyin</string>
     <string name="input_used_hint">Kullanılan veri miktarını girin</string>
     <string name="input_used_max_hint">Veri kullanımını girin (%s miktarından az)</string>
     <string name="text_day" />
@@ -267,7 +271,7 @@ Operatörün hesaplaması kullanılsın mı?"</string>
     <string name="traffic_alert_auto_modify_notification_titile">Veri planı güncellendi</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Aylık plan %s olarak değiştirildi</string>
     <string name="traffic_alert_auto_modify_package_summary">Veri paketini operatör verilerini kullanarak otomatik olarak güncelle</string>
-    <string name="operator_name_cmcc">China Mobile</string>
+    <string name="operator_name_cmcc">China Mobil</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_number_cmcc">10086</string>
@@ -377,8 +381,8 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="saving_conflict_dialog_title">Uyarı</string>
     <string name="saving_conflict_dialog_ok">Tamam</string>
     <string name="saving_conflict_dialog_cancel">İptal</string>
-    <string name="restrictbackground_conflict_saving_msg">Arkaplan verileri kısıtlandığında veri tasarrufu özelliği kullanılamıyor. Veri tasarrufu özelliğini kapat ve arkaplan verileri kısıtlansın mı?</string>
-    <string name="saving_conflict_restrictbackground_msg">Arkaplan verileri kısıtlandığında veri tasarrufu özelliği kullanılamıyor. Arkaplan verilerinize izin ver ve veri tasarrufu özelliği açılsın mı?</string>
+    <string name="restrictbackground_conflict_saving_msg">Arka plan verileri kısıtlandığında veri tasarrufu özelliği kullanılamıyor. Veri tasarrufu özelliğini kapat ve arka plan verileri kısıtlansın mı?</string>
+    <string name="saving_conflict_restrictbackground_msg">Arka plan verileri kısıtlandığında veri tasarrufu özelliği kullanılamıyor. Arka plan verilerinize izin ver ve veri tasarrufu özelliği açılsın mı?</string>
     <string name="traffic_saving_detail">Detaylar</string>
     <string name="traffic_saving_mobile_usage">Veri tasarrufu</string>
     <string name="traffic_saving_wifi_usage">Wifi tasarruf</string>
@@ -457,6 +461,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="roaming_limit_network_notification_body">Kullanılabilir veri ağlarını görüntülemek için dokunun</string>
     <string name="roaming_limit_dialog_message">Günlük dolaşım mobil veri limitine ulaşıldı</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="roaming_allow_network_dialog_title">Mobil veri dolaşımına izin verilsin mi?</string>
     <string name="title_limit_traffic_per_day">Günlük veri kullanım limiti</string>
     <string name="daily_limit_and_lock_screen">Veri limiti &amp; bildirimler</string>
     <string name="pref_title_traffic_limit_number">Boyut</string>
@@ -493,10 +498,10 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="btn_start_diagnostic">Ağı test et</string>
     <string name="btn_stop_diagnostic">Durdur</string>
     <string name="btn_finish_diagnostic">Tamam</string>
-    <string name="main_toolbar_internet_by_pc_brige">Usb internet</string>
+    <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
     <string name="main_toolbar_internet_by_wifi">Wifi</string>
     <string name="main_toolbar_internet_by_mobiledata">Mobil veri</string>
-    <string name="connect_internet_by_usbshare">Usb üzerinden paylaşılan internet</string>
+    <string name="connect_internet_by_usbshare">USB üzerinden paylaşılan internet</string>
     <string name="connect_internet_by_mobiledata">Mobil veri bağlantısı</string>
     <string name="connect_internet_by_wifi">Wifi</string>
     <string name="unable_connect_internet">İnternet bağlantısı yok</string>
@@ -513,9 +518,9 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="wifi_exception_summary">Kullanılabilir wifi ağlarını test et</string>
     <string name="signal_exception_title">Sinyal gücünü test et</string>
     <string name="signal_exception_summary">Bu bölgede ağa bağlanılamıyor</string>
-    <string name="usbsharenet_exception_title">Usb üzerinden paylaşılan interneti test et</string>
-    <string name="usbsharenet_exception_summary">"Usb üzerinden paylaşılan internet kullanılarak internete bağlanılamıyor. Cihazınızın Usb bağlantısını kontrol edin ve ardından Mi PC Suite'yi yeniden başlatın"</string>
-    <string name="usbsharenet_pc_exception_summary">Usb üzerinden paylaşılan internet kullanılarak internete bağlanılamıyor. Bilgisayarınızın internet bağlantısını kontrol edin</string>
+    <string name="usbsharenet_exception_title">USB üzerinden paylaşılan interneti test et</string>
+    <string name="usbsharenet_exception_summary">"USB üzerinden paylaşılan internet kullanılarak internete bağlanılamıyor. Cihazınızın USB bağlantısını kontrol edin ve ardından Mi PC Suite'yi yeniden başlatın"</string>
+    <string name="usbsharenet_pc_exception_summary">USB üzerinden paylaşılan internet kullanılarak internete bağlanılamıyor. Bilgisayarınızın internet bağlantısını kontrol edin</string>
     <string name="gateway_exception_title">Yönlendiriciyi test et</string>
     <string name="gateway_exception_summary">Yönlendiricinizi kontrol edin ve ardından tekrar deneyin</string>
     <string name="gateway_exception_summary2">Sunucuya bağlanılamıyor</string>
@@ -600,7 +605,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="tc_diagnostic_upload_button">Rapor</string>
     <string name="tc_diagnostic_fragment_default">"Tanılama hakkında
 1. Cihaz operatörün ağına bağlanır, ücretsiz bir mesaj gönderir ve operatörün cevabını bekler. Bu 5 dakika kadar sürebilir
-2. Bu sayfayı tanı süresince arkaplanda bırakabilirsiniz. Çalışmaya devam edecektir"</string>
+2. Bu sayfayı tanı süresince arka planda bırakabilirsiniz. Çalışmaya devam edecektir"</string>
     <string name="sim_location_diagnostic">Konum tanılaması</string>
     <string name="operator_diagnostic">Operatör tanılamaları</string>
     <string name="brand_diagnostic">Operatör firma tanılamaları</string>
@@ -801,7 +806,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="hints_power_percent_title">pil</string>
     <string name="details_subtitle">Kullanım ayrıntıları</string>
     <string name="packages_subtitle">Eklenmiş paketler</string>
-    <string name="battery_desc_standby">Telefon beklemedeyken kullanılan pil</string>
+    <string name="battery_desc_standby">Beklemedeyken kullanılan pil</string>
     <string name="battery_desc_radio">Hücre yayını tarafından kullanılan pil</string>
     <string name="battery_desc_voice">Sesli aramalar tarafından kullanılan pil</string>
     <string name="battery_desc_wifi">Wifi tarafından kullanılan pil</string>
@@ -830,7 +835,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="usage_type_data_wifi_recv">Wifi ile alınan veri miktarı</string>
     <string name="usage_type_audio">Ses</string>
     <string name="usage_type_video">Video</string>
-    <string name="usage_type_on_time">Açık zaman</string>
+    <string name="usage_type_on_time">Açık kalınan zaman:</string>
     <string name="battery_history_days">%1$d gün %2$d saat %3$d dakika %4$d saniye</string>
     <string name="battery_history_hours">%1$d saat %2$d dakika %3$d saniye</string>
     <string name="battery_history_minutes">%1$d dakika %2$d saniye</string>
@@ -865,7 +870,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="battery_stats_gps_on_label">Gps açık</string>
     <string name="battery_stats_wifi_running_label">Wifi</string>
     <string name="battery_stats_wake_lock_label">Uyanık</string>
-    <string name="battery_stats_phone_signal_label">Mobile network signal</string>
+    <string name="battery_stats_phone_signal_label">Mobil ağ sinyali</string>
     <string name="prompt_input_time_illegal">Bu sefer ayarlanamaz. Değiştirin ve yeniden deneyin</string>
     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
@@ -940,9 +945,9 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="last_check_canceled">Önceki tarama iptal edildi</string>
     <string name="last_checked_default">%s gün önce tarandı</string>
     <string name="examination_score_100">Her şey yolunda gözüküyor</string>
-    <string name="examination_score_100_with_recommend">%d öge optimize edilebilir</string>
-    <string name="examination_score_80_100">Birkaç öge optimize edilebilir</string>
-    <string name="examination_score_80_100_with_recommend">%d öge optimize edilebilir</string>
+    <string name="examination_score_100_with_recommend">%d öğe optimize edilebilir</string>
+    <string name="examination_score_80_100">Birkaç öğe optimize edilebilir</string>
+    <string name="examination_score_80_100_with_recommend">%d öğe optimize edilebilir</string>
     <string name="examination_score_80_60">Bazı ögeler optimize edilebilir</string>
     <string name="examination_score_60_0">Şimdi tara</string>
     <string name="examination_score_has_virus">Bazı şüpheli uygulamalar tespit edildi</string>
@@ -971,7 +976,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="activity_title_memory">Bellek</string>
     <string name="activity_title_trash">Önbellek</string>
     <string name="activity_title_network_speed_detail">Bağlantı</string>
-    <string name="system_check_content">%1$d şüpheli öge</string>
+    <string name="system_check_content">%1$d şüpheli öğe</string>
     <string name="memory_check_content_none">Boş</string>
     <string name="system_check_content_none">Güvenli</string>
     <string name="cache_check_content">%1$d uygulama ve önbellek: %2$s</string>
@@ -1024,8 +1029,8 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="title_mms_no">Mesaj filtresi kapalı</string>
     <string name="title_mms_yes">Mesaj filtresi açık</string>
     <string name="summary_mms">İstenmeyen mesajları filtrele</string>
-    <string name="title_usb_no">Usb hata ayıklama açık</string>
-    <string name="title_usb_yes">Usb hata ayıklama kapalı</string>
+    <string name="title_usb_no">USB hata ayıklama açık</string>
+    <string name="title_usb_yes">USB hata ayıklama kapalı</string>
     <string name="summary_usb">Diğer cihazlardan yayılan virüsleri önle</string>
     <string name="title_virus_update_no">Virüs tanımları otomatik güncellemesi kapalı</string>
     <string name="title_virus_update_yes">Virüs tanımları otomatik güncellemesi açık</string>
@@ -1040,7 +1045,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="button_text_view">Optimize et</string>
     <string name="button_text_security">Güvenlik</string>
     <string name="item_virus">Virüs</string>
-    <string name="item_usb_debug">Usb hata ayıklama</string>
+    <string name="item_usb_debug">USB hata ayıklama</string>
     <string name="item_virus_lib">Virüs tanımlarını otomatik güncelle</string>
     <string name="item_install_monitor">Monitörü yükle</string>
     <string name="item_app_permission">Uygulama izinleri</string>
@@ -1102,7 +1107,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="button_text_cancel_clean">İptal et</string>
     <string name="button_text_quick_clean">Optimize et</string>
     <string name="activity_title_perm_manager">İzinler</string>
-    <string name="activity_title_auto_start_manager">Otomatik başlatma</string>
+    <string name="activity_title_auto_start_manager">Otomatik başlat</string>
     <string name="activity_title_notification_bar_manager">Bildirimler</string>
     <string name="activity_title_default_apps_manager">Varsayılan uygulamalar</string>
     <string name="activity_title_permission_manager">İzinler</string>
@@ -1114,7 +1119,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="hints_auto_start_warning_info">Otomatik çalışma kısıtlanırsa bazı uygulama ve servisler ilgili bildirimleri alamazlar</string>
     <string name="activity_title_apps_manager">Uygulamalar</string>
     <string name="activity_title_permissions_manager">İzinler</string>
-    <string name="dialog_title_auto_start_declare">Otomatik başlatma hakkında</string>
+    <string name="dialog_title_auto_start_declare">Otomatik başlat hakkında</string>
     <string name="dialog_msg_auto_start_declare">Bazı uygulamalar hatalı olarak başlatılmalarının Miui tarafından engellendiğini bildirebilir. Bu gibi durumlarda bireysel uygulamalara verilmiş izinleri Ayarlar > Uygulamalar kısmından kontrol edin</string>
     <string name="button_text_known">Tamam</string>
     <string name="empty_title_perm_apps">Bu izne sahip uygulama yok</string>
@@ -1168,11 +1173,10 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="manual_handle_title">Kullanılabilir özellikler</string>
     <string name="manual_item_white_list_title">İstisnalar</string>
     <string name="manual_item_white_list_summary">Seçili uygulamaların optimize edilmesini önle</string>
-    <string name="pm_auto_start_by_system">Uygulamaları başlat</string>
-    <string name="pm_auto_start_by_other_services">Bu servisleri kapatmayı deneyin</string>
-    <string name="pm_auto_start_by_basic_services">Basit servisler</string>
-    <string name="pm_auto_start_basic_services_lock">Kilitle</string>
-    <string name="pm_auto_start_basic_services_unlock">Kilidi kaldır</string>
+    <string name="pm_auto_start_by_system">Otomatik başlat</string>
+    <string name="pm_auto_start_by_system_event">Uygulamayı otomatik olarak başlatmak için izin verin</string>
+    <string name="pm_auto_start_by_other">Tetikle başlat</string>
+    <string name="pm_auto_start_by_other_app">Uygulamanın diğer uygulamalar tarafından başlatılmasına izin verin</string>
     <string name="pm_auto_start_proc_is_running">Çalışıyor</string>
     <string name="empty_app">Uygulama yok</string>
     <string name="pm_remember_choice">Tercihimi hatırla</string>
@@ -1214,8 +1218,8 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="title_flow_notification">Veri kullanım raporu</string>
     <string name="summary_flow_notification">Bildirim alanında aylık veri kullanım istatistikleri göster</string>
     <string name="title_flow_purchase">Bakiye yükleme zamanı</string>
-    <string name="summary_flow_purchase_left">Bu ay ki paketinizin %s Mb kullanım kotası kaldı</string>
-    <string name="summary_flow_purchase_beyond">Aylık veri paketinizin kotasını %s Mb aştınız</string>
+    <string name="summary_flow_purchase_left">Bu ay ki paketinizin %s MB kullanım kotası kaldı</string>
+    <string name="summary_flow_purchase_beyond">Aylık veri paketinizin kotasını %s MB aştınız</string>
     <string name="title_show_notification">Bildirim alanı denetimleri</string>
     <string name="summary_show_notification">Güvenlik merkezi denetimlerini bildirim alanına sabitle</string>
     <string name="title_garbage_lib">Otomatik güncellemeler</string>
@@ -1234,17 +1238,19 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="title_virus_cloudscan">Çevrimiçi virüs tanımlarını kullan</string>
     <string name="summary_virus_cloudscan">Uygulama isimlerini ve detaylarını yükle ve çevrimiçi virüs tanımlarını kullanarak tara</string>
     <string name="title_cleaner_cloudscan">Dosya adlarını karşıya yükle</string>
-    <string name="summary_cleaner_cloudscan">Dosya adlarını karşıya yükle ve çevrimiçi virüs veritabanıyla karşılaştır</string>
+    <string name="summary_cleaner_cloudscan">Dosya adlarını karşıya yükle ve çevrimiçi virüs veri tabanıyla karşılaştır</string>
     <string name="title_live_talk_purchase">Şimdi doldur</string>
     <string name="summary_live_talk_purchase">Ev aramalar için dakika başına sadece 0,05 yuan</string>
     <string name="title_xiaomi_roaming">Mi dolaşım</string>
-    <string name="summary_xiaomi_roaming">Uluslar arası ağ trafiği için Mb başına 0.01 yuan</string>
+    <string name="summary_xiaomi_roaming">Uluslar arası ağ trafiği için MB başına 0.01 yuan</string>
     <string name="toast_network_switch">Bu uygulama internete bağlanabilir</string>
     <string name="toast_flow_notification">Veri kullanımı bildirimleri etkinleştirildi</string>
     <string name="toast_show_notification">Bildirim alanına sabitlendi</string>
     <string name="toast_virus_cloudscan">Virüs tarama çevirimiçi tanımlar ile yapılacak</string>
     <string name="toast_cleaner_cloudscan">Temizleyici çevirimiçi tanımları kullanacak</string>
     <string name="toast_garbage_lib">Temizleyici için otomatik güncellemeler etkinleştirildi</string>
+    <string name="title_app_lock_disable">Uygulamaları kilitle</string>
+    <string name="summary_app_lock_disable">Gizliliğinizi korumak için uygulamaları kilitleyin</string>
     <string name="info_and_call">Aramalar ve mesajlar</string>
     <string name="SMS_and_MMS">Mesaj ve multimedya</string>
     <string name="permission_with_SMS_and_MMS">Mesaj ve multimedya ile ilgili izinler</string>
@@ -1269,7 +1275,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="antivirus_choose_engine_settings">Virüs veri tabanı ayarları</string>
     <string name="antivirus_choose_engine_title">Veri tabanı</string>
     <string name="antivirus_choose_engine_disable_toast">Tarama işlemi devam ederken veri tabanı değiştirilemiyor</string>
-    <string name="antivirus_choose_engine_dialog_title">Veritabanını seçin</string>
+    <string name="antivirus_choose_engine_dialog_title">Veri tabanını seçin</string>
     <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_update_db">%s</string>
     <string name="antivirus_none_engine_dialog_title">Tanımları seçin</string>
@@ -1298,6 +1304,10 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="app_name">Uygulama kilidi</string>
     <string name="text_lock_info">Kilit açma deseni çizin</string>
     <string name="select_pattern">Desen seçin</string>
+    <string name="notification_item">Uygulama kilidini aç</string>
+    <string name="ac_enable_title">Uygulama kilidini aç</string>
+    <string name="lock_mode_title">Kilit ayarları</string>
+    <string name="after_the_lock_screen">Uygulama ekran ile birlikte kilitlendi değiştirmek için uygulama kilit ayarlarını kulanın</string>
     <string name="lockpattern_tutorial_cancel_label">İptal et</string>
     <string name="lockpattern_tutorial_continue_label">İleri</string>
     <string name="lockpattern_retry_button_text">Tekrar çizin</string>
@@ -1306,7 +1316,6 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="modifypassword">Şifreyi değiştir</string>
     <string name="showpattern">Deseni görüntüle</string>
     <string name="suggest_app_tolock">Öneriler</string>
-    <string name="modify_password_info">Kilit açma deseni</string>
     <string name="forget_password_button_text"><u>Şifremi unuttum</u></string>
     <string name="lockpattern_need_to_unlock">Kilit açma desenini doğrulayın</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Çok fazla sayıda hatalı deneme</string>
@@ -1355,4 +1364,8 @@ veya şifre girin"</string>
     <string name="confirm_fingerprint_msg">Parmağınızı parmak izi tarayıcısına yerleştirin</string>
     <string name="fingerprint_identify_msg">Parmak izi taranıyor</string>
     <string name="fingerprint_not_identified_msg">Cihaz kilidini açmak için parolanızı girin</string>
+    <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+    <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
+    <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
+    <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
 </resources>

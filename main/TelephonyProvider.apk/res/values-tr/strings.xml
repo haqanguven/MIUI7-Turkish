@@ -5,4 +5,6 @@
     <string name="mms_sms_provider_label">Mesajlaşma</string>
     <string name="siminfo_default_name">Sim: %d</string>
     <string name="app_label">Telefon ve mesajlaşma deposu</string>
+    <string name="read_only">read_only</string>
+    <string name="ppp_number">ppp_number</string>
 </resources>

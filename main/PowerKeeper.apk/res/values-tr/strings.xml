@@ -86,7 +86,7 @@
     <string name="power_config_cpu_freq_dialog_title">İşlemci frekansı</string>
     <string name="power_config_lcd_mode_dialog_title">Lcd modu</string>
     <string name="power_config_data_connect_title">Veri bağlantısı</string>
-    <string name="power_config_data_connect_summary">Uygulamaların arkaplanda internete bağlanmasına izin ver</string>
+    <string name="power_config_data_connect_summary">Uygulamaların arka planda internete bağlanmasına izin ver</string>
     <string name="power_config_alarm_sync_title">Uyandırma alarmı</string>
     <string name="power_config_alarm_sync_summary">Uygulamaya uyandırma alarmına izin ver</string>
     <string name="power_config_location_title">Konum erişimi</string>

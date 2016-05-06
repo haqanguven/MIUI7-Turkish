@@ -7,7 +7,7 @@
 Aygıt kimliği geçerli İmei veya Mac adresi olmalıdır. Aygıt kimliği olmadan bazı hesap ve bulut özellikleri kullanılamayacak"</string>
     <string name="accept">Tamam</string>
     <string name="xiaomi_cloud_service">Mi bulut</string>
-    <string name="sync_notification_title_format">Şu anda senkronize edilen öge: %1$s</string>
+    <string name="sync_notification_title_format">Şu anda senkronize edilen öğe: %1$s</string>
     <string name="activate_phone_failed_notif_title">Sim kart etkinleştirilemiyor</string>
     <string name="activate_phone_failed_notif_title_msim">Sim kart %s etkinleştirilemiyor</string>
     <string name="activate_phone_success_notif_title">Sim kart aktif</string>
@@ -102,6 +102,7 @@ Telefon numarasını %s etkinleştirmek için yeni bir Sim kart ile birlikte gir
     <string name="activate_feature_register_xiaomi_account">Mi hesap kurulumu</string>
     <string name="activate_feature_verify_mx_token">Mi hesap doğrulaması</string>
     <string name="activate_feature_live_talk">Telefon kontör paketi</string>
+    <string name="activate_feature_remote_assist">Uzak bağlantı yardımcısı</string>
     <string name="activate_sms_postfix">Bu mesaj Mi cihazınızı etkinleştirmek için kullanılır</string>
 	<string name="activate_history_title">Sim kart etkinleştirme</string>
     <string name="activate_history_overview">Sim kart %1$s etkinleştirme işlemi. %2$s hizmeti tarafından başlatıldı</string>

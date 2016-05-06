@@ -53,8 +53,8 @@
     <string name="confirm_pin_msg">Pin kodunu yeniden girin</string>
     <string name="invalid_confirm_pin_hint">Pin kodları eşleşmiyor</string>
     <string name="unlock_string">Kilidi aç</string>
-    <string name="open_camera_hint_text">Kamera için sola kaydırın</string>
-    <string name="open_remote_center_hint_text">Mi remote için sağa kaydırın</string>
+    <string name="open_camera_hint_text">Kamera için sağa kaydırın</string>
+    <string name="open_remote_center_hint_text">Kumanda için sola kaydırın</string>
     <string name="click_to_enter_text">Görüntülemek için dokunun</string>
     <string name="fingerprint_try_again_text">Yeniden deneyin</string>
     <string name="fingerprint_not_identified_title">Parmak izi okunamadı</string>

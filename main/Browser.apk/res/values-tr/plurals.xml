@@ -8,8 +8,8 @@
         <item quantity="one">1 eşleşme</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d öge seçildi</item>
-        <item quantity="one">%1$d öge seçildi</item>
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
     <plurals name="video_download_clear_prompt">
         <item quantity="other">%1$d video silinsin mi?</item>
@@ -20,19 +20,19 @@
         <item quantity="one">%1$d video başarıyla kaldırıldı</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
-        <item quantity="other">%1$d öge geçmişten silinsin mi?</item>
-        <item quantity="one">%1$d öge geçmişten silinsin mi?</item>
+        <item quantity="other">%1$d öğe geçmişten silinsin mi?</item>
+        <item quantity="one">%1$d öğe geçmişten silinsin mi?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d öge geçmişten kaldırıldı</item>
-        <item quantity="one">%1$d öge geçmişten kaldırıldı</item>
+        <item quantity="other">%1$d öğe geçmişten kaldırıldı</item>
+        <item quantity="one">%1$d öğe geçmişten kaldırıldı</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d eşleşme</item>
         <item quantity="one">%d eşleşme</item>
     </plurals>
     <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d öge engellendi</item>
-        <item quantity="one">%d öge engellendi</item>
+        <item quantity="other">%d öğe engellendi</item>
+        <item quantity="one">%d öğe engellendi</item>
     </plurals>
 </resources>

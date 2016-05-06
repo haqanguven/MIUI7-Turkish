@@ -79,7 +79,7 @@
     <string name="data_connection_title">Veri kullanımı uyarısı</string>
     <string name="data_connection_body">Veri kullanımını artıracak. Bu dosyayı indirmek için mobil veri bağlantısını kullanma</string>
     <string name="data_connection_button_text">Tamam</string>
-    <string name="error_sdcard_unmounted">Şimdi Sd kartı takın</string>
+    <string name="error_sdcard_unmounted">Şimdi SD kartı takın</string>
     <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar geriye dokun</string>
     <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
     <string name="cloud_record_tip">Kayıtları Mi bulut ile senkronize et</string>

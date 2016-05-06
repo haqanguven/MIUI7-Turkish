@@ -63,7 +63,6 @@
     <string name="pref_title_auto_update_via_wifi">Wifi ile otomatik güncelle</string>
     <string name="pref_title_auto_update_via_wifi_checkbox">Otomatik güncelle</string>
     <string name="pref_title_data_save">Veri kullanımını azaltın</string>
-    <string name="pref_title_clear_search_record">Arama geçmişini temizle</string>
     <string name="pref_title_clear_update_record">Güncelleme geçmişini temizle</string>
     <string name="pref_title_update_notification">Güncellemeler</string>
     <string name="pref_list_use_online_server">Ürün sunucusunu kullan</string>
@@ -157,7 +156,7 @@
     <string name="cancel">İptal et</string>
     <string name="launch">Başlat</string>
     <string name="price">%1$s</string>
-    <string name="progress">%1$s%%</string>
+    <string name="progress">%%%1$s</string>
     <string name="send">Gönder</string>
     <string name="delete">Sil</string>
     <string name="bytes">%1$s/%2$s</string>
@@ -170,9 +169,9 @@
     <string name="installing">Yükleniyor</string>
     <string name="holding">Tutuluyor</string>
     <string name="size">(%1$s)</string>
-    <string name="bytes_unit">%1$sB</string>
-    <string name="kilobytes_unit">%1$sK</string>
-    <string name="megabytes_unit">%1$sM</string>
+    <string name="bytes_unit">%1$s B</string>
+    <string name="kilobytes_unit">%1$s KB</string>
+    <string name="megabytes_unit">%1$s MB</string>
     <string name="rank_app_name">%1$s. %2$s</string>
     <string name="publish_info">%1$s-%2$s yayınlanan %3$s sürüm</string>
     <string name="permissions_title">%1$s izin ayrıntıları</string>
@@ -189,9 +188,9 @@
     <string name="install_this_week">Bu hafta</string>
     <string name="install_this_month">Bu ay</string>
     <string name="install_earlier">Daha erken</string>
-    <string name="size_more_than_one_hundred">100 Mb daha fazla</string>
-    <string name="size_interval">%1$d~%2$dM</string>
-    <string name="package_size">Boyut: %1$sM</string>
+    <string name="size_more_than_one_hundred">100 MB daha fazla</string>
+    <string name="size_interval">%1$d~%2$d MB</string>
+    <string name="package_size">Boyut: %1$s MB</string>
     <string name="package_size_calculating">Boyut: Hesaplanıyor</string>
     <string name="updatable_apps">Mevcut güncellemeler</string>
     <string name="signature_inconsistent_apps">İmza tutarsız</string>
@@ -212,7 +211,7 @@
     <string name="install_inconsistent_fail">Uygulama imzaları eşleşmiyor</string>
     <string name="install_verification_fail">Uygulama doğrulanamadı</string>
     <string name="install_missing_shared_library">Uygulamanın gerekli bileşenleri eksik</string>
-    <string name="install_sdcard_not_available">Sd kart yok algılandı</string>
+    <string name="install_sdcard_not_available">SD kart yok algılandı</string>
     <string name="install_storage_not_enough">Cihazınızda yeterli alan yok</string>
     <string name="install_patch_fail">Yama başarısız oldu</string>
     <string name="install_fail">Yüklenemedi</string>
@@ -238,6 +237,7 @@
     <string name="loading_update_history_list">Güncelleştirme geçmişi yükleniyor</string>
     <string name="loading_partitial_failed">Bazı ögeler yüklenemedi</string>
     <string name="loading_detail_mini">Yükleniyor</string>
+    <string name="common_loading_text">Yükleniyor</string>
     <string name="no_app">Uygulama bulunamadı</string>
     <string name="expand_full_text">Genişlet</string>
     <string name="expand_full_text_comment">Genişlet</string>
@@ -299,7 +299,7 @@
     <string name="diagnostics_gateway_ip">3. Ağ geçidinizin IP adresi</string>
     <string name="diagnostics_cdn_ip">4. Cdn IP adresi</string>
     <string name="diagnostics_test_download">5. İndirme hızınız</string>
-    <string name="diagnostics_data_cost_hint">Tanıma aracı mobil veriden 100 Kb kullanma hakkına sahiptir</string>
+    <string name="diagnostics_data_cost_hint">Tanıma aracı mobil veriden 100 KB kullanma hakkına sahiptir</string>
     <string name="diagnostics_btn_start">Tanımayı başlat</string>
     <string name="diagnostics_btn_processing">Başlatılıyor</string>
     <string name="diagnostics_data_sending">Günlük gönderiliyor</string>
@@ -315,7 +315,7 @@
     <string name="favorite_fail_other_market">Üçüncü taraf market uygulamaları yıldızlı olamaz</string>
     <string name="favorite_delete_success">Uygulama yıldızı kaldırıldı</string>
     <string name="favorite_delete_fail">Uygulama yıldızlanamadı</string>
-    <string name="favorite_account_need_activitied">Mi hesabınız etkin değildir. Şimdi etkinleştirilsin mi?"</string>
+    <string name="favorite_account_need_activitied">Mi hesabınız etkin değildir. Şimdi etkinleştirilsin mi?</string>
     <string name="favorite_account_need_login">Bu uygulamaya yıldız eklemek için şimdi girmek ister misin?</string>
     <string name="favorite_cancel_acount_need_login">Bu uygulamanın yıldızını kaldırmak için şimdi şifre girmek ister misin?</string>
     <string name="favorite_no_network">Ağa bağlanılamıyor</string>
@@ -331,9 +331,9 @@
     <string name="delete_download_history_success">İndirme geçmişi silindi</string>
     <string name="delete_download_history_partition_failed">Geçmiş silinemedi. Bir ya da iki dakika bekleyin ve yeniden deneyin</string>
     <string name="delete_selected_download_history">Kayıtları sil</string>
-    <string name="expansion_main_download_name">%1$s paket 1</string>
-    <string name="expansion_append_download_name">%1$s paket 2</string>
-    <string name="expansion_game_download_name">%1$s paket</string>
+    <string name="expansion_main_download_name">Paket 1: %1$s</string>
+    <string name="expansion_append_download_name">Paket 2: %1$s</string>
+    <string name="expansion_game_download_name">Paket: %1$s</string>
     <string name="enable_gps_title">Konum erişimi</string>
     <string name="enable_gps_message">Mi market konum bilgisi almak için soruyor. Şimdi etkinleştirmek için ayarlara gidilsin mi?</string>
     <string name="management">Yönetim</string>
@@ -359,8 +359,8 @@
     <string name="progress_paused">Duraklatıldı</string>
     <string name="progress_installing">Yükleniyor</string>
     <string name="progress_pending">Bekliyor</string>
-    <string name="select_item">Öge seçildi</string>
-    <string name="items_selected">%1$s öge seçildi</string>
+    <string name="select_item">Öğe seçildi</string>
+    <string name="items_selected">%1$s öğe seçildi</string>
     <string name="collapse_rank_list">Filtreyi ayarlamak için dokunun</string>
     <string name="relate_apps">Benzer uygulamalar</string>
     <string name="miui_update_depen_title">Güncelleme uygun</string>

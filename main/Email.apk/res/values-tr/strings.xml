@@ -12,10 +12,13 @@
     <string name="account_manager_type_pop3">com.android.email</string>
     <string name="account_name_toast">Aynı isimde bir hesap zaten mevcut</string>
     <string name="account_options_sync_title">Senkronizasyon</string>
-    <string name="account_password_spaces_error">Şifre bir veya daha fazla boşluk karakteriyle başlıyor ya da bitiyor. Birçok sunucu boşluk içeren şifreleri desteklememektedir</string>
-    <string name="account_security_dialog_content_fmt">%s için güvenlik ayarlarınızı güncellemeniz gerekiyor</string>
+    <string name="account_password_spaces_error">"Şifre bir veya daha fazla boşluk karakteriyle başlıyor ya da bitiyor
+Birçok sunucu boşluk içeren şifreleri desteklememektedir"</string>
+    <string name="account_security_dialog_content_fmt">"%s için güvenlik ayarlarınızı güncellemeniz gerekiyor
+"</string>
     <string name="account_security_dialog_title">Güvenlik güncellemesi</string>
-    <string name="account_security_policy_explanation_fmt">%s sunucusu Android cihazınızın bazı güvenlik özelliklerinin uzaktan kontrolüne izin vermenizi gerektiriyor</string>
+    <string name="account_security_policy_explanation_fmt">"%s sunucusu android cihazınızın bazı güvenlik özelliklerinin
+uzaktan kontrolüne izin vermenizi gerektiriyor"</string>
     <string name="account_security_title">Cihaz güvenliği</string>
     <string name="account_set_up_change_type_note">POP3 ve IMAP ayarları arasında geçiş yapmanız gerekiyorsa hesabınızı silin ve istediğiniz ayarlarla yeni bir hesap oluşturun</string>
     <string name="account_settings_action">Hesap ayarları</string>
@@ -28,7 +31,8 @@
     <string name="account_settings_enforced_label">Politikalar</string>
     <string name="account_settings_enforced_summary">Hiçbiri</string>
     <string name="account_settings_incoming_summary">Kullanıcı adı, şifre ve diğer sunucu ayarları</string>
-    <string name="account_settings_login_dialog_content_fmt">%s hesabı için girdiğiniz kullanıcı adı veya şifre yanlış. Bunları şimdi güncellemek ister misiniz?</string>
+    <string name="account_settings_login_dialog_content_fmt">"%s hesabı için girdiğiniz kullanıcı adı veya şifre yanlış
+Bunları şimdi güncellemek ister misiniz?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s hesabında oturum açılamadı. Sunucu %s yanıtını verdi</string>
     <string name="account_settings_login_dialog_title">Oturum açılamadı</string>
     <string name="account_settings_mail_check_frequency_label">Tekrar sıklığı</string>
@@ -72,7 +76,6 @@
     <string name="account_setup_exchange_certificate_title">İstemci sertifikası</string>
     <string name="account_setup_exchange_device_id_label">Mobil cihaz kimliği</string>
     <string name="account_setup_exchange_no_certificate">Yok</string>
-    <string name="account_setup_failed_auth_required">Kimlik doğrulama yöntemleri sunucu tarafından desteklenmiyor</string>
     <string name="account_setup_failed_certificate_inaccessible">Sertifika geçersiz veya erişilebilir durumda değil</string>
     <string name="account_setup_failed_certificate_required">İstemci sertifikası gerekmektedir. Sunucuya bir istemci sertifikası ile bağlanmak ister misiniz?</string>
     <string name="account_setup_failed_check_credentials_message">Sunucu hata gönderdi. Kullanıcı adınızı ve şifrenizi kontrol ettikten sonra tekrar deneyin</string>
@@ -92,9 +95,11 @@
     <string name="account_setup_failed_dlg_todo2">Aşağıdaki gibi hesabı ayarla</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Bilinmeyen hata</string>
     <string name="account_setup_failed_ioerror">Sunucuyla bağlantı kurulamadı</string>
-    <string name="account_setup_failed_protocol_unsupported">Yanlış bir sunucu adresi yazdınız veya sunucu e-posta protokolünü desteklemiyor</string>
+    <string name="account_setup_failed_protocol_unsupported">"Yanlış bir sunucu adresi yazdınız
+veya sunucu e-posta protokolünü desteklemiyor"</string>
     <string name="account_setup_failed_security">Güvenlik hatası nedeniyle sunucuyla bağlantı kurulamadı</string>
-    <string name="account_setup_failed_security_policies_unsupported">Bu sunucu Android cihazınız tarafından desteklenmeyen güvenlik özellikleri gerektiriyor. Örneğin: %s</string>
+    <string name="account_setup_failed_security_policies_unsupported">"Bu sunucu android cihazınız tarafından desteklenmeyen güvenlik özellikleri gerektiriyor
+Örneğin: %s"</string>
     <string name="account_setup_failed_tls_required">TLS gerekli ancak sunucu tarafından desteklenmiyor</string>
     <string name="account_setup_failed_too_many_partnerships">Oturum açma izni sunucu maksimum bağlantı sayısına ulaşıldı. Başarısız oldu</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Çöp kutunuzdan sildiğinizde</string>
@@ -134,7 +139,9 @@
     <string name="account_setup_outgoing_port_label">Bağlantı noktası</string>
     <string name="account_setup_outgoing_require_login_label">Oturum açmanız gerekiyor</string>
     <string name="account_setup_outgoing_smtp_server_label">SMTP sunucusu</string>
-    <string name="account_setup_security_policies_required_fmt">%s sunucusu Android cihazınızın bazı güvenlik özelliklerini uzaktan kontrol edebilmek için izin istiyor. Bu hesabın kurulumunu tamamlamak istiyor musunuz?</string>
+    <string name="account_setup_security_policies_required_fmt">"%s sunucusu android cihazınızın bazı güvenlik özelliklerini uzaktan kontrol edebilmek için izin istiyor
+Bu hesabın kurulumunu tamamlamak istiyor musunuz?
+"</string>
     <string name="account_setup_security_required_title">Uzaktan güvenlik yönetimi</string>
     <string name="account_setup_server_acc_manager_title">Hesaplar</string>
     <string name="account_setup_username_password_toast">Geçerli bir e-posta adresi ve şifre yazın</string>
@@ -209,7 +216,8 @@
     <string name="calendar_remind_gridview_pick_date">Tarih seç</string>
     <string name="cancel"> İptal et</string>
     <string name="cancel_action">İptal et</string>
-    <string name="cant_move_or_change_labels">Seçim birden fazla hesap içerdiği için taşınamıyor</string>
+    <string name="cant_move_or_change_labels">"Seçim birden fazla hesap içerdiği için taşınamıyor
+"</string>
     <string name="cc">Bilgi</string>
     <string name="cc_attribution">Bilgi: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
@@ -224,7 +232,7 @@
     <string name="check_setup_data">Sunucu ayarları doğrulanıyor</string>
     <string name="choosertitle_sharevia">Paylaş</string>
     <string name="clear">Temizle</string>
-    <string name="clear_display_images_whitelist_dialog_message">Daha önce izin verdiğiniz göndericilerden gelen satır içi resimleri görüntülemeyi durdurun</string>
+    <string name="clear_display_images_whitelist_dialog_message">Daha önce izin verdiğiniz göndericilerden gelen satır içi fotoğrafları görüntülemeyi durdurun</string>
     <string name="clear_display_images_whitelist_dialog_title">Resim doğrulamaları temizlensin mi?</string>
     <string name="clear_display_images_whitelist_title">Resim doğrulamalarını temizle</string>
     <string name="click_download_all_content">[ İndirmek için dokunun ]</string>
@@ -313,7 +321,9 @@
     <string name="dialog_gmail_proxy_server_is_error">Gmail proxy sunucusu hatası</string>
     <string name="dialog_insufficient_space_on_external">İndirme işlemi tamamlanamıyor. Harici depolama alanında yeterli alan yok</string>
     <string name="dialog_insufficient_space_on_internal">Dahili depolama alanında yeterli boş alan yok</string>
-    <string name="disable_admin_warning">Uyarı: E-posta uygulamasının cihazınızı yönetme yetkisinin devre dışı bırakılması bunu gerektiren tüm e-posta hesaplarının yanı sıra bu hesaplara ait e-postaları, kişileri, takvim olaylarını ve diğer verileri siler</string>
+    <string name="disable_admin_warning">"Uyarı: E-posta uygulamasının cihazınızı yönetme yetkisinin devre dışı bırakılması 
+bunu gerektiren tüm e-posta hesaplarının yanı sıra bu hesaplara ait
+e-postaları, kişileri, takvim olaylarını ve diğer verileri siler"</string>
     <string name="discard">Vazgeç</string>
     <string name="discard_drafts">Taslağı iptal et</string>
     <string name="dismiss_tip_hover_text">İpucuyu yoksay</string>
@@ -359,8 +369,14 @@
     <string name="empty_trash_dialog_title">Çöp kutusu boşaltılsın mı?</string>
     <string name="enable_sync_in_account_settings">Açmak için %1$s</string>
     <string name="enumeration_delimiter">" | "</string>
-    <string name="exception_cancel">Bu etkinlik iptal edildi: %s</string>
-    <string name="exception_updated">Etkinlik ayrıntıları değiştirildi: %s</string>
+    <string name="exception_cancel">"Bu etkinlik iptal edildi:
+%s
+
+"</string>
+    <string name="exception_updated">"Etkinlik ayrıntıları değiştirildi:
+
+	
+%s"</string>
     <string name="exchange_name">Kurumsal</string>
     <string name="exchange_name_alternate">Microsoft değişim senkronize aktivitesi</string>
     <string name="expand_recipient_details">Alıcı ayrıltılarını genişlet</string>
@@ -527,17 +543,40 @@
     <string name="mark_unread">Okunmadı olarak işaretle</string>
     <string name="me_object_pronun">Ben</string>
     <string name="me_subject_pronun">Ben</string>
-    <string name="meeting_accepted">Kabul edildi: %s</string>
-    <string name="meeting_allday">Ne zaman: %s (Tüm gün)</string>
-    <string name="meeting_allday_recurring">Ne zaman: %s (Tüm gün. Yinelenen)</string>
-    <string name="meeting_canceled">İptal edildi: %s</string>
-    <string name="meeting_declined">Reddedildi: %s</string>
-    <string name="meeting_recurring">Ne zaman: %s (Yinelenen)</string>
-    <string name="meeting_tentative">Geçici: %s</string>
-    <string name="meeting_updated">Güncellendi: %s</string>
-    <string name="meeting_when">Ne zaman: %s</string>
-    <string name="meeting_where">Nerede: %s</string>
-    <string name="megabytes">%s Mb</string>
+    <string name="meeting_accepted">"Kabul edildi:
+
+%s"</string>
+    <string name="meeting_allday">"Ne zaman:
+%s
+(Tüm gün)
+"</string>
+    <string name="meeting_allday_recurring">"Ne zaman:
+%s
+(Tüm gün. Yinelenen)
+"</string>
+    <string name="meeting_canceled">"İptal edildi:
+%s
+"</string>
+    <string name="meeting_declined">"Reddedildi:
+%s
+"</string>
+    <string name="meeting_recurring">"Ne zaman:
+%s
+(Yinelenen)
+"</string>
+    <string name="meeting_tentative">"Geçici:
+%s
+"</string>
+    <string name="meeting_updated">"Güncellendi:
+%s
+"</string>
+    <string name="meeting_when">"Ne zaman:
+%s
+"</string>
+    <string name="meeting_where">"Nerede:
+%s
+"</string>
+    <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Eklentiler</string>
     <string name="menu_att_mgr_order_default">Yakınlarda görüntülenen</string>
     <string name="menu_att_mgr_order_mime">Biçime göre sırala</string>
@@ -568,7 +607,8 @@
     <string name="message_invite_tentative">Belki</string>
     <string name="message_invite_title">Takvim daveti</string>
     <string name="message_saved">İleti taslak olarak kaydedildi</string>
-    <string name="message_view_attachment_background_load">Yönlendirilen iletinizdeki bir veya daha fazla ek, gönderme işleminden önce indirilecek</string>
+    <string name="message_view_attachment_background_load">"Yönlendirilen iletinizdeki bir veya daha fazla
+ek gönderme işleminden önce indirilecek"</string>
     <string name="mibill_privacy_policy_button1">Şimdi değil</string>
     <string name="mibill_privacy_policy_button2">Kabul et</string>
     <string name="mibill_privacy_policy_description">Mi cüzdan e-posta uygulamanızdaki e-posta ifadelerinin tamamını inceleyerek kredi kartı faturalarınızı yönetmenize yardımcı olacaktır. Bu hizmet şirket posta kutusu için devre dışı bırakılmıştır</string>
@@ -638,9 +678,11 @@
     <string name="password_expire_warning_content_title">Ekran kilidi şifre süresi doluyor</string>
     <string name="password_expire_warning_dialog_content_fmt">Ekran kilidi Pin veya şifrenizi yakın zamanda değiştirmeniz gerekiyor. Aksi halde %s hesabı verileri silinecek. Şimdi değiştirmek ister misiniz?</string>
     <string name="password_expire_warning_dialog_title">Ekran kilidi şifre süresi doluyor</string>
-    <string name="password_expire_warning_ticker_fmt">"%s hesabı için kilit ekranı şifrenizi veya Pin'inizi değiştirmeniz gerekiyor"</string>
+    <string name="password_expire_warning_ticker_fmt">"%s hesabı için kilit ekranı şifrenizi
+veya Pin'inizi değiştirmeniz gerekiyor"</string>
     <string name="password_expired_content_title">Ekran kilidi şifre süresi doldu</string>
-    <string name="password_expired_dialog_content_fmt">%s hesabı verileri cihazınızdan siliniyor. Kilit ekranı Pin veya şifrenizi değiştirerek hesaba ait verileri geri yükleyebilirsiniz. Şimdi değiştirmek istiyor musunuz?</string>
+    <string name="password_expired_dialog_content_fmt">"%s hesabı verileri cihazınızdan siliniyor
+Kilit ekranı Pin veya şifrenizi değiştirerek hesaba ait verileri geri yükleyebilirsiniz. Şimdi değiştirmek istiyor musunuz?"</string>
     <string name="password_expired_dialog_title">Ekran kilidi şifre süresi doldu</string>
     <string name="password_expired_ticker">Ekran kilidinizin Pin veya şifresinin süresi doldu.</string>
     <string name="perference_change_pw_notnull_tips">Şifrenizi girin</string>
@@ -671,7 +713,8 @@
     <string name="policy_dont_allow_storage_cards">Karta depolamaya izin verme</string>
     <string name="policy_dont_allow_text_messaging">Metin mesajlarına izin verme</string>
     <string name="policy_dont_allow_unsigned_apps">İmzasız uygulamalara izin verme</string>
-    <string name="policy_dont_allow_unsigned_installers">İmzasız uygulama yükleyicilerine izin verme</string>
+    <string name="policy_dont_allow_unsigned_installers">"İmzasız uygulama yükleyicilerine izin verme
+"</string>
     <string name="policy_dont_allow_wifi">"Wifi'e izin verme"</string>
     <string name="policy_email_age">Senkronize edilecek e-posta sayısını sınırlandır</string>
     <string name="policy_html_truncation">HTML e-posta boyutunu sınırla</string>
@@ -680,7 +723,7 @@
     <string name="policy_require_encryption">Cihaz şifrelemesi gerektirir</string>
     <string name="policy_require_manual_sync_roaming">Dolaşım sırasında sadece el ile eşitlemeye izin ver</string>
     <string name="policy_require_password">Cihaz şifresi iste</string>
-    <string name="policy_require_sd_encryption">Sd kart şifrelemesi gerektirir</string>
+    <string name="policy_require_sd_encryption">SD kart şifrelemesi gerektirir</string>
     <string name="policy_require_smime">SMIME mesajları gereklidir</string>
     <string name="policy_screen_timeout">Cihaz boştayken ekranını kilitlemesini gerektir</string>
     <string name="policy_text_truncation">Metin e-posta boyutunu sınırla</string>
@@ -689,8 +732,8 @@
     <string name="preference_eas_tips">"E-posta sunucusu kurulumu için tamam'a dokunun"</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">POP3 türünde eklentiler e-postanın kendisiyle beraber otomatik olarak indirilir. Lütfen mobil veriye dikkat edin</string>
-    <string name="preference_sender_image_description">Profil resimlerini gönderen kişinin adının yanında gösterilir</string>
-    <string name="preference_sender_image_title">Gelen kutusu profil resimleri</string>
+    <string name="preference_sender_image_description">Profil fotoğraflarını gönderen kişinin adının yanında gösterilir</string>
+    <string name="preference_sender_image_title">Gelen kutusu profil fotoğrafları</string>
     <string name="preferences_signature_dialog_title">İmza</string>
     <string name="preferences_signature_summary_not_set">Ayarlı değil</string>
     <string name="preferences_signature_title">İmza</string>
@@ -800,18 +843,22 @@
     <string name="search_tabs_name_subject">Konu</string>
     <string name="search_title">Birleştirilmiş e-posta</string>
     <string name="search_txt_size_limit_prompt">Arama terimleri 3 karakterden daha büyük olmalıdır</string>
-    <string name="security_changed_ticker_fmt">%s hesabı kendi güvenlik ayarlarını değiştirdi. Her hangi bir kullanıcı eylemine gerek yok</string>
+    <string name="security_changed_ticker_fmt">"%s hesabı kendi güvenlik ayarlarını değiştirdi
+Her hangi bir kullanıcı eylemine gerek yok"</string>
     <string name="security_needed_ticker_fmt">%s hesabı güvenlik ayarları güncelleştirmesi gerektiriyor</string>
-    <string name="security_notification_content_change_title">Güvenlik politikaları değiştirildi</string>
-    <string name="security_notification_content_unsupported_title">Güvenlik politikaları karşılanamıyor</string>
+    <string name="security_notification_content_change_title">"Güvenlik politikaları değiştirildi
+"</string>
+    <string name="security_notification_content_unsupported_title">"Güvenlik politikaları karşılanamıyor
+"</string>
     <string name="security_notification_content_update_title">Güvenlik güncellemesi gerekiyor</string>
-    <string name="security_unsupported_ticker_fmt">%s hesabı güvenlik sorunları nedeniyle senkronize edilemedi</string>
+    <string name="security_unsupported_ticker_fmt">"%s hesabı güvenlik sorunları nedeniyle senkronize edilemedi
+"</string>
     <string name="select_attachment_type">Eklentiyi seçin</string>
     <string name="select_no_file">Hiç bir eklenti seçilmedi</string>
     <string name="selected_lable">Seçildi</string>
     <string name="send">Gönder</string>
     <string name="send_failed">Mesaj gönderilemedi</string>
-    <string name="sender_whitelist_cleared">Resimler otomatik olarak görüntülenmeyecek</string>
+    <string name="sender_whitelist_cleared">Fotoğraflar otomatik olarak görüntülenmeyecek</string>
     <string name="senders_elided">..</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Gönderiliyor</string>
@@ -831,7 +878,7 @@
     <string name="sharing">Paylaş</string>
     <string name="shortcut_name_title">Klasör kısayolu adı</string>
     <string name="show_elided">▶ Alıntı metni göster</string>
-    <string name="show_images">Resimleri indir ve göster</string>
+    <string name="show_images">Fotoğrafları indir ve göster</string>
     <string name="signature">"
 
 
@@ -888,7 +935,9 @@
     <string name="trigger_refresh_char">u</string>
     <string name="trigger_y_char">y</string>
     <string name="try_exchange_login">Takas ile girişi deneyin</string>
-    <string name="turn_auto_sync_on_dialog_body">Yalnızca Gmail değil, tüm uygulamalarda ve hesaplarınızda yaptığınız değişiklikler internet ile diğer cihazlarınız arasında ve %1$s cihazınız arasında senkronize edilir</string>
+    <string name="turn_auto_sync_on_dialog_body">"Yalnızca Gmail değil, tüm uygulamalarda ve hesaplarınızda yaptığınız değişiklikler
+internet ile diğer cihazlarınız arasında ve %1$s cihazınız arasında senkronize edilir
+"</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Aç</string>
     <string name="turn_auto_sync_on_dialog_title">Otomatik senkronizasyon açılsın mı?</string>
     <string name="undo">Geri al</string>

@@ -43,7 +43,7 @@
     <string name="hspa_summary_head">Hsdpa/Hsupa etlinleştir</string>
     <string name="category_audio_title">Ses</string>
     <string name="dockaudio_subcat_title">Yuva sesi</string>
-    <string name="use_dock_audio_title_head">Usb yuva sesini kullan</string>
+    <string name="use_dock_audio_title_head">USB yuva sesini kullan</string>
     <string name="use_dock_audio_summary_head">Yuva pasif ses çıkışını kullanın</string>
     <string name="spen_subcat_title">Kalem</string>
     <string name="spen_power_save_title_head">Güç tasarrufu modu</string>

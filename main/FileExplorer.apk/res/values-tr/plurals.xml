@@ -17,12 +17,12 @@
         <item quantity="many">ve %1$d klasör silinsin mi?</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d öge</item>
-        <item quantity="zero">%d öge</item>
-        <item quantity="one">%d öge</item>
-        <item quantity="two">%d öge</item>
-        <item quantity="few">%d öge</item>
-        <item quantity="many">%d öge</item>
+        <item quantity="other">%d öğe</item>
+        <item quantity="zero">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+        <item quantity="two">%d öğe</item>
+        <item quantity="few">%d öğe</item>
+        <item quantity="many">%d öğe</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">Kalan indirme dosyası: %1$d</item>
@@ -49,52 +49,52 @@
         <item quantity="many">%1$d seçildi</item>
     </plurals>
     <plurals name="items_file">
-        <item quantity="other"> (%1$d öge)</item>
-        <item quantity="zero"> (%1$d öge)</item>
-        <item quantity="one"> (%1$d öge)</item>
-        <item quantity="two"> (%1$d öge)</item>
-        <item quantity="few"> (%1$d öge)</item>
-        <item quantity="many"> (%1$d öge)</item>
+        <item quantity="other"> (%1$d öğe)</item>
+        <item quantity="zero"> (%1$d öğe)</item>
+        <item quantity="one"> (%1$d öğe)</item>
+        <item quantity="two"> (%1$d öğe)</item>
+        <item quantity="few"> (%1$d öğe)</item>
+        <item quantity="many"> (%1$d öğe)</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d öge)</item>
-        <item quantity="zero"> (%1$d öge)</item>
-        <item quantity="one"> (%1$d öge)</item>
-        <item quantity="two"> (%1$d öge)</item>
-        <item quantity="few"> (%1$d öge)</item>
-        <item quantity="many"> (%1$d öge)</item>
+        <item quantity="other"> (%1$d öğe)</item>
+        <item quantity="zero"> (%1$d öğe)</item>
+        <item quantity="one"> (%1$d öğe)</item>
+        <item quantity="two"> (%1$d öğe)</item>
+        <item quantity="few"> (%1$d öğe)</item>
+        <item quantity="many"> (%1$d öğe)</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d öge</item>
-        <item quantity="zero"> %1$d öge</item>
-        <item quantity="one"> %1$d öge</item>
-        <item quantity="two"> %1$d öge</item>
-        <item quantity="few"> %1$d öge</item>
-        <item quantity="many"> %1$d öge</item>
+        <item quantity="other"> %1$d öğe</item>
+        <item quantity="zero"> %1$d öğe</item>
+        <item quantity="one"> %1$d öğe</item>
+        <item quantity="two"> %1$d öğe</item>
+        <item quantity="few"> %1$d öğe</item>
+        <item quantity="many"> %1$d öğe</item>
     </plurals>
     <plurals name="search_head_hint_app">
-        <item quantity="other">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="zero">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="one">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="two">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="few">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="many">%1$s ile ilgili dosya (%2$d öge)</item>
+        <item quantity="other">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="zero">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="one">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="two">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="few">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="many">%1$s ile ilgili dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="zero">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="one">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="two">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="few">%1$s ile ilgili dosya (%2$d öge)</item>
-        <item quantity="many">%1$s ile ilgili dosya (%2$d öge)</item>
+        <item quantity="other">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="zero">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="one">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="two">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="few">%1$s ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="many">%1$s ile ilgili dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">%1$s etiketi ile ilgili dosya (%2$d öge)</item>
-        <item quantity="zero">%1$s etiketi ile ilgili dosya (%2$d öge)</item>
-        <item quantity="one">%1$s etiketi ile ilgili dosya (%2$d öge)</item>
-        <item quantity="two">%1$s etiketi ile ilgili dosya (%2$d öge)</item>
-        <item quantity="few">%1$s etiketi ile ilgili dosya (%2$d öge)</item>
-        <item quantity="many">%1$s etiketi ile ilgili dosya (%2$d öge)</item>
+        <item quantity="other">%1$s etiketi ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="zero">%1$s etiketi ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="one">%1$s etiketi ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="two">%1$s etiketi ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="few">%1$s etiketi ile ilgili dosya (%2$d öğe)</item>
+        <item quantity="many">%1$s etiketi ile ilgili dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d dakika önce</item>

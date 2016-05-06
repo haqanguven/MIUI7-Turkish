@@ -1223,7 +1223,7 @@
     <string name="wallpaper_key_style_title">按键样式</string>
     <string name="weixin_entry_commit_emoji">İfade girin ve paylaşa tıklayın</string>
     <string name="wallpaper_save_bitmap">皮肤生成中</string>
-    <string name="wallpaper_error_no_sdcard">Sd kart algılanmıyor. Duvar kağıdı ekleyemezsiniz</string>
+    <string name="wallpaper_error_no_sdcard">SD kart algılanmıyor. Duvar kağıdı ekleyemezsiniz</string>
     <string name="smart_search_title">Ara</string>
     <string name="smart_search_engine_title">Arama motoru</string>
     <string name="smart_search_engine_summary">Özel arama motoru hizmetini seçin</string>

@@ -86,8 +86,8 @@
     <string name="status_not_accept">Desteklenmeyen içerik biçimi</string>
     <string name="status_forbidden">Dosya aktarılamıyor</string>
     <string name="status_canceled">Gönderme iptal edildi</string>
-    <string name="status_file_error">Sd kart hatası</string>
-    <string name="status_no_sd_card">Sd kart yok. Kaydedilen dosyaları kaydetmek için Sd kart takın</string>
+    <string name="status_file_error">SD kart hatası</string>
+    <string name="status_no_sd_card">SD kart yok. Kaydedilen dosyaları kaydetmek için SD kart takın</string>
     <string name="status_connection_error">Bağlantı başarısız</string>
     <string name="status_protocol_error">İşlem başarısız</string>
     <string name="status_unknown_error">Bilinmeyen hata</string>

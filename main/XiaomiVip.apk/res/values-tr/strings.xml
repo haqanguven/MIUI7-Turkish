@@ -91,6 +91,7 @@
     <string name="use_immediately">Şimdi kullanın</string>
     <string name="redeem">Kurtar</string>
     <string name="acquired_time_x">%s alındı</string>
+    <string name="acquired_date_x">%s alındı</string>
     <string name="awards">Ödüller</string>
     <string name="achievement_progress" formatted="false">İlerleme: %d/%d</string>
     <string name="device_usage_data">Telefon kullanım istatistikleri</string>
@@ -99,19 +100,33 @@
     <string name="device_answer_phone_times">Cevaplanan aramalar</string>
     <string name="share_button">Paylaş</string>
     <string name="share">Paylaş</string>
+    <string name="my_weekly_rank_history">Haftalık sıralamam</string>
+    <string name="weekly_rank">Haftalık en iyi</string>
+    <string name="global_rank">Genel en iyi</string>
     <string name="rank">Sıralamalar</string>
     <string name="my_rank">Sıralamam: </string>
     <string name="my_rank_not_ready">N/A</string>
     <string name="rank_keeps">Benzer</string>
+    <string name="rank_suffix" />
     <string name="personal_info">Profil</string>
     <string name="button_confirm">Evet</string>
     <string name="button_cancel">İptal et</string>
     <string name="button_previous">Önceki</string>
     <string name="exchange_rules">Yardım</string>
+    <string name="exchange_toast">Dikkat</string>
     <string name="exchange_traffic">Mobil veri al</string>
     <string name="more">Daha fazla</string>
     <string name="not_enough_pisces">Jeton yeterli değil</string>
     <string name="unlock_at_level_x">%d. sviye kilidini aç</string>
+    <string name="mall">Alışveriş merkezi</string>
+    <string name="accelerate">Hızlandır</string>
+    <string name="others">Daha fazla</string>
+    <string name="lottery">Piyango</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="deselect_all">Tüm seçimi kaldır</string>
+    <string name="delete">Sil</string>
+    <string name="not_login_yet">Oturum aç</string>
+    <string name="loading">Yükleniyor</string>
     <string name="buff_enable">[ Etkinleştir ]</string>
     <string name="hello">Merhaba</string>
     <string name="days">%d gün</string>
@@ -129,4 +144,7 @@
     <string name="download_fail">"Uygulama indirilemedi: %s"</string>
     <string name="input_empty">Boş olamaz</string>
     <string name="install_fail">"Uygulamayı yüklenemedi: %s"</string>
+    <string name="attention">Dikkat</string>
+    <string name="got_it">Anladım</string>
+    <string name="award_delete_confirmation">Seçilen öğeler silinsin mi?</string>
 </resources>

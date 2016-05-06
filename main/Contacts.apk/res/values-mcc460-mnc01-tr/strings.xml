@@ -10,7 +10,7 @@ Kişi eklemek için öncelikle"<b><font fgcolor="#ffffffff">Menüye</font></b> d
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Yeni kişi ile sıfırdan yeni kişilerinizi oluşturabilir
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar veya dışa aktar ile USim yada Sd kartınızda bulunan kişileri içe aktarabilirsiniz
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar veya dışa aktar ile USim yada SD kartınızda bulunan kişileri içe aktarabilirsiniz
 "</li></font></b>" 
 "</string>
     <string name="noContactsHelpTextWithSync">"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz kişileri senkronize etmek birkaç dakika sürebilir)
@@ -23,7 +23,7 @@ Kişi eklemek için öncelikle"<b><font fgcolor="#ffffffff">Menüye</font></b>" 
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Yeni kişi ile sıfırdan yeni kişilerinizi oluşturabilir
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar veya dışa aktar ile USim veya Sd kartınızda bulunan kişileri içe aktarabilirsiniz
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar veya dışa aktar ile USim veya SD kartınızda bulunan kişileri içe aktarabilirsiniz
 "</li></font></b>" 
 "</string>
     <string name="import_from_sim">USim kartı içe aktar</string>

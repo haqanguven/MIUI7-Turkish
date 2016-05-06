@@ -11,7 +11,7 @@
     <string name="low_risk_perms">Düşük riskli izinler</string>
     <string name="high_risk_perms">Yüksek riskli izinler</string>
     <string name="perm_privacy_app_finish">Bitti</string>
-    <string name="perm_privacy_app_launch">Aç</string>
+    <string name="perm_privacy_app_launch">Başlat</string>
     <string name="perm_privacy_app_installed">Yükleme başarıyla tamamlandı</string>
     <string name="perm_sysopt_boost_auto_start">İzinleri otomatik başlat</string>
     <string name="perm_sysopt_boost_auto_start_summary">Bu uygulama otomatik başlatılacak</string>
@@ -79,7 +79,7 @@
     <string name="install_failed_verify_failed">Paket doğrulanamadı. Yükleme işlemi iptal edildi</string>
     <string name="install_failed_verify_timeout">Bu paketi doğrulanırken zaman aşımına uğradı. Daha sonra yeniden deneyin</string>
     <string name="install_failed_msg">%1$s yüklenemedi</string>
-    <string name="launch">Aç</string>
+    <string name="launch">Başlat</string>
     <string name="unknown_apps_dlg_title">Yükleme engellendi</string>
     <string name="unknown_apps_dlg_text">Telefonunuz bilinmeyen kaynaklardan gelen uygulamaların yüklenmesini engellemeye ayarlıdır. Ayarlar bölümünden bu özelliği kapatabilirsiniz</string>
     <string name="unknown_apps_dlg_text1">"Telefonunuz bilinmeyen kaynaklardan gelen uygulamaların yüklenmesini engellemeye ayarlıdır. Siz bu özelliği kapatabilirsiniz. "</string>
@@ -108,7 +108,7 @@ Daha önceki tüm kullanıcı verileri kaydedilecektir"</string>
     <string name="uninstall_update_title">Güncellemeyi kaldır</string>
     <string name="uninstall_activity_text">%1$s aşağıdaki uygulamanın bir parçasıdır:</string>
     <string name="uninstall_application_text">Uygulama kaldırılacak</string>
-    <string name="uninstall_update_text">Uygulama fabrika versiyonu ile değiştirildi</string>
+    <string name="uninstall_update_text">Uygulama fabrika sürümü ile değiştirilecektir</string>
     <string name="uninstalling">Kaldırılıyor</string>
     <string name="uninstall_done">Kaldırma tamamlandı</string>
     <string name="uninstall_failed">Kaldırma tamamlanamadı</string>

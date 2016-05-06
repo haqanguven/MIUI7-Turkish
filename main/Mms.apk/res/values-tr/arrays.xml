@@ -46,20 +46,6 @@
         <item>Sırıtma</item>
         <item>Poker surat</item>
     </string-array>
-    <string-array name="prefEntries_ringtone_repeat">
-        <item>1 kez</item>
-        <item>2 kez</item>
-        <item>3 kez</item>
-        <item>5 kez</item>
-        <item>10 kez</item>
-    </string-array>
-    <string-array name="prefValues_ringtone_repeat">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>İsim</item>
         <item>Takma isim</item>

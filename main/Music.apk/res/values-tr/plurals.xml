@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color=\"red\">%d şarkı&amp;lt;/font> indirildi</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d şarkı&amp;lt;/font> indirildi</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color=\"red\">%d şarkı&amp;lt;/font> indiriliyor</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d şarkı&amp;lt;/font> indiriliyor</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d şarkı bulundu</item>
         <item quantity="one">%d şarkı bulundu</item>
@@ -79,8 +87,8 @@
         <item quantity="one">%d şarkı eklendi</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d öge seçildi</item>
-        <item quantity="one">%d öge seçildi</item>
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Şarkı favorilendi</item>

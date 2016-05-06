@@ -53,7 +53,7 @@
         <item quantity="one">1 dakika önce</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d öge</item>
-        <item quantity="one">%1$d öge</item>
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
     </plurals>
 </resources>

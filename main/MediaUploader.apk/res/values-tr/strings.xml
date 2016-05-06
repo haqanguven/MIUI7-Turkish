@@ -19,7 +19,7 @@
     <string name="picasa_upload_toast_no_file_to_upload">Yüklenecek dosya yok {0}{/0}</string>
     <string name="picasa_upload_paused_network">Ağ bekleniyor</string>
     <string name="picasa_upload_paused_server_error">Sunucu hatası. Birazdan tekrar denenecek</string>
-    <string name="picasa_upload_paused_missing_sdcard">Sd kart mevcut değil</string>
+    <string name="picasa_upload_paused_missing_sdcard">SD kart mevcut değil</string>
     <string name="picasa_upload_paused_quota_exceeded">Kota aşıldı</string>
     <string name="picasa_upload_paused_auth">Kimlik doğrulama başarısız oldu</string>
     <string name="picasa_upload_paused">Yükleme duraklatıldı. Birazdan tekrar denenecek</string>

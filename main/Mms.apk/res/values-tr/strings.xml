@@ -20,12 +20,12 @@
     <string name="view_message_details">Ayrıntıları görüntüle</string>
     <string name="delete_message">Sil</string>
     <string name="expire_on">Sona erme tarihi: %s</string>
-    <string name="kilobyte">Kb</string>
+    <string name="kilobyte">KB</string>
     <string name="undelivered_msg_dialog_title">Teslim edilmemiş mesaj</string>
     <string name="undelivered_msg_dialog_body">"Bu mesaj gönderilemedi
 Son deneme zamanı: %s"</string>
     <string name="undelivered_sms_dialog_body">Bu mesaj gönderilemedi</string>
-    <string name="menu_forward">Yönlendir</string>
+    <string name="menu_forward">İlet</string>
     <string name="download">İndir</string>
     <string name="downloading">İndiriliyor</string>
     <string name="insufficient_drm_rights">Yetersiz Drm hakları tespit edildi</string>
@@ -67,7 +67,7 @@ Son deneme zamanı: %s"</string>
     <string name="resize_image_error_information">Bu resim yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük</string>
     <string name="forward_prefix">"Mesaj: "</string>
     <string name="discard_message">Sil</string>
-    <string name="discard_message_reason">Mesajınızın geçerli alıcısı olmadığı için silinecek</string>
+    <string name="discard_message_reason">Mesajınızın geçerli alıcısı olmadığı için silinecektir</string>
     <string name="has_invalid_recipient">Geçersiz alıcılar: &lt;%1$s></string>
     <string name="invalid_destination">Geçersiz hedef adresi</string>
     <string name="service_not_activated">Ağ üzerinde hizmet etkin değil</string>
@@ -83,7 +83,7 @@ Son deneme zamanı: %s"</string>
     <string name="cannot_add_picture_and_video">Video ve resim aynı slayta eklenemez</string>
     <string name="message_saved_as_draft">Mesaj taslak olarak kaydedildi</string>
     <string name="too_many_recipients">Bu mesajın çok fazla alıcısı var (%1$s). En fazla %2$s alıcı olabilir</string>
-    <string name="too_many_attachments">Ek sayısı en çok %1$s olabilir. Yalnızca ilk %2$s öge eklenecektir</string>
+    <string name="too_many_attachments">Ek sayısı en çok %1$s olabilir. Yalnızca ilk %2$s öğe eklenecektir</string>
     <string name="adding_attachments_title">Ekler ekleniyor</string>
     <string name="adding_attachments">Öğeler slayt gösterisine eklenirken bekleyin</string>
     <string name="recipients_over_size">Çok fazla alıcı</string>
@@ -184,7 +184,7 @@ Son deneme zamanı: %s"</string>
     <string name="status_rejected">Reddedildi</string>
     <string name="recipient_label">"Alıcı: "</string>
     <string name="status_label">"Durum: "</string>
-    <string name="attach_image">Resimler</string>
+    <string name="attach_image">Fotoğraflar</string>
     <string name="attach_take_photo">Fotoğraf çek</string>
     <string name="attach_video">Video ekle</string>
     <string name="attach_record_video">Video çek</string>
@@ -236,10 +236,10 @@ Son deneme zamanı: %s"</string>
     <string name="edit_slide_activity">Slaydı düzenle</string>
     <string name="slideshow_activity">Slayt gösterisi</string>
     <string name="class_0_message_activity">Klasik 0 mesaj</string>
-    <string name="search_label">Mesajlaşma</string>
+    <string name="search_label">Mesajlar</string>
     <string name="search_hint">Mesajlaşmada ara</string>
-    <string name="search">Mesajlaşma</string>
-    <string name="search_setting_description">Mesajlarınızdaki metin</string>
+    <string name="search">Mesajlar</string>
+    <string name="search_setting_description">Mesaj metinleri</string>
     <string name="search_empty">Eşleşme yok</string>
     <string name="save">Kaydet</string>
     <string name="storage_limits_message">Her mesaj dizisi için kaydettiğiniz mesaj sayısı sınırlansın mı?</string>
@@ -569,7 +569,7 @@ Son deneme zamanı: %s"</string>
     <string name="recording_failed">Kayıt edilemiyor</string>
     <string name="downloading_file_can_not_play">Kayıt indirilene kadar bekleyin</string>
     <string name="guild_msim_switcher">Sim kart geçişi için dokunun</string>
-    <string name="sdcard_has_not_enough_space">Sd kartta yeterli boş alan yok</string>
+    <string name="sdcard_has_not_enough_space">SD kartta yeterli boş alan yok</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Ses indirilemedi</string>
@@ -630,4 +630,9 @@ Son deneme zamanı: %s"</string>
     <string name="title_red_package">Zengin olmak ve iyi şans</string>
     <string name="title_send_red_package">Kırmızı paketi kontrol et</string>
     <string name="title_recv_red_package">Kırmızı paketi al</string>
+    <string name="delete_wild_sims">Numaraları sil</string>
+    <string name="delete_wild_sims_confirm">Bu telefondaki seçili numaralara ait tüm mesajlar silinecek. Geri yüklemek için i.mi.com adresi kullanabilirsiniz</string>
+    <string name="delete_wild_sims_title">Seçili numaraları sil</string>
+    <string name="add_to_browser_favorite_success">Başarılı oldu</string>
+    <string name="add_to_browser_favorite_failed">Başarısız oldu</string>
 </resources>

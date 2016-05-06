@@ -9,7 +9,7 @@
         <item quantity="one">En yüksek seçeneği kapatmaya %1$d adım uzaklıktasın</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
-        <item quantity="other">Tüm ögelerin kilidi açmaya %1$d adım uzaklıktasın</item>
-        <item quantity="one">Tüm ögelerin kilidi açmaya %1$d adım uzaklıktasın</item>
+        <item quantity="other">Tüm öğelerin kilidi açmaya %1$d adım uzaklıktasın</item>
+        <item quantity="one">Tüm öğelerin kilidi açmaya %1$d adım uzaklıktasın</item>
     </plurals>
 </resources>

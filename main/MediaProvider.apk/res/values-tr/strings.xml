@@ -10,5 +10,4 @@
     <string name="root_images">Fotoğraflar</string>
     <string name="root_videos">Videolar</string>
     <string name="root_audio">Sesler</string>
-    <string name="drm_licensed_message">Zil sesi veya bildirim uyarıSI olarak dRM korumalı içeriği ayarlamak için açılamıyor</string>
 </resources>

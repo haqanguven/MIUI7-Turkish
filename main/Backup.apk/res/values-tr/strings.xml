@@ -6,9 +6,9 @@ Boyut: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Sürüm %1$s tanıtımı
 Delta güncelleme boyutu: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Depolama kullanılamaz. SD kartı kontrol edin</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_connect_download_manager_fail">İndirme yöneticisine bağlanma başarısız oldu. İndirme yöneticisinin durumunu kontrol ediniz</string>
     <string name="st_antispam_mode_smart_state">11111111</string>
     <string name="st_antispam_mode_blacklist_state">11112121</string>
@@ -44,7 +44,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="start_restore">Geri yükle</string>
     <string name="backup_file_error">Yedekleme ile ilgili bir sorun oluştu</string>
     <string name="unit_byte">Bayt</string>
-    <string name="unit_piece">" Öge"</string>
+    <string name="unit_piece">" Öğe"</string>
     <string name="restore_finished">Geri yükleme tamamlandı</string>
     <string name="restore_report">Geri yükleme raporu</string>
     <string name="restore_progress">Geri yükleniyor</string>
@@ -72,8 +72,8 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="local_backup_window_title">Yerel verileri yedekleme</string>
     <string name="local_restore_window_title">Yerel kurtarma</string>
     <string name="account_login">Giriş</string>
-    <string name="miliao_account_login">Mi Talk giriş</string>
-    <string name="miliao_account_guide">Mi Talk hesabınız Xiaomi tarafından yükseltildi. Tüm Xiaomi çevrimiçi hizmetlerin keyfini çıkarın</string>
+    <string name="miliao_account_login">Mi talk girişi</string>
+    <string name="miliao_account_guide">Mi talk hesabınız Xiaomi tarafından yükseltildi. Tüm Xiaomi çevrimiçi hizmetlerin keyfini çıkarın</string>
     <string name="auto_backup">Otomatik yedekle</string>
     <string name="contact_title">Kişiler</string>
     <string name="call_title">Arama kayıtları</string>
@@ -179,7 +179,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="reverse_all">Hepsini temizle</string>
     <string name="refresh">Yenile</string>
     <string name="cloud_item_info_summary">" (Yerel %1$s | Mi bulut %2$s)"</string>
-    <string name="total_num">%d öge</string>
+    <string name="total_num">%d öğe</string>
     <string name="cloud_restore_guide">"Verileri geri yüklemeyi başlat. Ayrıca yedekleyip %s geri yükleye bilirsiniz"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009MiTalk yükleyin ve giriş yapın
 \u0009http://www.miliao.com
@@ -261,7 +261,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="notif_restore_complete_title">Başarıyla geri yüklendi</string>
     <string name="notif_trans_sending_completed">Veri başarıyla gönderildi</string>
     <string name="notif_trans_receiving_completed">Veri başarıyla alındı</string>
-    <string name="custom_progress">%d öge</string>
+    <string name="custom_progress">%d öğe</string>
     <string name="remote_receive">Al</string>
     <string name="click_to_view">Görüntülemek için dokunun</string>
     <string name="trans_one_key_migrate">Aktarma</string>
@@ -340,9 +340,9 @@ En azından %s temizleyin"</string>
     <string name="trans_calculating_app_sd_size">Gönderme veri boyutu hesaplanıyor, %s tarandı</string>
     <string name="trans_please_waiting">Lütfen bekleyin</string>
     <string name="size_byte">B</string>
-    <string name="size_kilo_byte">Kb</string>
-    <string name="size_mega_byte">Mb</string>
-    <string name="size_giga_byte">Gb</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_giga_byte">GB</string>
 	<string name="trans_connect_failed_title">Bağlantı sağlanamadı</string>
     <string name="trans_connect_failed_message">Bağlantı sağlanamadı. Yeniden deneyin veya yeniden başlatın</string>
     <string name="trans_retry">Tekrar dene</string>

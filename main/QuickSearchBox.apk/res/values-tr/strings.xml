@@ -9,6 +9,7 @@
     <string name="search_in_app_store">Mi uygulama mağazasında ara</string>
     <string name="send_secret_code">Kod gönder</string>
     <string name="xiaomi_search_label">Sonuçlar</string>
+    <string name="search_suggestion">İpuçlar</string>
     <string name="distance_unit_meter">metre</string>
     <string name="distance_unit_kilometer">kilometre</string>
     <string name="cta_declaration_title">Hizmet şartları</string>
@@ -16,7 +17,7 @@
     <string name="cta_declaration_ignore">Tekrar gösterme</string>
     <string name="cta_declaration_positive_text">İzin ver</string>
     <string name="cta_declaration_negative_text">Çıkış</string>
-    <string name="default_hint">Uygulama, müzik, video, kitap arayın</string>
+    <string name="default_hint">Uygulama, müzik, video ara</string>
     <string name="network_unavailable">İnternet bağlantısı yok</string>
     <string name="connect_and_retry">İnternete bağlanın ve ardından tekrar deneyin</string>
     <string name="web_search_results">İnternet arama sonuçları</string>

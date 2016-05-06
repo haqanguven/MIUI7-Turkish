@@ -150,7 +150,7 @@ Kişi eklemek için "<b><font fgcolor="#ffffffff">Menüye</font></b>" ardından:
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Yeni kişiye dokunarak en baştan bir kişi oluşturabilir
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya Sd kartınızdan kişileri içe aktarabilirsiniz
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya SD kartınızdan kişileri içe aktarabilirsiniz
 "</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Görüntülenecek kişi yok. (Eğer kısa bir süre önce bir hesap eklediyseniz kişilerin senkronizasyon işlemi birkaç dakika sürebilir)
@@ -163,7 +163,7 @@ Kişi eklemek için "<b><font fgcolor="#ffffffff">Menüye</font></b>" ardından:
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Yeni kişiye dokunarak en baştan bir kişi oluşturabilir
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya Sd kartınızdan kişileri içe aktarabilirsiniz
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya SD kartınızdan kişileri içe aktarabilirsiniz
 "</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Görüntülenecek kişi yok
@@ -174,7 +174,7 @@ Kişi eklemek için "<b><font fgcolor="#ffffffff">Menüye</font></b>" ardından:
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Yeni kişiye dokunarak en baştan bir kişi oluşturabilir
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya Sd kartınızdan kişileri içe aktarabilirsiniz
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya SD kartınızdan kişileri içe aktarabilirsiniz
 "</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Görüntülenecek kişi yok. (Eğer kısa bir süre önce bir hesap eklediyseniz kişilerin senkronizasyon işlemi birkaç dakika sürebilir)
@@ -187,7 +187,7 @@ Kişi eklemek için "<b><font fgcolor="#ffffffff">Menüye</font></b>" ardından:
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Yeni kişiye dokunarak en baştan bir kişi oluşturabilir
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya Sd kartınızdan kişileri içe aktarabilirsiniz
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar ve dışa aktara dokunarak Sim veya SD kartınızdan kişileri içe aktarabilirsiniz
 "</li></font></b>"
 "</string>
     <string name="noFavoritesHelpText">"Favoriniz bulunmuyor
@@ -244,22 +244,23 @@ Favoriler listenize kişi eklemek için:
     <string name="description_minus_button">eksi</string>
     <string name="description_plus_button">artı</string>
     <string name="description_view_contact_detail">Kişiyi görüntüle</string>
-    <string name="no_sdcard_message">Sd kart bulunamadı</string>
+    <string name="no_sdcard_message">SD kart bulunamadı</string>
     <string name="import_from_sdcard">Depolama biriminden içe aktar</string>
-    <string name="export_to_sdcard">Depolama birimine aktar</string>
+    <string name="export_to_storage">Depolamaya aktar</string>
+    <string name="export_to_sdcard">SD karta aktar</string>
     <string name="share_visible_contacts">Görülebilir kişileri paylaş</string>
     <string name="import_one_vcard_string">Bir vKart dosyasını içe aktar</string>
     <string name="import_multiple_vcard_string">Birden fazla vKart dosyasını içe aktar</string>
     <string name="import_all_vcard_string">Tüm vKart dosyalarını içe aktar</string>
-    <string name="searching_vcard_message">Sd karttaki vKart verileri aranıyor</string>
-    <string name="scanning_sdcard_failed_title">Sd kart taranamadı</string>
+    <string name="searching_vcard_message">SD karttaki vKart verileri aranıyor</string>
+    <string name="scanning_sdcard_failed_title">SD kart taranamadı</string>
     <string name="scanning_sdcard_failed_message">Sonuç: %s</string>
     <string name="fail_reason_io_error">G/Ç hatası</string>
     <string name="fail_reason_low_memory_during_import">Bellek yetersiz. Dosya çok büyük olabilir</string>
     <string name="fail_reason_vcard_parse_error">Beklenmedik bir nedenle vCKard ayrıştırılamadı</string>
     <string name="fail_reason_not_supported">Biçim desteklenmiyor</string>
     <string name="vcard_import_failed">%s vKart içe aktarılamıyor</string>
-    <string name="import_failure_no_vcard_file">Sd kartta hiç vKart dosyası bulunamadı</string>
+    <string name="import_failure_no_vcard_file">SD kartta hiç vKart dosyası bulunamadı</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">vKart dosyasına meta bilgileri toplanamadı</string>
     <string name="fail_reason_failed_to_read_files">Dosyalar içe aktarılamadı (%s)</string>
     <string name="fail_reason_unknown">Bilinmeyen hata</string>
@@ -284,7 +285,7 @@ Favoriler listenize kişi eklemek için:
     <string name="exporting_contact_failed_message">"Kişiler aktarılamadı
 Sonuç: %s"</string>
     <string name="fail_reason_no_exportable_contact">Dışa aktarılacak kişi yok</string>
-    <string name="fail_reason_too_many_vcard">Sd kartta çok fazla vKart dosyası var</string>
+    <string name="fail_reason_too_many_vcard">SD kartta çok fazla vKart dosyası var</string>
     <string name="fail_reason_too_long_filename">Dosya adı çok uzun (%s)</string>
     <string name="exporting_vcard_finished_title">%s aktarım tamamlandı</string>
 	<string name="exporting_vcard_canceled_title">%s dışa aktarma iptal edildi</string>
@@ -441,7 +442,7 @@ Sonuç: %s"</string>
     <string name="upgrade_in_progress">Kişi listesi güncelleniyor</string>
 	<string name="upgrade_out_of_memory">"İletişim yükseltme sürecindedir
 
-Yükseltme işlemi dahili depolamada yaklaşık %s Mb gerektirir
+Yükseltme işlemi dahili depolamada yaklaşık %s MB gerektirir
 
 Aşağıdaki seçeneklerden birini seçin:"</string>
     <string name="upgrade_out_of_memory_uninstall">Bazı uygulamaları kaldırın</string>
@@ -575,6 +576,10 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
     <string name="dialog_voicemail_airplane_mode_message">Sesli aramak için ilk önce uçak modunu kapatın</string>
     <string name="action_menu_overflow_description">Daha çok ayar</string>
     <string name="yellowpage_search_the_yellowpage">Dizini ara</string>
+    <string name="storage_sd_card">SD kart</string>
+    <string name="storage_sd_card_description">SD kart</string>
+    <string name="storage_usb_description">USB depolama</string>
+    <string name="storage_internal_description">Dahili depolama</string>
     <string name="import_from_sim">Sim karttan içe aktar</string>
     <string name="export_to_sim_title">Sim karta aktarılıyor</string>
     <string name="import_from_sim1">"Sim kart 1'den içe aktar"</string>
@@ -717,7 +722,7 @@ Kişi kartları kapatıldı"</string>
     <string name="in_call_show_guide_intro">"Bir profil videosu kaydedin
 Diğer Miui kullanıcıları arama yaptığınızda çekmiş olduğunuz videoyu göreceklerdir"</string>
     <string name="in_call_show_video_pick">Seç</string>
-    <string name="in_call_show_video_pick_filter">"Video boyutu 3 Mb'den küçük ve 20 saniyeden kısa olmalıdır "</string>
+    <string name="in_call_show_video_pick_filter">"Video boyutu 3 MB'den küçük ve 20 saniyeden kısa olmalıdır "</string>
     <string name="in_call_show_view_play_error">Video oynatılamadı</string>
     <string name="in_call_show_camera_open_error">Kamera açılamadı</string>
     <string name="in_call_show_filter_processing">İşleniyor</string>
@@ -773,7 +778,7 @@ Diğer Miui kullanıcıları arama yaptığınızda çekmiş olduğunuz videoyu 
     <string name="t9_search_guide_zhuyin">Aramak için numara çevirin</string>
     <string name="date_time_set">Seç</string>
     <string name="service_provider">Sarı sayfa</string>
-    <string name="zero_items_selected">Seçili öge yok</string>
+    <string name="zero_items_selected">Seçili öğe yok</string>
     <string name="select_all">Tümünü seç</string>
     <string name="deselect_all">Tüm seçimi kaldır</string>
     <string name="select_done">Daha fazla seçilmedi</string>
@@ -847,8 +852,8 @@ Diğer Miui kullanıcıları arama yaptığınızda çekmiş olduğunuz videoyu 
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">İçe veya dışa aktar</string>
     <string name="preference_import_export_title">Kişileri içe veya dışa aktar</string>
-    <string name="import_vcard_description">Kişileri Sd karttan aktar</string>
-    <string name="export_vcard_description">Sd karta vKard olarak aktar</string>
+    <string name="import_vcard_description">Kişileri SD karttan aktar</string>
+    <string name="export_vcard_description">SD karta vKard olarak aktar</string>
     <string name="import_vcard_dialog_message">vKart alınsın mı?</string>
     <string name="export_sim_contact_finish_msg">Aktarılan: %1$d | Atlanılan: %2$d | Kalan: %3$d</string>
     <string name="pref_title_account_import">Hesaptan aktar</string>
@@ -1171,4 +1176,5 @@ Diğer Miui kullanıcıları arama yaptığınızda çekmiş olduğunuz videoyu 
     <string name="voip_video_description">Video mesajı göndermek için dokunun</string>
     <string name="menu_newContactButton">Ekle</string>
     <string name="unable_get_device_id">İmei alınamıyor</string>
+    <string name="missing_required_permission">Gerekli izini devre dışı bıraktık</string>
 </resources>

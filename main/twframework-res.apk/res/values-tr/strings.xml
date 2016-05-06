@@ -37,7 +37,7 @@ döndürme"</string>
     <string name="tw_seekbarsplit_seekbar_control">Arama kontrolü</string>
     <string name="dragndroplist_description">Sürükleyip bırakmak için dokunup tutun</string>
     <string name="dragndroplist_description_exp_by_touch">Sürükleyip bırakmak için çift dokunup tutun</string>
-    <string name="dragndroplist_drag_start">%d pozisyonunda öge sürükleme başladı</string>
+    <string name="dragndroplist_drag_start">%d pozisyonunda öğe sürükleme başladı</string>
     <string name="dragndroplist_drag_release">Öğe %d pozisyonuna bırakıldı</string>
-    <string name="dragndroplist_item_cannot_be_dragged">%d pozisyonundaki öge sürüklenemez</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d pozisyonundaki öğe sürüklenemez</string>
 </resources>

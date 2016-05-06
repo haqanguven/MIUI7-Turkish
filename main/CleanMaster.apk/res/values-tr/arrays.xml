@@ -18,10 +18,10 @@
         <item>7 günde bir</item>
     </string-array>
     <string-array name="auto_clean_size">
-        <item>100 Mb</item>
-        <item>300 Mb</item>
-        <item>500 Mb</item>
-        <item>1 Gb</item>
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
         <item>Göster</item>
@@ -61,5 +61,9 @@
         <item>Her 7 gün</item>
         <item>Her 15 gün</item>
         <item>Her 30 gün</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
     </string-array>
 </resources>

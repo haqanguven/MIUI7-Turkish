@@ -110,7 +110,7 @@ Bağlantı oluşturulduysa ekleye tıklayın"</string>
     <string name="mm_login">Girildi</string>
     <string name="mm_name">Ad:</string>
     <string name="mm_nonet">Geçerli giriş tipi ağına bağlamanız gerekir</string>
-    <string name="mm_nosd">Giriş tipi Sd kart gerekir</string>
+    <string name="mm_nosd">Giriş tipi SD kart gerekir</string>
     <string name="mm_not_login">Oturum aç veya Kayıt ol</string>
     <string name="mm_pic_error">Resim ekleme başarısız oldu. Lütfen tekrar deneyin</string>
     <string name="mm_private">Bir bağlantı için tüm kullanıcıların eklediği içeriği görüntülemek için tıklayın</string>
@@ -153,7 +153,7 @@ Girdi doğruluğunu geliştirmek amacıyla giriş yöntemi ağ hizmetini kullana
     <string name="sapi_share_description">Baidu hesap giriş bilgilerini oku</string>
     <string name="sapi_share_label">Baidu hesap giriş bilgilerini oku</string>
     <string name="scale_percent">Yakınlaştırma ölçeği</string>
-    <string name="sdcard_removed">Sd kartı takın</string>
+    <string name="sdcard_removed">SD kartı takın</string>
     <string name="search_none">Arama bulunamadı</string>
     <string name="service_agreement"><u>"Kullanıcı hizmet anlaşması"</u></string>
     <string name="share_to">Paylaş</string>

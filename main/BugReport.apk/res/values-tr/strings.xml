@@ -69,8 +69,8 @@
     <string name="cta_cancel">İptal et</string>
     <string name="cta_confirm">Tamam</string>
     <string name="submit_dialog_title">Hata raporu gönder</string>
-    <string name="submit_dialog_content">Geribildiriminiz ekli resimler ve hata kayıtlarıyla beraber cihazınızı wifi ağına bağladığınızda Mi sunucularına gönderilecektir</string>
-    <string name="submit_dialog_not_wifi_content">Geribildiriminiz ekli resimler ve hata kayıtlarıyla beraber cihazınızı wifi ağına bağladığınızda Mi sunucularına gönderilecektir</string>
+    <string name="submit_dialog_content">Geri bildiriminize ekli fotoğrafları ve hata kayıtlarıyla beraber cihazınızı wifi ağına bağladığınızda Mi sunucularına gönderilecektir</string>
+    <string name="submit_dialog_not_wifi_content">Geri bildiriminiz ekli fotoğraflar ve hata kayıtlarıyla beraber cihazınızı wifi ağına bağladığınızda Mi sunucularına gönderilecektir</string>
     <string name="submit_dialog_cancel">İptal et</string>
     <string name="submit_dialog_confirm">Gönder</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Hata raporu oluştur (Yaklaşık bir dakika sürer)</string>

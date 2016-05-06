@@ -167,9 +167,9 @@
     <string name="throttle_help">Daha fazla öğren</string>
     <string name="throttle_status_subtext">%1$s (%2$d٪) arası %3$s en fazla. sonraki dönem %4$d gün (%5$s) içinde başlayacak</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) arası %3$s en fazla</string>
-    <string name="throttle_data_rate_reduced_subtext">%1$s aşıldı veri hızı %2$d Kb/s düşürüldü</string>
+    <string name="throttle_data_rate_reduced_subtext">%1$s aşıldı veri hızı %2$d KB/s düşürüldü</string>
     <string name="throttle_time_frame_subtext">%1$d٪ geçen döngü. sonraki dönem %2$d gün (%3$s) içinde başlayacak</string>
-    <string name="throttle_rate_subtext">Veri kullanım sınırı aşıldığında, Veri hızı %1$d Kb/s düşürülecek</string>
+    <string name="throttle_rate_subtext">Veri kullanım sınırı aşıldığında, Veri hızı %1$d KB/s düşürülecek</string>
     <string name="throttle_help_subtext">Detaylı bilgi için operatörünüzü arayın</string>
     <string name="cell_broadcast_sms">Hücre yayın mesajı</string>
     <string name="enable_disable_cell_bc_sms">Hücre yayın mesajları</string>

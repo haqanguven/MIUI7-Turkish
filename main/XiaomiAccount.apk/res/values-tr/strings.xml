@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="passport_login_prompt">Tek bir Mi hesabı ile tüm Mi hizmetleri</string>
+    <string name="passport_login_using_other_ways"><u>Diğer oturum açma yolları</u></string>
+    <string name="passport_find_device_activate_account">Hesabı etkinleştir</string>
+    <string name="passport_reg_prompt">Mi hesabınız yok mu? Ücretsiz olarak bir hesap oluşturun</string>
+    <string name="passport_uplink_reg">Telefon numarası kullan</string>
+    <string name="passport_uplink_slot1_reg">"Sim 1'i kullan"</string>
+    <string name="passport_uplink_slot2_reg">"Sim 2'yi kullan"</string>
+    <string name="passport_reg_using_other_phone"><u>Alternatif telefon numarası kullan</u></string>
+    <string name="passport_reg_btn_using_other_phone">Alternatif telefon numarası kullan</string>
+    <string name="passport_downlink_reg">Telefon numarasını kullanarak hesap oluştur</string>
+    <string name="passport_select_reg_ways_title">Diğer oturum açma yolları</string>
+    <string name="passport_auto_generate_pwd">Güvenli şifre oluştur</string>
+    <string name="passport_pwd_generating">Oluşturuluyor</string>
+    <string name="passport_pwd_generate_failure">Şifre oluşturulamadı</string>
+    <string name="passport_use_generated_pwd_title">Şifrenizi hatırlayın</string>
+    <string name="passport_use_generated_pwd_message">Şifrenizi hatırladığınızdan emin olun. Şifrenizi diğer Mi hizmetlerinde oturum açmak için kullanabilirsiniz</string>
+    <string name="i_know">Biliyorum</string>
     <string name="passport_account_hint_text">E-posta veya telefon numarası</string>
     <string name="passport_phone_num_hint_text">Telefon numarası</string>
     <string name="passport_login">Oturum aç</string>
-    <string name="passport_login_short">Oturum aç</string>
     <string name="passport_login_with_email_or_id"><u>E-posta adresi veya Mi hesap kimliğinizle oturum açın</u></string>
     <string name="passport_email_or_id_hint_text">E-Posta adresi veya Mi hesap Kimliği</string>
     <string name="passport_verify">Doğrula</string>
@@ -28,7 +44,6 @@
     <string name="passport_reg_type_email">E-posta kullanarak hesap oluşturun</string>
     <string name="passport_reg_using_phone_number_prompt">Telefon numarası ile kayıt</string>
     <string name="passport_reg_using_other_phone_number_prompt">Başka bir telefon numarası ile kayıt olun</string>
-    <string name="passport_reg_using_other_phone">Başka bir telefon numarası ile kaydol</string>
     <string name="passport_reg_via_sms_alert">Operatörünüz bu servisi aktifleştirmek için bir mesaj ücreti alabilir</string>
     <string name="passport_reg_sms_send_prompt">%s için doğrulama kodu gönder</string>
     <string name="passport_password_req_notice">Parola 8-16 karakter uzunluğunda olmalı, rakam ve harf içermelidir (Büyük küçük harf duyarlı)</string>
@@ -76,9 +91,12 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="passport_input_vcode_hint">Doğrulama kodu girin</string>
     <string name="passport_confirm">Onayla</string>
     <string name="passport_login_notice">Oturum açılıyor</string>
-	<string name="passport_login_check_find_device">Cihaz durumunu kontrol ediliyor</string>
+	<string name="passport_login_check_find_device">Cihaz durumu kontrol ediliyor</string>
     <string name="passport_login_check_find_device_failed">Cihaz durumu kontrol edilemedi. Ağ bağlantınızı kontrol edin</string>
+    <string name="passport_login_check_find_device_failed_message">Lütfen ağ bağlantınızı kontrol edin</string>
     <string name="passport_login_find_device_bind">Bu cihaz Mi hesap numarası mevcut ile ilişkili (%s). Bu cihazı etkinleştirmek için oturum açın</string>
+    <string name="passport_retry">Yeniden dene</string>
+    <string name="passport_back">Geri</string>
     <string name="passport_failed_to_send_activate_email">Aktivasyon e-postası gönderilemedi</string>
     <string name="passport_access_denied">Erişim engellendi</string>
     <string name="passport_reging">Hesap oluşturma</string>
@@ -97,10 +115,6 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="passport_license_host_unreachable">Ağa bağlanamıyor. Bu sayfayı %s görüntüleyebilirsiniz</string>
     <string name="passport_skip_setup_account_title">Kurulumu geç</string>
     <string name="passport_skip_setup_account_msg">Daha sonra ayarlardan bir Mi hesabı oluşturabilirsiniz</string>
-    <string name="passport_xiaomi_account_dspt">Herhangi bir yerden Mi bulut, tema mağazası ve diğer Mi hizmetlerinde oturum açmak için Mi hesabınızı kullanın</string>
-    <string name="passport_xiaomi_account_sec_dspt" />
-    <string name="passport_xiaomi_account_sec_dspt2">Mi hesabınızda oturum açmak için internet bağlantısı gerekmektedir. Buna ek olarak konum erişimi ve Mi bulut otomatik olarak açılacaktır</string>
-    <string name="passport_xiaomi_account_sec_dspt2_vip">Mi hesabınızda oturum açmak için internet bağlantısı gereklidir. Buna ek olarak konum erişimi, Mi bulut ve Mi vip otomatik olarak açılacaktır</string>
     <string name="passport_remove_unactivated_account_notice">Hesabınız henüz etkinleştirilmedi</string>
     <string name="passport_remove_confirm">Oturumu kapat</string>
     <string name="passport_find_password_on_web_msg">"Şifrenizi sıfırlamak için account.mi.com'u ziyaret edin"</string>
@@ -154,14 +168,6 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="app_name">Mi hesap</string>
     <string name="account">Hesap</string>
     <string name="micloud_account_name">Mi hesap</string>
-    <string name="account_dspt_provision">"Herhangi bir yerden Mi bulut, Miui tema mağazası ve diğer Mi hizmetlerinde oturum açın "</string>
-    <string name="account_dspt_provision2">Daha fazla bilgi</string>
-    <string name="provision_skip_login"><u>Bu adımı atla</u></string>
-    <string name="account_learn_more_title">Ücretsiz olarak bir Mi hesabı oluşturun</string>
-    <string name="cloud_service_dspt">Fotoğrafları, müzikleri, uygulamaları ve daha fazlasını tüm cihazlarınız arasında senkronize edin</string>
-    <string name="theme_store">Tema mağazası</string>
-    <string name="theme_store_dspt">Görünümünüzü seçin. Telefonunuzu eşsiz hale getirmeniz için yüzlerce özelleştirilebilir tema</string>
-    <string name="mi_account_dspt_provision">"Dilediğiniz yerden Mi bulutta, Mi tema mağazasında ve diğer Mi hizmetlerinde oturum açın. "</string>
     <string name="logout_failed">Oturum kapatılamıyor</string>
     <string name="timeout_retry">İstek zaman aşımına uğradı. Lütfen yeniden deneyin</string>
     <string name="no_response_retry">Cevap yok. Lütfen yeniden deneyin</string>
@@ -321,7 +327,7 @@ Bu soruların yanıtlarını hatırlayacağınızdan emin olun"</string>
     <string name="other_devices">Diğer cihazlar</string>
     <string name="remove_trust_notice">Güvenilir cihazlardan kaldır ve oturumu kapat</string>
     <string name="remove_trust_btn">Güvenilir cihazlardan kaldır</string>
-    <string name="delete_device_notice">Cihaz silindikten sonra cihaz oturumu Mi hesabınızda otomatik olarak kapatılacaktır. Resimlerinize, mesajlarınıza veya hesabınızda depoladığınız diğer içeriklerinize ulaşmak için bu cihazı kullanamayacaksınız</string>
+    <string name="delete_device_notice">Cihaz silindikten sonra cihaz oturumu Mi hesabınızda otomatik olarak kapatılacaktır. Fotoğraflarınızı, mesajlarınıza veya hesabınızda depoladığınız diğer içeriklerinize ulaşmak için bu cihazı kullanamayacaksınız</string>
     <string name="delete_device_btn">Kaldır</string>
     <string name="phone_activated">%s aktive edildi</string>
     <string name="phone_unactivated">Aktive edilmedi</string>
@@ -338,8 +344,9 @@ Bu soruların yanıtlarını hatırlayacağınızdan emin olun"</string>
     <string name="get_device_list_failed">Cihaz listesi alınamıyor</string>
     <string name="delete_device_failed">Cihaz kaldırılamıyor</string>
     <string name="empty_device_list_notice">Cihaz yok</string>
-    <string name="internet_statement_title">Kullanım şartları</string>
-    <string name="internet_statement_message">"Kabul et'e dokunarak uygulamanın internete bağlanma izni ile ilgili koşulları kabul etmiş sayılıyorsunuz"</string>
-    <string name="agree_add_continue">Kabul et</string>
-    <string name="exit">Çık</string>
+    <string name="cta_declaration_title">Kullanım şartları</string>
+    <string name="cta_declaration_message">Mi hesabınızda oturum açmak için internete bağlanarak cihazınızın konumunu kullanması ve Mi bulutu açmanız gerekir. Kişisel bilgilerinizi yedeklemek için bu uygulama kişiler, mesaj, multimedya mesajlarına erişme ve kayıtları araması gerekiyor. Biz ticari amaçlar için bu verileri kullanabiliriz ama üçüncü şahıslarla asla paylaşmayız. Mi hesapta oturum açtıktan sonra Mi vip ve servisi internete bağlanacaktır</string>
+    <string name="cta_declaration_ignore">Yoksay</string>
+    <string name="cta_declaration_agree_and_continue">Kabul et</string>
+    <string name="cta_declaration_exit">Çıkış</string>
 </resources>

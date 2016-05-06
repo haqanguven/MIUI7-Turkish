@@ -96,7 +96,7 @@
     <string name="pass_share">Paylaş</string>
     <string name="discount_param_fail">Kupon parametreleri yanlış görünüyor</string>
     <string name="share_weibo_from">%1$s</string>
-    <string name="num_selected_file">Seçilen %1$d öge</string>
+    <string name="num_selected_file">Seçilen %1$d öğe</string>
     <string name="action_mode_deselect_all">Tüm seçimi kaldır</string>
     <string name="action_mode_select_all">Tümünü seç</string>
     <string name="action_mode_selected">Seçilmiş</string>
@@ -149,9 +149,9 @@ Size kolaylık sağlaması için küçük Mika paketini masaüstüne eklemenizi 
 Boyut: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Sürüm tanıtımı: %1$s
 Delta güncelleme boyutu: %2$s"</string>
-    <string name="xiaomi_external_storage_unavailable">Depolamayı kullanılamaz. Sd kartınızı kontrol ediniz</string>
+    <string name="xiaomi_external_storage_unavailable">Depolamayı kullanılamaz. SD kartınızı kontrol ediniz</string>
     <string name="xiaomi_bytes_unit">%1$s B</string>
-    <string name="xiaomi_kilobytes_unit">%1$s Kb</string>
-    <string name="xiaomi_megabytes_unit">%1$s Mb</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_connect_download_manager_fail">İndirme yöneticisine bağlanma başarısız oldu. Uygulama yöneticisinden indirme yöneticisinin durumunu kontrol ediniz</string>
 </resources>
