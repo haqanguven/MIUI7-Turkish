@@ -53,8 +53,8 @@
         <item quantity="one">%d fotoğraf</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d öge | %2$s</item>
-        <item quantity="one">%1$d öge | %2$s</item>
+        <item quantity="other">%1$d öğe | %2$s</item>
+        <item quantity="one">%1$d öğe | %2$s</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d fotoğraf yedekleme için bekliyor</item>
@@ -79,5 +79,13 @@
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">%1$d öğe yedekleniyor</item>
         <item quantity="one">1 öğe yedekleniyor</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d dosya indirilirken hata oluştu</item>
+        <item quantity="one">%1$d dosya indirilirken hata oluştu</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
     </plurals>
 </resources>

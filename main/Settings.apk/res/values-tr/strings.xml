@@ -452,8 +452,8 @@ Telefonunuz kullanmaya devam edebilmek için fabrika ayarlarına sıfırlama iş
     <string name="unlock_change_lock_password_title">Kilit açma şifresini değiştir</string>
     <string name="lockpassword_password_too_short">Şifre en az %d karakter olmalıdır</string>
     <string name="lockpassword_pin_too_short">Pin kodu en az %d haneli olmalıdır</string>
-    <string name="lockpassword_press_continue">İşlem tamamlandığında Devam düğmesine basın</string>
-    <string name="lockpassword_continue_label">Devam Et</string>
+    <string name="lockpassword_press_continue">İşlem tamamlandığında devam et düğmesine basın</string>
+    <string name="lockpassword_continue_label">Devam et</string>
     <string name="lockpassword_password_too_long">Şifre %d karakterden kısa olmalıdır</string>
     <string name="lockpassword_pin_too_long">Pin kodu %d haneden az olmalıdır</string>
     <string name="lockpassword_pin_contains_non_digits">Pin kodu yalnızca rakam içerebilir</string>
@@ -2316,6 +2316,7 @@ Kişiselleştirilmiş reklamları kullanmamayı seçerseniz reklam miktarı azal
     <string name="handy_mode_enter_ask">Tek el kullanımına geçmeden önce sor</string>
     <string name="handy_mode_tips">Ana ekran tuşundan sağ veya sol tarafa doğru parmağınızı kaydırarak ekranı tek el ile kullanabilirsiniz</string>
     <string name="handy_mode_size">Ekran boyutu</string>
+    <string name="touch_assistant">Dokunma asistanı</string>
     <string name="key_settings_title">Tuşlar</string>
     <string name="key_settings">Tuşlar</string>
     <string name="screen_key_press">Navigasyon tuşları</string>
@@ -3116,7 +3117,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="install_no_market_app_summary">Uygulama mağazası dışındaki kaynaklardan uygulamaların kurulması için izin ister veya izin verir</string>
     <string name="lock_screen_secure_after_timeout_title">Şifre gerekli</string>
     <string name="lock_screen_secure_after_timeout_summary">Şifre gerekli: %1$s</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">Şifre hemen gerekli</string>
+    <string name="lock_screen_secure_after_timeout_immediately_summary">"Şifre gereklidir. "</string>
     <string name="choose_smartcover_type">Kılıf türünü seç</string>
     <string name="normal_smartcover_title">Mat ön kapak</string>
     <string name="smallwindow_smartcover_title">Şeffaf ön kapak</string>

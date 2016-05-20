@@ -13,14 +13,7 @@
     <string name="menu_save">Kaydet</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_delete">Sil</string>
-    <string name="menu_select_all">Tümünü seç</string>
-    <string name="menu_copy">Kopyala</string>
-    <string name="menu_advanced_show">Dahili depolamayı göster</string>
-    <string name="menu_advanced_hide">Dahili depolamayı gizle</string>
-    <string name="menu_file_size_show">Dosya boyutunu göster</string>
-    <string name="menu_file_size_hide">Dosya boyutunu gizle</string>
-    <string name="button_select">Seç</string>
-    <string name="button_copy">Kopyala</string>
+    <string name="mode_selected_count">%1$d seçildi</string>
     <string name="sort_name">Ada göre</string>
     <string name="sort_date">Değişiklik tarihine göre</string>
     <string name="sort_size">Boyuta göre</string>
@@ -35,14 +28,11 @@
     <string name="root_type_shortcut">Kısayollar</string>
     <string name="root_type_device">Cihazlar</string>
     <string name="root_type_apps">Diğer uygulamalar</string>
+    <string name="pref_advanced_devices">Gelişmiş cihazları göster</string>
+    <string name="pref_file_size">Dosya boyutunu göster</string>
+    <string name="pref_device_size">Cihaz boyutunu göster</string>
     <string name="empty">Öğe yok</string>
     <string name="toast_no_application">Dosya açılamıyor</string>
     <string name="toast_failed_delete">Bazı dokümanlar silinemiyor</string>
-    <string name="share_via">Şunu kullanarak paylaş:</string>
-    <string name="copy_notification_title">Dosyalar kopyalanıyor</string>
-    <string name="copy_remaining">%s kaldı</string>
-    <string name="copy_preparing">Kopyalanmak için hazırlanıyor</string>
-    <string name="notification_touch_for_details">Ayrıntıları görüntülemek için dokunun</string>
-    <string name="retry">Yeniden dene</string>
-    <string name="copy_failure_alert_content">Şu dosyalar kopyalanmadı: %1$s</string>
+    <string name="share_via">Paylaş:</string>
 </resources>

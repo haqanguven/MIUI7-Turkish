@@ -4,7 +4,7 @@
     <string name="durationformatshort">-%2$d:%5$02d</string>
     <string name="descript_format" formatted="false">%s - %s</string>
     <string name="upload_recognition">raw_text=%1$s&amp;parsed_text=%2$s&amp;empty_resp=true</string>
-    <string name="app_name">Asistan</string>
+    <string name="app_name">Ses asistanı</string>
     <string name="not_launch_while_calling">Görüşmeme sırasında asistanı kullanamazsınız</string>
     <string name="no_engine">Konuşma motoru yüklü değil</string>
     <string name="contact_not_found">Bu kişi bulunamıyor</string>

@@ -158,7 +158,8 @@ Yerel tarihini kontrol edin ve tekrar deneyin"</string>
     <string name="mibi_msg_picker_hint_1_1">1.</string>
     <string name="mibi_msg_picker_hint_1_2">"Metin üzerinden kontör belki daha pahalı: &lt;font color=red>2 = 1 Mi kredi&lt;/font>"</string>
     <string name="mibi_msg_picker_hint_2_1">2.</string>
-    <string name="mibi_msg_picker_hint_2_2">Taşıyıcılar bir ücret 0.1 kontör başına hizmet bedeli</string>
+    <string name="mibi_msg_picker_hint_2_a">Taşıyıcılar kontör başına %1$s ¥ hizmet ücreti alır</string>
+    <string name="mibi_msg_picker_hint_2_2">Taşıyıcılar kontör başına 0.1 hizmet bedeli alır</string>
     <string name="mibi_msg_picker_hint_3_1">3.</string>
     <string name="mibi_msg_picker_hint_3_2">Maksimum aylık kontör: %1$s</string>
     <string name="mibi_msg_denomination_type">Mi kredi</string>

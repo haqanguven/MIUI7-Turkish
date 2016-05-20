@@ -40,6 +40,8 @@
     <string name="xl_speedup_experience_notify_context">Xunlei üyesi olduğunuzda indirme hızınız her indirme işleminde hızlandırılır</string>
     <string name="xl_speedup_notify_button_experience">Ücretsiz deneyin</string>
     <string name="xl_speedup_notify_button_member">Üye olun</string>
+    <string name="notify_disabled_net_by_app">Güvenlik uygulaması tarafından kısıtlanmış internet bağlantısı</string>
+    <string name="notify_only_wifi_download">Wifi ağı bekleniliyor</string>
     <string name="app_label">İndirme yöneticisi</string>
     <string name="permlab_downloadManager">İndirme yöneticisi erişimi</string>
     <string name="permdesc_downloadManager">Uygulama indirme yöneticisi erişmek ve dosyaları indirmek için kullanmanıza olanak sağlar</string>

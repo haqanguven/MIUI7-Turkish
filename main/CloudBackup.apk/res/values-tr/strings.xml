@@ -113,4 +113,8 @@ Not: Yüklediğiniz uygulamaların verileri Mi buluta yedeklenmeyecektir"</strin
     <string name="cloud_backup_have_data">Mi bulut alanında yedek bulundu</string>
     <string name="cloud_backup_select_recover">Mi bulut alanından yedek seç</string>
     <string name="backup_finished_notification_content">Yedeklenen ana ekran uygulamaları ve sistem ayarları</string>
+    <string name="backup_now">Şimdi yedekle</string>
+    <string name="restore_task_unfinished">Uygulamalar geri yükleniyor. Daha sonra tekrar deneyin</string>
+    <string name="backup_successfully">Başarıyla yedeklendi</string>
+    <string name="account_error">Hesap hatası</string>
 </resources>

@@ -57,7 +57,7 @@
     <string name="tanDesc">Tanjant</string>
     <string name="sinDesc">Sinüs</string>
     <string name="cosDesc">Kosinüs</string>
-    <string name="eDesc">Euler sayısı</string>
+    <string name="eDesc">Euler sayı</string>
     <string name="piDesc">Pi</string>
     <string name="equalDesc">Eşittir</string>
 </resources>

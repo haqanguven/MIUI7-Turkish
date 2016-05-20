@@ -494,6 +494,9 @@
     <string name="album_page_label">Albümler</string>
     <string name="other_album">Diğer albümler</string>
     <string name="crop_label">Kırp</string>
+    <string name="runtime_permission_ungranted">Gallery exit because of ungranted permission</string>
+    <string name="name_split">,</string>
+    <string name="more_album_hint">,v.b</string>
     <string name="home_page_empty">Boş</string>
     <string name="people_page_label">Yüz</string>
     <string name="people_page_unname">Adsız</string>
@@ -501,7 +504,8 @@
     <string name="face_album_rename_hint">Adı girin</string>
     <string name="face_album_use_tip">Fotoğraflarınızı otomatik olarak fotoğraflarınızda bulunan kişilere göre gruplayın</string>
     <string name="face_album_detecting_tip">Yalnızca bir saniye</string>
-    <string name="face_album_empty">Boş</string>
+    <string name="face_album_empty">"Arkadaşlarınızı tanımak yeterli değil
+Birlikte daha fazla fotoğraf çekinin"</string>
     <string name="face_album_empty_syncing">Veriler senkronize ediliyor</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Cihaz wifi ağına bağlandığında yüz verileri senkronize edilecektir</string>
     <string name="start_to_use_face_albumset">Kişilere göre sırala</string>
@@ -972,6 +976,15 @@
     <string name="delete_from_devices">Otomatik olarak senkronize edilen tüm cihazlar</string>
     <string name="delete_from_devices_album">Bu albüm ile senkronize edilen tüm cihazlar</string>
     <string name="delete_to_trash_tips">Son zamanlarda fotoğraf senkronize ayarları çöp kutusundan silinenleri görüntüleyebilirsiniz</string>
+    <string name="download_title">Dosyalar hazırlanıyor</string>
+    <string name="download_retry_title">İndirme hatası</string>
+    <string name="download_retry_message">Fotoğraflar indirilirken hata oluştu. Ağ bağlantınızı kontrol edin ve yeniden deneyin</string>
+    <string name="download_retry_text">Tekrar dene</string>
+    <string name="custom_select_title_select_item">Öğeleri seç</string>
+    <string name="custom_select_title_select_all">Tümünü seç</string>
+    <string name="custom_select_title_deselect_all">Tüm seçimi kaldır</string>
+    <string name="start_debug">Galeri hata ayıklama</string>
+    <string name="debugging_tip">Hata ayıklama verisi oluşturuluyor</string>
     <string name="storage_no_space">Yeterli boş alan yok</string>
     <string name="share_album">Albümü paylaş</string>
     <string name="all_video_album_display_name">Tüm videolar</string>

@@ -33,7 +33,7 @@
     <string name="synced">Eşitlendi</string>
     <string name="not_synced">Eşitlenmedi</string>
     <string name="acct_not_synced">Bu hesap eşitlenmiyor. Takviminiz güncel olmayabilir</string>
-    <string name="accounts">Hesaplar &amp; eşitleme</string>
+    <string name="accounts">Hesaplar ve eşitleme</string>
     <string name="select_synced_calendars_title">Eşitlenecek takvimler</string>
     <string name="select_synced_calendars_button">Eşitlenecek takvimler</string>
     <string name="hint_what">Etkinlik adı</string>
@@ -116,6 +116,7 @@
     <string name="delete_recurring_event_title">%s silinsin mi?</string>
     <string name="change_response_title">Yanıtı değiştir</string>
     <string name="menu_general_preferences">Genel ayarlar</string>
+    <string name="menu_reminder_preferences">Hatırlatma ayarları</string>
     <string name="menu_about_preferences">Takvim hakkında</string>
     <string name="preferences_general_title">Takvim görünümü ayarı</string>
     <string name="preferences_reminder_title">Hatırlatıcı ayarları</string>
@@ -209,6 +210,7 @@
     <string name="setting_wifi_mode">Büyük senkronizeleri sadece wifi ile yap</string>
     <string name="setting_sms_import">Mesaj alma etkinliği</string>
     <string name="preferences_import_credit_repayment">Kredi kartı ödemeleri</string>
+    <string name="sms_import_description">Zaman ile ilgili olay mesajlarının daha iyi yönetimi</string>
     <string name="data_notice_online_large_image">Büyük fotoğraf takvim sayfasında ayarlandı. Trafiği kurtarmaya yardım etmek için büyük fotoğrafları sadece wifi üzerinden yükleyin</string>
     <string name="data_notice_change_settings">Ayarları değiştir</string>
     <string name="data_notice_continue_confirm">Kullanmaya devam et</string>
@@ -331,6 +333,7 @@
     <string name="event_info_where">Nereye\u0009</string>
     <string name="event_info_descrip">Açıklama\u0009\u0009\u0009</string>
     <string name="event_info_end">Son\u0009\u0009\u0009</string>
+    <string name="event_info_jump_to_email">E-postaya git</string>
     <string name="event_action_delete">Sil</string>
     <string name="event_action_edit">Düzenle</string>
     <string name="lunar_date">Ay tarihi</string>
@@ -394,6 +397,11 @@
     <string name="miui_menu_create_event">Yeni etkinlik</string>
     <string name="preferences_category_general_title">Genel</string>
     <string name="preferences_category_account_title">Hesap</string>
+    <string name="setting_holiday">Tatiller</string>
+    <string name="setting_others">Diğerleri</string>
+    <string name="preferences_holidays">Tatilleri göster</string>
+    <string name="preferences_solar_terms">Güneşli günleri göster</string>
+    <string name="preferences_history_events">Geçmiş etkinlikleri göster</string>
     <string name="work_day_indication">: (</string>
     <string name="rest_day_indication">: )</string>
 	<string name="edit_event_confirm_message">Olay değişikliklerini atmalamak istiyor musunuz?</string>
@@ -475,10 +483,15 @@
     <string name="image_content">Fotoğraf</string>
     <string name="event_info_from">Şundan</string>
     <string name="event_title">Başlık</string>
+    <string name="festival_detail_title">Bayram</string>
+    <string name="insert_event_dialog_title">Uyarı</string>
+    <string name="insert_event_dialog_message">Bu etkinlik takvime eklensin mi?</string>
+    <string name="insert_event_dialog_btn_positive">Evet</string>
+    <string name="insert_event_dialog_btn_negative">Hayır</string>
+    <string name="insert_event_toast_add_failed">Eklenemedi</string>
+    <string name="insert_event_toast_add_success">Etkinlik oluşturuldu</string>
 	<string name="more_string">+%1$s</string>
     <string name="copy_email">E-posta adresini kopyala</string>
     <string name="copy_number">Telefon numarasını kopyala</string>
-    <string name="action_label">Geri</string>
-    <string name="accessbility_suggestion_dropdown_opened">Tavsiyeler açıldı</string>
-    <string name="dropdown_delete_button_desc">Alıcılardan %s kaldır</string>
+    <string name="done">Geri dön</string>
 </resources>

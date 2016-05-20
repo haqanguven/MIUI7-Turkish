@@ -2,7 +2,7 @@
 <resources>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d adet okunmamış ileti</item>
-	        <item quantity="one">%1$d adet okunmamış ileti</item>
+	    <item quantity="one">%1$d adet okunmamış ileti</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d konuşma arşivlensin mi?</item>

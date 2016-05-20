@@ -1111,6 +1111,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="activity_title_notification_bar_manager">Bildirimler</string>
     <string name="activity_title_default_apps_manager">Varsayılan uygulamalar</string>
     <string name="activity_title_permission_manager">İzinler</string>
+    <string name="activity_title_other_permission_manager">Diğer izinler</string>
     <string name="activity_title_root_manager">Kök erişimi</string>
     <string name="activity_title_root_acquired">Kök erişimine izin ver</string>
     <string name="activity_title_root_note">Kök erişimi hakkında</string>
@@ -1158,7 +1159,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="antivirus_sec_support"></string>
     <string name="toast_virus_in_cloud_scanning">Bulut taraması durdurulamıyor</string>
     <string name="menu_item_app_permissions_control">İzin yöneticisi</string>
-    <string name="menu_item_control_app_permissions">Uygulamaların kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden veya kamera ve diğer kaynaklara erişiminden önce izin iste</string>
+    <string name="menu_item_control_app_permissions">Uygulamaların kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden veya kamera ve diğer kaynaklara erişiminden önce izin ister</string>
     <string name="permission_close_permission_control_dialog_title">İzin yöneticisi devre dışı bırakılsın mı?</string>
     <string name="permission_close_permission_control_dialog_msg">İzin yöneticisi kapandığında uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden ya da kamera ve diğer kaynaklara erişmeden önce izin istemeyecek</string>
     <string name="permission_permission_control_closed_desc_dialog_title">İzin yöneticisi</string>
@@ -1186,7 +1187,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="reject_countdown">Reddet (%d)</string>
     <string name="reject_usb_install">Bu uygulamaların bilgisayar kullanılarak yükleme erişimi reddedildi</string>
     <string name="pc_install_manager">Yükleme yöneticisi</string>
-    <string name="monitor_requests_from_pc">Bilgisayar kullanarak uygulama yüklemeyi yönet</string>
+    <string name="monitor_requests_from_pc">Bilgisayar kullanarak uygulama yüklemeyi yönetin</string>
     <string name="app_install_intercept">Yüklemeyi engelle</string>
     <string name="pc_to_phone_install">%s yüklemesi bilgisayar tarafından engellendi</string>
     <string name="recently_reject_message_one">%1$s yükleme isteği reddedildi</string>
@@ -1308,6 +1309,9 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="ac_enable_title">Uygulama kilidini aç</string>
     <string name="lock_mode_title">Kilit ayarları</string>
     <string name="after_the_lock_screen">Uygulama ekran ile birlikte kilitlendi değiştirmek için uygulama kilit ayarlarını kulanın</string>
+    <string name="ac_firstUseApplock_title">Seçilen uygulamaları açmak için parola iste</string>
+    <string name="ac_firstUseApplock_subTitle">Gizliliğinizi korumak için uygulama kilidini kullanın</string>
+    <string name="notification_subtitle">Açmak için dokunun</string>
     <string name="lockpattern_tutorial_cancel_label">İptal et</string>
     <string name="lockpattern_tutorial_continue_label">İleri</string>
     <string name="lockpattern_retry_button_text">Tekrar çizin</string>

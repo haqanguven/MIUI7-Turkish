@@ -117,4 +117,13 @@
     <string name="vip_not_login">Oturum açık değil</string>
     <string name="vip_level">Seviye: %d</string>
     <string name="vip_login">Oturum açmak için tıklayın</string>
+	<string name="edit_frequent_phrases">Sık ifadeleri düzenle</string>
+    <string name="menu_add_frequent_phrases">Ekle</string>
+    <string name="menu_edit">Düzenle</string>
+    <string name="menu_delete">Sil</string>
+    <string name="frequent_phrases_des">Sık kullanılan ifade metinlerini düzenleyin</string>
+    <string name="add_frequent_phrases">Sık ifadeler ekle</string>
+    <string name="delete_frequent_phrases">Sık ifadeleri sil</string>
+    <string name="delete_frequent_phrases_confirm">Seçilen sık ifadeler silinsin mi?</string>
+    <string name="frequent_phrases_size_exceeded">Sık kullanılan en fazla 10 cümle ekleyebilirsiniz. Kullanmadıklarınızı silin</string>
 </resources>

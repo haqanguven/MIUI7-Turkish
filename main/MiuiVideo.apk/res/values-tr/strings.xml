@@ -248,8 +248,8 @@
     <string name="receive_follow">Yeni bölüm bildirimleri</string>
     <string name="receive_follow_summary">Yeni bölüm mevcut olduğunda bildirim alın</string>
     <string name="other_setting">Diğer</string>
-    <string name="clear_cache">Görüntü önbelleğini temizle</string>
-    <string name="clear_cache_summary">Video tarayıcıdan önbelleğe alınmış görüntüleri temizler</string>
+    <string name="clear_cache">Görüntü ön belleğini temizle</string>
+    <string name="clear_cache_summary">Video tarayıcıdan ön belleğe alınmış görüntüleri temizler</string>
     <string name="clear_cache_success">Önbellek temizlendi</string>
     <string name="priority_storage">SD karta kaydet</string>
     <string name="priority_storage_summary">Otomatik olarak harici SD karta kaydet</string>
@@ -270,7 +270,7 @@
     <string name="good">Tamam</string>
     <string name="offline_no_selected_item_hint">Bir video seçin</string>
     <string name="offline_no_avail_item_hint">İndirilebilir bölümü yok</string>
-    <string name="offline_alert_wifi">Önbelleğe alınan görevler durdurulmuş ise veri kullanımınızı kurtarmak içindir. Wifi ağına geçiş yaptıktan sonra devam edilecektir</string>
+    <string name="offline_alert_wifi">Ön belleğe alınan görevler durdurulmuş ise veri kullanımınızı kurtarmak içindir. Wifi ağına geçiş yaptıktan sonra devam edilecektir</string>
     <string name="datastream_alert_play">Video izlemek için mobil veri bağlantısını kullanırsanız mobil veri kullanımı artacaktır</string>
     <string name="datastream_alert_download">Video indirmek için mobil veri bağlantısını kullanırsanız mobil veri kullanımı artacaktır</string>
     <string name="datastream_alert_hint">İstediğiniz zaman ayarlardan mobil veri kullanım bildirimlerini kapatabilirsiniz</string>
@@ -279,7 +279,7 @@
     <string name="datastream_alert_title">Veri kullanımı uyarısı</string>
     <string name="join_alert_title">Teste katıl</string>
     <string name="join_hint">Davet giriş kodu</string>
-    <string name="percent_status">%.0f%%</string>
+    <string name="percent_status">%%%.0f</string>
     <string name="local_favorite_empty_title">Boş</string>
     <string name="offline_media_empty_title">Boş</string>
     <string name="error_empty_title">Bir şeyler yanlış gitti</string>
@@ -442,7 +442,7 @@
     <string name="score_by">Skor: %s</string>
     <string name="minute"> dakika</string>
     <string name="second"> saniye</string>
-    <string name="count_ge_media">%d vide</string>
+    <string name="count_ge_media">%d video</string>
     <string name="download_geturl_fail">Bağlantı alınamadı</string>
     <string name="download_percent_hint">%%%d indiriliyor</string>
     <string name="waiting_to_download">Bekleniliyor</string>
@@ -454,10 +454,10 @@
     <string name="source_error">Kaynak hatası</string>
     <string name="download_error">Çevrimdışı hatası</string>
     <string name="download_file_fail">Yerel dosya erişimi hatası. Belki SD kart üzerinde yer yoktur</string>
-    <string name="offline_max_promote">Önbellek bekleniyor. 2 önbellek görevi aynı anda çalıştırıyor olabilir</string>
+    <string name="offline_max_promote">Ön bellek bekleniyor. İki ön bellek görevi aynı anda çalışıyor olabilir</string>
     <string name="addon_category">Eklentiler</string>
     <string name="add_more_addons">Daha fazla eklenti ekle</string>
-    <string name="pick_addon_to_delete">Ögeleri seç</string>
+    <string name="pick_addon_to_delete">Öğeleri seç</string>
     <string name="delete_addon">Sil</string>
     <string name="delete_addon_content">Öğe silinsin mi?</string>
     <string name="install_comfirm">Yüklemek için dokunun</string>

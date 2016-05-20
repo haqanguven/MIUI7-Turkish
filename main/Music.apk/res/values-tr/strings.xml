@@ -211,6 +211,10 @@
     <string name="impunity_declaration_positive_text">Tamam ve devam et</string>
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="take_effect_afater_restart">Bu ayarın etkili olması için uygulamayı yeniden başlatmanız gerekmektedir</string>
+    <string name="permission_declaration_title">Erişime izin ver</string>
+    <string name="permission_declaration_message">Normalde müzik uygulamasını kullanmak için Güvenlik > İzinler > İzinler > Depolama > Müzik depolama erişime izin verin</string>
+    <string name="permission_declaration_positive_text">Güvenliğe git</string>
+    <string name="permission_declaration_negative_text">Daha sonra</string>
     <string name="equalizer">Ekolayzır</string>
     <string name="eq_flat">Flat</string>
     <string name="eq_rock">Rock</string>
@@ -727,6 +731,7 @@ Bekleyin veya çevrimiçi müzik seçiniz"</string>
     <string name="desktop_lyric_dialog_title">Masaüstünde sözleri deneyin</string>
     <string name="desktop_lyric_dialog_msg">"Müziğim - Daha fazla gelişmiş ayar" menüsünde açın</string>
     <string name="desktop_lyric_dialog_positive_button">Şimdi deneyin</string>
+    <string name="desktop_lyric_lock_toast">Kilitli. Kilidi açmak için bildirim çubuğundan mini oynatıcıyı kullanın</string>
     <string name="setting_feature_setting">Özellik ayarları</string>
     <string name="traffic_network_alert">Mi müzik veri planı</string>
     <string name="traffic_network_alert_message">Çin Unicom tarafından sağlanan Mi müzik veri planını kullanıyorsunuz. Mobil veri harcamadan müzik dinlemek için 3gnet ağına bağlanmanız gerekmektedir. Müzik dinlemeden önce ağ ayarlarınızı kontrol ettiğinizden emin olun</string>

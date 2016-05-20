@@ -394,7 +394,8 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="durationMinuteSecond">%1$d dakika %2$d saniye</string>
     <string name="durationSeconds">%1$d saniye</string>
     <string name="durationSecond">%1$d saniye</string>
-	<string name="search_hot_source">Popüler kaynaklar</string>
+    <string name="search_hot_recommend">Önerilen</string>
+	<string name="search_hot_source">Popüler</string>
     <string name="search_website">Kaynak internet siteleri</string>
     <string name="search_history_title">Geçmiş</string>
     <string name="search_favorite_title">Favoriler</string>
@@ -420,5 +421,24 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="sniff_copyright_text">Sonuçlar telif hakkı sorunları nedeniyle kullanılamaz</string>
     <string name="extend">Uzat</string>
     <string name="task_fail">Başarısız oldu</string>
+	<string name="notify_disabled_net_by_app">İnternet erişimi kısıtlı</string>
+    <string name="notify_only_wifi_download">Wifi ağı bekleniliyor</string>
+    <string name="toast_only_wifi_download">Bu öğeyi indirmek için wifi ağına bağlanın</string>
+    <string name="dialog_title_disabled_net">İnternet erişimi</string>
+    <string name="dialog_msg_disabled_net">%1$s mevcut ağ için indirme kısıtlı. Güvenlik uygulamasına gitmek için ağ ayarlarını dokunun</string>
+    <string name="dialog_btn_ok_disabled_net">Ağ ayarları</string>
+    <string name="clear_data">Temizle</string>
+    <string name="search_home_download_popup">İndirmelere geri dön</string>
+    <string name="search_home_vif_show_more">Daha fazla</string>
+    <string name="goto_global_search">%1$s için internette ara</string>
+    <string name="search_vif_score_text">Değerlendirme: %1$s</string>
+    <string name="search_vif_empty">Önerilen öğe yok</string>
+    <string name="title_homepage_infoflow">Son güncellemeler</string>
+    <string name="text_showmore_infoflow">Daha fazla kaynak görüntüle</string>
+    <string name="ad_title_other">People who downloaded this image also downloaded</string>
+    <string name="info_flow_only_load_wifi">Wifi ağına bağlanıldığında önerilen kaynakları yükle</string>
+    <string name="info_flow_show">Önerilen kaynaklar</string>
+    <string name="info_flow_setting">Ayarlar</string>
+    <string name="no_result_for_keyword">%1$s için bulunamadı</string>
     <string name="download_title">İndirmeler</string>
 </resources>

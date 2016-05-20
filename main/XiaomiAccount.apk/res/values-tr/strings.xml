@@ -97,6 +97,7 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="passport_login_find_device_bind">Bu cihaz Mi hesap numarası mevcut ile ilişkili (%s). Bu cihazı etkinleştirmek için oturum açın</string>
     <string name="passport_retry">Yeniden dene</string>
     <string name="passport_back">Geri</string>
+    <string name="passport_find_device_display_id">Numaranın kilidini aç: %s</string>
     <string name="passport_failed_to_send_activate_email">Aktivasyon e-postası gönderilemedi</string>
     <string name="passport_access_denied">Erişim engellendi</string>
     <string name="passport_reging">Hesap oluşturma</string>

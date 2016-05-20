@@ -114,10 +114,11 @@
     <string name="button_previous">Önceki</string>
     <string name="exchange_rules">Yardım</string>
     <string name="exchange_toast">Dikkat</string>
+    <string name="exchange_success">Alındı</string>
     <string name="exchange_traffic">Mobil veri al</string>
     <string name="more">Daha fazla</string>
     <string name="not_enough_pisces">Jeton yeterli değil</string>
-    <string name="unlock_at_level_x">%d. sviye kilidini aç</string>
+    <string name="unlock_at_level_x">%d seviye kilidini aç</string>
     <string name="mall">Alışveriş merkezi</string>
     <string name="accelerate">Hızlandır</string>
     <string name="others">Daha fazla</string>
@@ -126,6 +127,7 @@
     <string name="deselect_all">Tüm seçimi kaldır</string>
     <string name="delete">Sil</string>
     <string name="not_login_yet">Oturum aç</string>
+    <string name="receive">Al</string>
     <string name="loading">Yükleniyor</string>
     <string name="buff_enable">[ Etkinleştir ]</string>
     <string name="hello">Merhaba</string>
@@ -147,4 +149,5 @@
     <string name="attention">Dikkat</string>
     <string name="got_it">Anladım</string>
     <string name="award_delete_confirmation">Seçilen öğeler silinsin mi?</string>
+	<string name="level_prefix_format">Seviye: %s</string>
 </resources>

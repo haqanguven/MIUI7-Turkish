@@ -6,7 +6,7 @@
     <string name="sina_token_expired_warning">Weibo hesabınızın süresi sona erdi: Lütfen yeniden bağlayın</string>
     <string name="sina_token_invalid_warning">Weibo hesabı geçersiz: Lütfen yeniden bağlayın</string>
     <string name="sina_share_fail_content_repeat">Paylaşılamadı. İçerik zaten mevcut</string>
-    <string name="app_name">Güncelleyici</string>
+    <string name="app_name">Güncelleme</string>
     <string name="get_current">Mevcut sürümü edin</string>
     <string name="check_new_version">Kontrol et</string>
     <string name="download_diff">Farklılıkları indir</string>
@@ -23,7 +23,7 @@
     <string name="miui_summary_slogan">"  Güncelleme  "</string>
     <string name="miui_summary_updating">"  Güncelleniyor  "</string>
     <string name="miui_summary_now_version">Ağa bağlanılamıyor</string>
-    <string name="miui_summary_no_new_version">Uygun güncelleme yok</string>
+    <string name="miui_summary_no_new_version">Yeni güncelleme yok</string>
     <string name="button_text_check">Güncellemeleri kontrol et</string>
     <string name="button_text_update">Güncelle</string>
     <string name="button_text_reboot">Başlat</string>

@@ -101,4 +101,5 @@
     <string name="intro_page2_choose_files">Dosya seç ve paylaşmak için dokun</string>
     <string name="intro_page3_choose_midrop">Mi damlayı seçin</string>
     <string name="intro_page3_choose_midrop2">Dosyalar anında gönderilir</string>
+    <string name="runtime_permission_ungranted">Mi damlaya verilmeyen izinlerden dolayı kullanılamaz</string>
 </resources>

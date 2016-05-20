@@ -21,6 +21,7 @@
     <string name="permission_risky_security">Güvenlik ilişkisi</string>
     <string name="permission_extra">Diğer erişimler</string>
     <string name="app_name">Mi market</string>
+    <string name="app_name_discover">Keşfet</string>
     <string name="recommendation_tag">Öne çıkan</string>
     <string name="rank_tag">En iyi uygulamalar</string>
     <string name="category_tag">Kategoriler</string>

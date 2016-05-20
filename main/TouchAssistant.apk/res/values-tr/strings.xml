@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alipay_package">com.eg.android.AlipayGphone</string>
+    <string name="app_name">Dokunma asistanı</string>
+    <string name="app_not_installed">Yüklü değil</string>
+    <string name="applications">Uygulamalar</string>
+    <string name="category_others">Diğerleri</string>
+    <string name="category_setting">Ayarlar</string>
+    <string name="customize_entries">Fonksiyonu özelleştir</string>
+    <string name="enable_touch_assistant">Dokunma asistanı etkinleştir</string>
+    <string name="function_settings">Fonksiyon ayarları</string>
+    <string name="hide_touch_assistant">Dokunma asistanını otomatik gizle</string>
+    <string name="hide_touch_assistant_intro">Bazı uygulamalarda dokunma asistanını gizleyin</string>
+    <string name="name_alipay_payment_code">Alipay hızlı ödeme</string>
+    <string name="name_alipay_scan">Alipay tarama kodu</string>
+    <string name="name_kill_processes">Bellek temizleme</string>
+    <string name="name_music_next_song">Sonraki şarkı</string>
+    <string name="name_music_prev_song">Önceki şarkı</string>
+    <string name="name_music_toggle">şarkıyı oynat veya duraklat</string>
+    <string name="name_payment_code">Hızlı öde</string>
+    <string name="name_press_back_key">Geri dön</string>
+    <string name="name_press_home_key">Ana sayfaya dön</string>
+    <string name="name_press_menu_key">Menüyü aç</string>
+    <string name="name_quick_lock">Ekran kapat</string>
+    <string name="name_quick_search">Ara</string>
+    <string name="name_scan_to_pay">Tarama ile öde</string>
+    <string name="name_screenshot">Ekran resmi</string>
+    <string name="name_wechat_payment_code">Wechat hızlı ödeme</string>
+    <string name="name_wechat_scan">Wechat kodu tara</string>
+    <string name="pay_entry_dialog_title_select">Açmak için uygulamayı seçin</string>
+    <string name="pay_entry_dialog_title_setting">Uygulama kontrolü ayarlamayı etkinleştir</string>
+    <string name="pref_category_others">Diğerleri</string>
+    <string name="pref_category_quick_pay">Hızlı ödeme</string>
+    <string name="pref_category_quick_settings">Hızlı ayarlar</string>
+    <string name="pref_category_system">Sistem ayarları</string>
+    <string name="restore_default">Varsayılan</string>
+    <string name="restore_intro">Varsayılan ayarları geri yükle. Telefonunuzdaki veriler silinmez</string>
+    <string name="vector_large_circle">M200,100 a100,100 0 1,0 1,0 z</string>
+    <string name="vector_large_crossA">M160,160 L240,240</string>
+    <string name="vector_large_crossB">M240,160 L160,240</string>
+    <string name="wechat_package">com.tencent.mm</string>
+</resources>

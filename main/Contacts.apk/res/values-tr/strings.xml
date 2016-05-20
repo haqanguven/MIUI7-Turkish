@@ -901,7 +901,8 @@ Diğer Miui kullanıcıları arama yaptığınızda çekmiş olduğunuz videoyu 
     <string name="ic_menu_done">Tamam</string>
     <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
     <string name="preference_contacts_recovery_introduction">Kişileri kurtar</string>
-    <string name="share_over_limit">Sınırın üzerinde. Paylaşılamaz</string>
+    <string name="share_over_limit">"1000'den fazlasını paylaşamıyoruz"</string>
+    <string name="preference_key_trash_bin_title">Son zamanlarda silinmiş yedeklenen kişilere göz atın</string>
     <string name="account_default">Telefon</string>
     <string name="lunarBirthdayLabelsGroup">Ay takvimine göre doğum günü</string>
     <string name="option_view_contact">Görüntüle</string>
@@ -1118,7 +1119,7 @@ Diğer Miui kullanıcıları arama yaptığınızda çekmiş olduğunuz videoyu 
     <string name="voip_loading_contact">Yükleniyor</string>
     <string name="create_voip_shortcut_success">Kısayol oluşturuldu</string>
     <string name="no_voip_contacts">Mi ses kişileri yok</string>
-    <string name="calls_voip_prompt">VOIP</string>
+    <string name="calls_voip_prompt">Voip</string>
     <string name="yellowPageNavigationLabel">Rehber</string>
     <string name="yellowPageNavigationIconLabel">Rehber</string>
 	<string name="login_ok">Oturum aç</string>
@@ -1177,4 +1178,10 @@ Diğer Miui kullanıcıları arama yaptığınızda çekmiş olduğunuz videoyu 
     <string name="menu_newContactButton">Ekle</string>
     <string name="unable_get_device_id">İmei alınamıyor</string>
     <string name="missing_required_permission">Gerekli izini devre dışı bıraktık</string>
+	<string name="hybrid_network_unavaliable">Ağa bağlanamıyor</string>
+    <string name="hybrid_data_error">Bir hata oluştu</string>
+    <string name="hybrid_locating_fail">Konum bulunamıyor</string>
+    <string name="hybrid_check_network">Ağ ayarları</string>
+    <string name="hybrid_service_unavailiable">Hizmet kullanılamıyor</string>
+    <string name="hybrid_try_again">Tekrar deneyin</string>
 </resources>
