@@ -1,3 +1,3 @@
 # Miui Turkish Team
 # Developer
-# Version: 6.5.5
+# Version: 6.5.19
