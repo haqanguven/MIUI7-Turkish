@@ -44,7 +44,7 @@ Aygıt kimliği geçerli İmei veya Mac adresi olmalıdır. Aygıt kimliği olma
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Mi hesabı kontrol edilirken bir sunucu hatası oluştu</string>
     <string name="activate_status_desc_registering_xiaomi_account">Mi hesabı oluşturuluyor</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Mi hesabı oluşturulurken bir sunucu hatası oluştu</string>
-    <string name="activate_status_desc_completed_with_sms_sent">Sent SMS to activate SIM</string>
+    <string name="activate_status_desc_completed_with_sms_sent">Sim kartını etkinleştirmek için mesaj gönderin</string>
     <string name="sim_unactivated_title">Sim kartınız aktive edilmedi</string>
     <string name="activate">Etkinleştir</string>
     <string name="activate_popup_title_manual">%s etkinleştir</string>

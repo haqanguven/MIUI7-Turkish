@@ -5,7 +5,7 @@
     <string name="sina_share_fail">Gönderme başarısız oldu</string>
     <string name="sina_token_expired_warning">Weibo hesabının süresi doldu: Yeniden bağlantı kurun</string>
     <string name="sina_token_invalid_warning">Weibo hesabı geçersiz: Yeniden bağlantı kurun</string>
-    <string name="sina_share_fail_content_repeat">İçerik zaten var. Paylaşılamadı</string>
+    <string name="sina_share_fail_content_repeat">Paylaşılamadı. İçerik zaten var</string>
     <string name="xmpp_server_addr" />
     <string name="app_name">Mi bulut</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
@@ -112,8 +112,8 @@ Bu özellik şifrelenir ve Mi sunucularına cihazınızın kimliğini yükler"</
     <string name="find_device_reading_status_failure">Durum yüklenemedi</string>
     <string name="enable_find_device_success">Cihaz bulma açık</string>
     <string name="disable_find_device_success">Cihaz bulma kapalı</string>
-    <string name="enable_find_device_error">Açılamıyor: %1$s</string>
-    <string name="disable_find_device_error">Kapatılamıyor: %1$s</string>
+    <string name="enable_find_device_error">Cihaz bul açılamıyor: %1$s</string>
+    <string name="disable_find_device_error">Cihaz bul kapatılamıyor: %1$s</string>
     <string name="find_device_error_unknown">Bilinmeyen hata</string>
     <string name="find_device_error_password_changed">Hesap şifresi son zamanlarda değiştirilmemiştir</string>
     <string name="find_device_error_network">Veri bağlantınızı kontrol edip tekrar deneyin</string>
@@ -137,9 +137,10 @@ Sim kartını değiştirirseniz bu özelliği etkinleştirmek için otomatik ola
     <string name="start_micloud">Başla</string>
     <string name="micloud_single_dspt">Mi bulut ile verileri senkronize edin, cihazınızı bulun ve arkadaşlarınızla paylaşın</string>
     <string name="micloud_proceed">Devam et</string>
-    <string name="master_alert_notif_title">Son senkronize %s gün önce</string>
-    <string name="sub_alert_notif_title">Senkronize edilemiyor</string>
-    <string name="alert_notif_title_dspt">Senkronize edilemiyor</string>
+    <string name="master_alert_notif_title">Mi bulutu açın</string>
+    <string name="master_alert_notif_content">%d veri senkronize edilmedi</string>
+    <string name="sub_alert_notif_title">Mi bulut ile senkronize et</string>
+    <string name="sub_alert_notif_content">Mi bulut senkronizeyi açın</string>
     <string name="noRemind">Hatırlatma</string>
     <string name="restoreSync">Şimdi senkronize et</string>
     <string name="enableAll">Tümünü senkronize et</string>
@@ -160,7 +161,7 @@ Sim kartını değiştirirseniz bu özelliği etkinleştirmek için otomatik ola
     <string name="micloud_space_soundrecorder_title">Kayıtlar</string>
     <string name="micloud_space_soundrecorder_detail">Cihazınızda saklanan kayıtları yönetin</string>
     <string name="micloud_space_full_influence"><u>Alanım bitince ne olur?</u></string>
-    <string name="micloud_storage_usage" formatted="false">Kullanılan: %s Toplam %s</string>
+    <string name="micloud_storage_usage" formatted="false">"Kullanılan: %s | Toplam alan: %s"</string>
     <string name="micloud_storage_full">Bulut depolama dolu</string>
     <string name="micloud_title_dspt" formatted="false">"Toplam: %s
 Kullanılan: %s | Kalan: %s"</string>
@@ -242,10 +243,9 @@ Daha fazla seçenek görüntülemek için ayarlar düğmesine dokunun"</string>
     <string name="micloud_main_network_abnormal">Ağa bağlanılamıyor</string>
     <string name="micloud_main_sync_init">Bilgi alınıyor</string>
     <string name="micloud_main_battery_low">Senkronize etmek için pil yeterli değil</string>
-    <string name="micloud_main_battery_message">"Senkronize etmek için bir güç kaynağına bağlayın
-%d öğe"</string>
+    <string name="micloud_main_battery_message">Senkronize etmek için bir güç kaynağına bağlayın</string>
     <string name="micloud_main_syncing">Senkronize ediliyor</string>
-    <string name="micloud_main_last_sync_time">Son senkronize: %s</string>
+    <string name="micloud_main_last_sync_time">En son senkronize: %s</string>
     <string name="micloud_main_synced_data_count">%d öğe senkronize edildi</string>
     <string name="micloud_main_wlan_sync_data_count">%d öğe senkronizesi bekliyor</string>
     <string name="micloud_main_space_full">Yeterli depolama alanı yok</string>
@@ -255,6 +255,9 @@ Daha fazla seçenek görüntülemek için ayarlar düğmesine dokunun"</string>
     <string name="micloud_main_memory_low_title">Yeterli depolama alanı yok</string>
     <string name="micloud_main_memory_low_message">"Senkronize etmek için bulut içinde sakladığınız bazı öğeleri silin</string>
     <string name="micloud_main_clear_now">Temizle</string>
+    <string name="micloud_main_query_error_title">Senkronizasyon durumu alınamıyor</string>
+    <string name="micloud_main_query_error_message">Senkronizasyonun tamamlanması garanti edilemez</string>
+    <string name="micloud_main_not_sync">%d öğe senkronize olmak için bekliyor</string>
     <string name="micloud_detail_syncing">Senkronize ediliyor</string>
     <string name="micloud_detail_upload_syncing">Yükleniyor: %s</string>
     <string name="micloud_detail_download_syncing">İndiriliyor: %s</string>
@@ -264,11 +267,22 @@ Daha fazla seçenek görüntülemek için ayarlar düğmesine dokunun"</string>
     <string name="micloud_detail_lastest">Senkronize edildi</string>
     <string name="micloud_detail_lastest_with_off">Senkronize edildi</string>
     <string name="micloud_detail_not_synced">Senkronize edilmedi</string>
-    <string name="micloud_detail_preference_syncing">Senkronize ediliyor</string>
-    <string name="micloud_detail_preference_wlan">Wifi ile senkronize et</string>
+    <string name="micloud_detail_preference_sync_items">Öğe</string>
     <string name="micloud_detail_wlan">%d öğe senkronize için bekliyor</string>
     <string name="micloud_detail_wlan_contact">%d kişi fotoğrafları senkronize için bekliyor</string>
-    <string name="micloud_detail_wlan_mms">%d multimedya mesajları senkronize için bekliyor</string>
+    <string name="micloud_detail_wlan_mms">%d multimedya mesajı senkronize için bekliyor</string>
+    <string name="micloud_detail_query_error">Senkronizasyon durumu alınamıyor</string>
+    <string name="micloud_detail_query_error_title">Senkronizasyon durumu alınamıyor</string>
+    <string name="micloud_detail_query_error_detail">Senkronizasyon durumu kontrol edilemiyor. Geliştirici ile irtibata geçiniz</string>
+    <string name="micloud_detail_not_sync">%d senkronize bekliyor</string>
+    <string name="micloud_detail_force_sync">Şimdi senkronize et</string>
+    <string name="micloud_detail_ok">Tamam</string>
+    <string name="micloud_detail_do_not_sync">Senkronize edilmedi</string>
+    <string name="micloud_detail_sync_now">Şimdi senkronize et</string>
+    <string name="micloud_detail_battery_low_title">Şarj azaldı</string>
+    <string name="micloud_detail_battery_low_message">Şarj azaldı. Telefonunuzu şarja takın ve senkronizasyon edin</string>
+    <string name="micloud_detail_depend_wifi_title">Wifi ağı gerekiyor</string>
+    <string name="micloud_detail_depend_wifi_message">Wifi ağına bağlanın veya senkronizasyon ayarlarını kontrol edin</string>
     <string name="micloud_check_sim_title">"Sim kartınız değişmiş gibi görünüyor
 Mi hesabınızla Mi bulutu yeniden etkinleştirin"</string>
     <string name="micloud_check_sim_notify_title">Mi bulutu yeniden etkinleştir</string>
@@ -336,7 +350,7 @@ Yılda %s Mi kredi"</string>
     <string name="micloud_member_pay_order_error_toast">Veri hatası</string>
     <string name="micloud_member_pay_miid_error_toast">Hesap hatası</string>
     <string name="micloud_member_refresh_button">Yenile</string>
-    <string name="share_miliao_not_installed">Mi talk yüklü değil</string>
+    <string name="share_miliao_not_installed">Mi konuşma yüklü değil</string>
     <string name="share_weibo_not_installed">Weibo yüklü değil</string>
     <string name="share_weixin_not_installed">WeChat yüklü değil</string>
     <string name="share_success">Paylaşıldı</string>
@@ -358,7 +372,8 @@ Son yedekleme: %2$s"</string>
     <string name="cloud_back_up_remove_success">Yedek silindi</string>
 	<string name="micloud_storage">Depolama</string>
     <string name="micloud_member">Mi bulut üyelik</string>
-    <string name="micloud_buy_member">Üyelik yükseltme</string>
+    <string name="micloud_buy_member">Hesap</string>
+    <string name="micloud_website">Bulut verileri</string>
     <string name="micloud_member_advantage">Daha fazla depolama alanı alın</string>
     <string name="micloud_main_title_sync_fail">Senkronize edilmiyor</string>
     <string name="micloud_main_title_sync_on_wifi">"Wifi'i kullan"</string>
@@ -413,6 +428,11 @@ Son yedekleme: %2$s"</string>
     <string name="micloud_notif_content_battery_low">Pil seviyesi çok düşük</string>
     <string name="micloud_notif_title_sync_with_off">Mi bulut ile senkronize et</string>
     <string name="micloud_notif_content_sync_with_off">Cihazınızı senkronize etmek için dokunun</string>
+    <string name="micloud_notif_title_sync_progress">Senkronize ediliyor</string>
+    <string name="micloud_notif_title_sync_finish">Senkronize edildi</string>
+    <string name="micloud_notif_content_sync_finish">Hesap</string>
+    <string name="micloud_notif_title_sync_not_finish">Senkronize edilmedi</string>
+    <string name="micloud_notif_content_sync_not_finish">Detay</string>
     <string name="micloud_notif_title_clipboard_push">İçerik panoya kopyalandı</string>
     <string name="micloud_notif_content_clipboard_push">Her an her yerde yapıştırabilirsiniz</string>
     <string name="micloud_find_device_guide_title">"Cihazınızın konumunu bulmak, kilitlemek veya silmek için
@@ -423,7 +443,7 @@ Son yedekleme: %2$s"</string>
     <string name="micloud_find_device_guide_progress">Cihazı bul açılıyor</string>
     <string name="micloud_find_device_opened">Cihazı bul açık</string>
     <string name="micloud_find_device_open_fail">Cihazı bul kapatılamadı</string>
-    <string name="micloud_find_device_opened_content">Cihaz konumunu bulun;</string>
+    <string name="micloud_find_device_opened_content">%s cihazınızı bulun</string>
     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_finish">Tamamlandı</string>
@@ -434,8 +454,8 @@ Son yedekleme: %2$s"</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Bağlantı zaman aşımına uğradı. Daha sonra yeniden deneyin</string>
     <string name="micloud_find_device_guide_noti_title">Cihazı bul</string>
     <string name="micloud_find_device_guide_noti_content">Cihazınız kaybolsa dahi verilerinizi güvende tutmak amacıyla cihazı bul özelliğini etkinleştirin</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat verilerinizi korumak amacıyla Cihazı bul özelliğini açın</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay verilerinizi korumak amacıyla Cihazı bul özelliğini açın</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat verilerinizi korumak amacıyla cihazı bul özelliğini açın</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay verilerinizi korumak amacıyla cihazı bul özelliğini açın</string>
     <string name="activate_finddevice">Cihazı etkinleştirmek için ağa bağlanın</string>
     <string name="account_related">Cihazınız varolan Mi hesabı ile ilişkilidir (%s). Cihazı doğrulamak için ağa bağlanın</string>
     <string name="connect_network">Wifi ağına bağlanın ya da bir Sim kartı takın</string>
