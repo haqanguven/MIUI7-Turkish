@@ -145,6 +145,7 @@
     <string name="vp_player_plugin_dlg_no_content">Video oynatıcı eklentileri yok</string>
     <string name="vp_download_apk_from_video_ad">Uygulamayı yükle</string>
     <string name="vp_app_download">Uygulamayı indir</string>
+    <string name="vp_select_tv">Kanallar</string>
     <string name="app_name">Videolar</string>
     <string name="path_settings">Video ve ayarlar</string>
     <string name="path_develop_settings">Video, ayarlar ve geliştirici ayarları</string>
@@ -433,6 +434,10 @@
     <string name="subscribe">Abone ol</string>
     <string name="detail">Detay</string>
     <string name="enter_detail">Daha fazla bilgi</string>
+    <string name="account_auth_fail">Hesap kimliği doğrulanamadı</string>
+    <string name="live">Canlı</string>
+    <string name="replay">Tekrar</string>
+    <string name="error_empty_epg">Bilgi yok</string>
 	<string name="month">Ay</string>
     <string name="day">Gün</string>
     <string name="update">Güncelle</string>

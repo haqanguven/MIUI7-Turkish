@@ -657,6 +657,7 @@ Bir banka kartı ekleyin"</string>
     <string name="mipay_fingerprint_payment_title">Parmak izi ödeme</string>
     <string name="mipay_open_fingerprint_result_ok">Parmak izi ödeme açıldı</string>
     <string name="mipay_open_fingerprint_result_fail">Parmak izi ödeme açılamadı:</string>
+    <string name="mipay_hybrid_feature_select_image">Resmi seçiniz</string>
     <string name="mipay_error_network">Ağa bağlanılamıyor</string>
     <string name="mipay_error_auth">Hesap açma hatası. Lütfen tekrar oturum açın</string>
     <string name="mipay_error_account_throtting">"Hesabınız güvenli değildir

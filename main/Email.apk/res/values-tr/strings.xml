@@ -21,6 +21,8 @@ Birçok sunucu boşluk içeren şifreleri desteklememektedir"</string>
 uzaktan kontrolüne izin vermenizi gerektiriyor"</string>
     <string name="account_security_title">Cihaz güvenliği</string>
     <string name="account_set_up_change_type_note">POP3 ve IMAP ayarları arasında geçiş yapmanız gerekiyorsa hesabınızı silin ve istediğiniz ayarlarla yeni bir hesap oluşturun</string>
+    <string name="account_setting">Hesap ayarları</string>
+    <string name="account_setting_keywords">E-posta hesapları, e-posta hesap ayarları; posta hesapları</string>
     <string name="account_settings_action">Hesap ayarları</string>
     <string name="account_settings_background_attachments_label">Eklentileri indir</string>
     <string name="account_settings_background_attachments_summary">Eklentileri wifi kullanarak indirin</string>
@@ -95,11 +97,9 @@ Bunları şimdi güncellemek ister misiniz?"</string>
     <string name="account_setup_failed_dlg_todo2">Aşağıdaki gibi hesabı ayarla</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Bilinmeyen hata</string>
     <string name="account_setup_failed_ioerror">Sunucuyla bağlantı kurulamadı</string>
-    <string name="account_setup_failed_protocol_unsupported">"Yanlış bir sunucu adresi yazdınız
-veya sunucu e-posta protokolünü desteklemiyor"</string>
+    <string name="account_setup_failed_protocol_unsupported">"Yanlış bir sunucu adresi yazdınız veya sunucu e-posta protokolünü desteklemiyor"</string>
     <string name="account_setup_failed_security">Güvenlik hatası nedeniyle sunucuyla bağlantı kurulamadı</string>
-    <string name="account_setup_failed_security_policies_unsupported">"Bu sunucu android cihazınız tarafından desteklenmeyen güvenlik özellikleri gerektiriyor
-Örneğin: %s"</string>
+    <string name="account_setup_failed_security_policies_unsupported">"Bu sunucu android cihazınız tarafından desteklenmeyen güvenlik özellikleri gerektiriyor. Örneğin: %s"</string>
     <string name="account_setup_failed_tls_required">TLS gerekli ancak sunucu tarafından desteklenmiyor</string>
     <string name="account_setup_failed_too_many_partnerships">Oturum açma izni sunucu maksimum bağlantı sayısına ulaşıldı. Başarısız oldu</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Çöp kutunuzdan sildiğinizde</string>
@@ -151,6 +151,7 @@ Bu hesabın kurulumunu tamamlamak istiyor musunuz?
     <string name="activity_folder_selection">Klasör seç</string>
     <string name="activity_mailbox_selection">Hesap seç</string>
     <string name="add_account">Hesap ekle</string>
+    <string name="add_account_keywords">E-posta hesapları ekleyin</string>
     <string name="add_attachment">Dosya ekle</string>
     <string name="add_calendar">Hatırlatma</string>
     <string name="add_label">Klasöre ekle</string>
@@ -202,6 +203,8 @@ Bu hesabın kurulumunu tamamlamak istiyor musunuz?
     <string name="auto_advance_label">E-posta akışı</string>
     <string name="auto_advance_summary">E-posta silindikten sonra hangi seçeneğe geçileceğini seçin</string>
     <string name="auto_sync_off">Otomatik senkronizasyon kapalı</string>
+    <string name="battery_saver">Güç tasarrufu </string>
+    <string name="battery_saver_keywords">Pil tasarrufu sağlayın</string>
     <string name="bcc">Bcc</string>
     <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">Geri bildirim yazmanız gerekiyor</string>
@@ -216,8 +219,7 @@ Bu hesabın kurulumunu tamamlamak istiyor musunuz?
     <string name="calendar_remind_gridview_pick_date">Tarih seç</string>
     <string name="cancel"> İptal et</string>
     <string name="cancel_action">İptal et</string>
-    <string name="cant_move_or_change_labels">"Seçim birden fazla hesap içerdiği için taşınamıyor
-"</string>
+    <string name="cant_move_or_change_labels">Seçim birden fazla hesap içerdiği için taşınamıyor</string>
     <string name="cc">Bilgi</string>
     <string name="cc_attribution">Bilgi: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
@@ -245,6 +247,10 @@ Bu hesabın kurulumunu tamamlamak istiyor musunuz?
     <string name="compose_send">Gönder</string>
     <string name="compose_sent">Başarıyla gönderildi</string>
     <string name="confirm">Tamam</string>
+    <string name="confirm_before_delete">Silmeden önce onayla</string>
+    <string name="confirm_before_delete_keywords">Silmeden önce onaylayın</string>
+    <string name="confirm_before_send">Göndermeden önce onayla</string>
+    <string name="confirm_before_send_keywords">Göndermeden önce onaylayın</string>
     <string name="confirm_delete_conversation_title">Sil</string>
     <string name="confirm_discard_text">Bu ileti iptal edilsin mi?</string>
     <string name="confirm_response">Gönderiliyor</string>
@@ -268,6 +274,7 @@ Bu hesabın kurulumunu tamamlamak istiyor musunuz?
     <string name="contact_list_add_btn">Ekle</string>
     <string name="contact_list_search_hint">Kişileri ara</string>
     <string name="contact_list_title">Kişiler</string>
+    <string name="contact_permission_error">Telefonun kişilerine erişim kısıtlı</string>
     <string name="contact_select">Kişileri seç</string>
     <string name="content_description">%1$s hakkında %2$s, %3$s %4$s, %5$s tarihinde</string>
     <string name="content_description_today">%1$s hakkında %2$s, %3$s %4$s, %5$s tarihinde</string>
@@ -292,6 +299,8 @@ Bu hesabın kurulumunu tamamlamak istiyor musunuz?
     <string name="conversation_item_mark_read">Okundu</string>
     <string name="conversation_item_mark_unread">Okunmadı</string>
     <string name="conversation_photo_welcome_text">Bu konuşmayı seçmek için bir gönderici görüntüsüne dokunun</string>
+    <string name="conversation_view">Ekran oturumu</string>
+    <string name="conversation_view_keywords">Gelen ve giden posta ayarları</string>
     <string name="copied">Kopyalandı</string>
     <string name="copy_email">E-posta adresini kopyala</string>
     <string name="copy_number">Telefon numarasını kopyala</string>
@@ -308,6 +317,8 @@ Bu hesabın kurulumunu tamamlamak istiyor musunuz?
     <string name="default_signature">Mi cihazımdan gönderildi</string>
     <string name="del_account_questionnair_hint">Hesabı silmek istemenizin nedenini bizimle paylaşır mısınız?</string>
     <string name="delete">Sil</string>
+    <string name="delete_message_flow">Otomatik atlama</string>
+    <string name="delete_message_flow_keywords">Çöp kutusuna taşıma</string>
     <string name="deleted">Silindi</string>
     <string name="device_activity_btn_str">Etkinleştir</string>
     <string name="device_activity_lint_str">Posta hizmeti tam güncelleme özelliğini aktif hale getirin ve güvenlik ayarlarınızı etkinleştirin</string>
@@ -382,6 +393,9 @@ e-postaları, kişileri, takvim olaylarını ve diğer verileri siler"</string>
     <string name="expand_recipient_details">Alıcı ayrıltılarını genişlet</string>
     <string name="fail_get_email_message">Mesaj alınamadı</string>
     <string name="failed">Resim yüklenemedi</string>
+    <string name="failed_read_phone_state_permission">Telefon durumuna erişmek için gerekli izinlere sahip değilsiniz</string>
+    <string name="failed_read_write_calendar_permission">Takvime erişmek için gerekli izinlere sahip değilsiniz</string>
+    <string name="failed_read_write_contacts_permission">Kişiyi erişmek için gerekli izinlere sahip değilsiniz</string>
     <string name="feedback">Geri bildirim gönder</string>
     <string name="feedback_body">Mesaj</string>
     <string name="feedback_sent">Geri bildirimiz için teşekkürler</string>
@@ -607,8 +621,7 @@ e-postaları, kişileri, takvim olaylarını ve diğer verileri siler"</string>
     <string name="message_invite_tentative">Belki</string>
     <string name="message_invite_title">Takvim daveti</string>
     <string name="message_saved">İleti taslak olarak kaydedildi</string>
-    <string name="message_view_attachment_background_load">"Yönlendirilen iletinizdeki bir veya daha fazla
-ek gönderme işleminden önce indirilecek"</string>
+    <string name="message_view_attachment_background_load">"Yönlendirilen iletinizdeki bir veya daha fazla ek gönderme işleminden önce indirilecek"</string>
     <string name="mibill_privacy_policy_button1">Şimdi değil</string>
     <string name="mibill_privacy_policy_button2">Kabul et</string>
     <string name="mibill_privacy_policy_description">Mi cüzdan e-posta uygulamanızdaki e-posta ifadelerinin tamamını inceleyerek kredi kartı faturalarınızı yönetmenize yardımcı olacaktır. Bu hizmet şirket posta kutusu için devre dışı bırakılmıştır</string>
@@ -684,7 +697,8 @@ veya Pin'inizi değiştirmeniz gerekiyor"</string>
     <string name="password_expired_dialog_content_fmt">"%s hesabı verileri cihazınızdan siliniyor
 Kilit ekranı Pin veya şifrenizi değiştirerek hesaba ait verileri geri yükleyebilirsiniz. Şimdi değiştirmek istiyor musunuz?"</string>
     <string name="password_expired_dialog_title">Ekran kilidi şifre süresi doldu</string>
-    <string name="password_expired_ticker">Ekran kilidinizin Pin veya şifresinin süresi doldu.</string>
+    <string name="password_expired_ticker">Ekran kilidinizin Pin veya şifresinin süresi doldu</string>
+    <string name="path_about_account_setting">E-posta/Ayarlar</string>
     <string name="perference_change_pw_notnull_tips">Şifrenizi girin</string>
     <string name="perference_change_pw_ok_tips">Şifre değiştirildi</string>
     <string name="perference_setup_pop_del">İletileri sunucudan sil</string>
@@ -713,8 +727,7 @@ Kilit ekranı Pin veya şifrenizi değiştirerek hesaba ait verileri geri yükle
     <string name="policy_dont_allow_storage_cards">Karta depolamaya izin verme</string>
     <string name="policy_dont_allow_text_messaging">Metin mesajlarına izin verme</string>
     <string name="policy_dont_allow_unsigned_apps">İmzasız uygulamalara izin verme</string>
-    <string name="policy_dont_allow_unsigned_installers">"İmzasız uygulama yükleyicilerine izin verme
-"</string>
+    <string name="policy_dont_allow_unsigned_installers">İmzasız uygulama yükleyicilerine izin verme</string>
     <string name="policy_dont_allow_wifi">"Wifi'e izin verme"</string>
     <string name="policy_email_age">Senkronize edilecek e-posta sayısını sınırlandır</string>
     <string name="policy_html_truncation">HTML e-posta boyutunu sınırla</string>
@@ -826,6 +839,7 @@ Kilit ekranı Pin veya şifrenizi değiştirerek hesaba ait verileri geri yükle
     <string name="report_rendering_problem_desc">Bu mesaj kötü görünüyor</string>
     <string name="report_spam">Spam bildir</string>
     <string name="request_entity_large">Dosya çok büyük</string>
+    <string name="request_permission_activity">İzin talebi</string>
     <string name="respond_inline">Sıralı yanıtla</string>
     <string name="save_action">Kaydet</string>
     <string name="save_attachment">Kaydet</string>
@@ -858,6 +872,8 @@ Her hangi bir kullanıcı eylemine gerek yok"</string>
     <string name="selected_lable">Seçildi</string>
     <string name="send">Gönder</string>
     <string name="send_failed">Mesaj gönderilemedi</string>
+    <string name="send_feed_back">Geri bildirim</string>
+    <string name="send_feed_back_keywords">Geri bildirim gönder</string>
     <string name="sender_whitelist_cleared">Fotoğraflar otomatik olarak görüntülenmeyecek</string>
     <string name="senders_elided">..</string>
     <string name="senders_split_token">, </string>
@@ -953,6 +969,8 @@ internet ile diğer cihazlarınız arasında ve %1$s cihazınız arasında senkr
     <string name="upload_log_success">Günlükler başarıyla gönderildi</string>
     <string name="upload_log_title">Xiaomi için günlükleri gönderin</string>
     <string name="upload_log_yes">Evet</string>
+    <string name="upload_logs">Kayıt günlüğü</string>
+    <string name="upload_logs_keywords">Kayıt günlüğünü yükle</string>
     <string name="uploading_logs">Bir saniye</string>
     <string name="validation_failed_prompt">%s için sunucu ayarlarını kontrolü hesabınızla doğrulanamadı</string>
     <string name="veiled_address" />
@@ -969,6 +987,8 @@ Touch "<b>Şimdi senkronize et</b> yada bir kez e-postayı senkronize edebilirsi
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Diğerleri</string>
     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
+    <string name="wipe_account_fail_description">İzinleri almak için buraya tıklayın</string>
+    <string name="wipe_account_fail_title">Kişisel bilgiler silinemedi</string>
     <string name="wrong_password">Girdiğiniz şifre hatalı</string>
     <string name="yes">Evet</string>
     <string name="yidianzixun">yidianzixun</string>

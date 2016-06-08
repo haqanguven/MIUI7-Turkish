@@ -248,6 +248,4 @@ EEEE"</string>
     <string name="task_access_locked_app_msg">Uygulama içeriği gizli</string>
     <string name="account_info">Giriş yapmadınız</string>
     <string name="notification_header_title">Bildirimler</string>
-    <string name="lland">Lollipop manzara</string>
-    <string name="mland">Marshmallow manzara</string>
 </resources>

@@ -1111,7 +1111,6 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="activity_title_notification_bar_manager">Bildirimler</string>
     <string name="activity_title_default_apps_manager">Varsayılan uygulamalar</string>
     <string name="activity_title_permission_manager">İzinler</string>
-    <string name="activity_title_other_permission_manager">Diğer izinler</string>
     <string name="activity_title_root_manager">Kök erişimi</string>
     <string name="activity_title_root_acquired">Kök erişimine izin ver</string>
     <string name="activity_title_root_note">Kök erişimi hakkında</string>
@@ -1250,8 +1249,6 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="toast_virus_cloudscan">Virüs tarama çevirimiçi tanımlar ile yapılacak</string>
     <string name="toast_cleaner_cloudscan">Temizleyici çevirimiçi tanımları kullanacak</string>
     <string name="toast_garbage_lib">Temizleyici için otomatik güncellemeler etkinleştirildi</string>
-    <string name="title_app_lock_disable">Uygulamaları kilitle</string>
-    <string name="summary_app_lock_disable">Gizliliğinizi korumak için uygulamaları kilitleyin</string>
     <string name="info_and_call">Aramalar ve mesajlar</string>
     <string name="SMS_and_MMS">Mesaj ve multimedya</string>
     <string name="permission_with_SMS_and_MMS">Mesaj ve multimedya ile ilgili izinler</string>
@@ -1305,13 +1302,6 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="app_name">Uygulama kilidi</string>
     <string name="text_lock_info">Kilit açma deseni çizin</string>
     <string name="select_pattern">Desen seçin</string>
-    <string name="notification_item">Uygulama kilidini aç</string>
-    <string name="ac_enable_title">Uygulama kilidini aç</string>
-    <string name="lock_mode_title">Kilit ayarları</string>
-    <string name="after_the_lock_screen">Uygulama ekran ile birlikte kilitlendi değiştirmek için uygulama kilit ayarlarını kulanın</string>
-    <string name="ac_firstUseApplock_title">Seçilen uygulamaları açmak için parola iste</string>
-    <string name="ac_firstUseApplock_subTitle">Gizliliğinizi korumak için uygulama kilidini kullanın</string>
-    <string name="notification_subtitle">Açmak için dokunun</string>
     <string name="lockpattern_tutorial_cancel_label">İptal et</string>
     <string name="lockpattern_tutorial_continue_label">İleri</string>
     <string name="lockpattern_retry_button_text">Tekrar çizin</string>
@@ -1320,6 +1310,7 @@ Daha fazla bilgi için operatörünüz ile iletişime geçin"</string>
     <string name="modifypassword">Şifreyi değiştir</string>
     <string name="showpattern">Deseni görüntüle</string>
     <string name="suggest_app_tolock">Öneriler</string>
+    <string name="modify_password_info">Kilit açma deseni</string>
     <string name="forget_password_button_text"><u>Şifremi unuttum</u></string>
     <string name="lockpattern_need_to_unlock">Kilit açma desenini doğrulayın</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Çok fazla sayıda hatalı deneme</string>

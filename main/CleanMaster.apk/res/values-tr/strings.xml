@@ -23,10 +23,12 @@
     <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
     <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
     <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
+    <string name="preference_key_checkbox_apps_auto_clean_and_alert">key_checkbox_apps_auto_clean_content</string>
+    <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
+    <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
     <string name="preference_category_information_setting">category_information_setting</string>
     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
     <string name="preference_key_information_setting_close">key_information_setting_close</string>
-    <string name="preference_key_scan_engine">key_scan_engine</string>
     <string name="activity_title_garbage_cleanup">Temizleyici</string>
     <string name="activity_title_scanfinish">Tarama tamamlandı</string>
     <string name="empty_title_garbage_cache">Ön bellek boş</string>
@@ -35,14 +37,12 @@
     <string name="empty_title_residual">Artıklar boş</string>
     <string name="btn_text_quick_cleanup">Temizle</string>
     <string name="hints_title_garbage">Çöp</string>
-    <string name="activity_title_main">Temizlik ustası</string>
     <string name="activity_title_deep_clean">Gelişmiş temizlik</string>
     <string name="activity_title_cache">Ön bellek</string>
     <string name="activity_title_ad">Reklamlar</string>
     <string name="activity_title_apk">Paketler</string>
     <string name="activity_title_residual">Artık dosyalar</string>
     <string name="btn_text_quick_scan">Tara</string>
-    <string name="optimizecenter_data_support_cm"> </string>
     <string name="optimizecenter_data_support_tc"> </string>
     <string name="hints_app_uninstall_residual">Artık kaldırma dosyaları temizlensin mi?</string>
     <string name="button_text_cancel">İptal et</string>
@@ -159,9 +159,6 @@
     <string name="hints_finish_quick_cleanup_title">%s çöpü temizle</string>
     <string name="dialog_title_load_cleanup_engine_error">Bir şeyler ters gitti</string>
     <string name="dialog_msg_load_cleanup_engine_error">Temizleme motoru zarar görmüş durumda</string>
-    <string name="dialog_title_add_white_list_error">Dikkat</string>
-    <string name="dialog_msg_add_white_list_error">Dosya istisnalara eklemeyi desteklemiyor</string>
-    <string name="dialog_ok_add_white_list_error">Anladım</string>
     <string name="ok">Tamam</string>
     <string name="cancel">İptal et</string>
     <string name="title_delete_large_file">Bu dosya silinsin mi?</string>
@@ -282,6 +279,12 @@
     <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
 	<string name="pref_title_open_optimizer_memory_scan">Hafızayı temizle</string>
     <string name="toast_select_white_need_remove">Kaldırmak için öğeleri seçin</string>
+    <string name="pref_title_auto_deepclean_and_alert">Geniş temizlik</string>
+    <string name="pref_summary_auto_deepclean_and_alert">Kullanılmayan uygulama bildirimi</string>
+    <string name="notification_summary_of_apps_cleanup">Kullanılmayan uygulamalar depolama alanında %s yer kaplıyor</string>
+    <string name="notification_title_of_apps_cleanup">Kullanılmayan uygulamalar</string>
+    <string name="pref_title_apps_check_time">Sıklık</string>
+    <string name="pref_title_apps_check_size">Depolama alanı limiti</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="no_network_btn">Tekrar deneyin</string>
     <string name="name_debuglog_dir">Bsp hata ayıklama kayıtları</string>
@@ -404,13 +407,8 @@
     <string name="recommend_news">Önerilen kaynaklar</string>
 	<string name="dialog_title_stop_scan">Çöp taramasını durdur</string>
     <string name="dialog_msg_stop_scan">Tamamlanmadan önce çöp taraması durdurulsun mu?</string>
-    <string name="dialog_title_esc_cleanmaster">Temizleyiciden çık</string>
-    <string name="dialog_msg_esc_cleanmaster">Devam eden temizleme taraması durdurulsun mu?</string>
-    <string name="pref_category_title_engine_settings">Tarama tanımı</string>
-    <string name="pref_title_choose_engine">Tanımlar</string>
-    <string name="recommend_the_following">Cihazınıza en iyi şekilde aşağıdaki eylemleri alın</string>
+    <string name="recommend_the_following">Cihazınızdan en iyi şekilde faydalanmak için belirtilen işlemleri yapın</string>
     <string name="news_change">Değiştir</string>
     <string name="long_click_dialog_title">Uyarı</string>
     <string name="long_click_dialog_summary">İstisnalara eklemek için uzun basın</string>
-    <string name="function_app_lock_title">%d uygulama gizlilik riski içeriyor​</string>
 </resources>

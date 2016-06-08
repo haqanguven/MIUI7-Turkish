@@ -464,4 +464,7 @@ Son yedekleme: %2$s"</string>
 	<string name="soundrecorder_sync_records">Mi bulut ile senkronize et</string>
     <string name="soundrecorder_sync_only_in_wifi">Senkronize etmek için sadece wifi ağını kullan</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Kaydedici kayıtları indirme veya yükleme için mobil veri kullanılmaz</string>
+    <string name="micloud_request_permission_title">Mi bulut izine ihtiyaç duyuyor</string>
+    <string name="micloud_request_permission_content">Mi bulut verileri senkronize edebilmek için izine ihtiyaç duymaktadır. Mi bulutun takvim, kişiler, Mi hesabı, Sim kart durumu, arama geçmişi ve mesajlara erişimine izin verin</string>
+    <string name="micloud_request_permission_confirm">Anladım</string>
 </resources>

@@ -12,6 +12,7 @@
     <string name="carddownloading">İptal et</string>
     <string name="pass">Atla</string>
     <string name="downloading">Uygulama indirme başlatılıyor</string>
+    <string name="retry">İndirme kesintiye uğradı. Tıklayın</string>
     <string name="introduction">Reklam hizmeti tanıtımı</string>
     <string name="dismiss">Reklamı görmek istemiyorum</string>
     <string name="provider_title">Reklam sponsorları</string>
@@ -22,4 +23,16 @@
     <string name="ad_service_introduction">Reklam hizmeti açıklaması</string>
     <string name="loading">Yükleniyor</string>
     <string name="feedback_information">Görüşleriniz için teşekkür ederiz. Biz daha iyi öneriler sağlayacağız</string>
+    <string name="ERROR_FILE_ERROR">file error</string>
+    <string name="ERROR_UNHANDLED_HTTP_CODE">unhandled http code</string>
+    <string name="ERROR_HTTP_DATA_ERROR">http data error</string>
+    <string name="ERROR_TOO_MANY_REDIRECTS">too many redirects</string>
+    <string name="ERROR_INSUFFICIENT_SPACE">insufficient space</string>
+    <string name="ERROR_DEVICE_NOT_FOUND">device not found</string>
+    <string name="ERROR_CANNOT_RESUME">cannot resume</string>
+    <string name="ERROR_FILE_ALREADY_EXISTS">file already exists</string>
+    <string name="PAUSED_WAITING_TO_RETRY">interrupted,please retry</string>
+    <string name="PAUSED_WAITING_FOR_NETWORK">network interruption</string>
+    <string name="PAUSED_QUEUED_FOR_WIFI">wifi interruption</string>
+    <string name="PAUSED_UNKNOWN">unknown reason interruption</string>
 </resources>

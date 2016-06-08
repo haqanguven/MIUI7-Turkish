@@ -154,6 +154,7 @@
     <string name="turn_off_smart_antispam_hint">Yabancılardan gelen aramalar için koruma kapatılsın mı?</string>
     <string name="about_phone_event">Hizmet bilgisi hakkında</string>
     <string name="phone_event_setting_notice_text">Sarı sayfalar onaylı servis numaralarını Mi sunucularına yüklemek istiyor. Bu sayede hizmet bağlantılı güncellemeleri alabilirsiniz</string>
+    <string name="phone_event_setting_notice_text_with_contacts_permission">Bu hizmeti kullanarak %1$s ve %2$s sözleşmelerimizi kabul etmiş sayılıyorsunuz. Kişilerinize erişmemiz gerekmektedir</string>
     <string name="agree_to_turn_on">Kabul et</string>
 	<string name="payment_back">Geri</string>
     <string name="payment_failed_common_problems">Ödeme sırasında hata oluştu</string>

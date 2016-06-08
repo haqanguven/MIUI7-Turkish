@@ -150,4 +150,5 @@
     <string name="got_it">Anladım</string>
     <string name="award_delete_confirmation">Seçilen öğeler silinsin mi?</string>
 	<string name="level_prefix_format">Seviye: %s</string>
+    <string name="too_fast">Çok hızlı değil. Düğmelerinde dinlenmeye ihtiyacı var</string>
 </resources>

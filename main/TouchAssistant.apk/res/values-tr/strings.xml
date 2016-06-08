@@ -13,7 +13,8 @@
     <string name="hide_touch_assistant_intro">Seçtiğiniz uygulamalarda dokunma asistanını gizleyin</string>
     <string name="name_alipay_payment_code">Alipay hızlı ödeme</string>
     <string name="name_alipay_scan">Alipay tarama kodu</string>
-    <string name="name_kill_processes">Bellek temizleme</string>
+    <string name="name_long_press_power_key">Güç düğmesine uzun basın</string>
+    <string name="name_memory_clean">Ön belleği temizle</string>
     <string name="name_music_next_song">Sonraki şarkı</string>
     <string name="name_music_prev_song">Önceki şarkı</string>
     <string name="name_music_toggle">Şarkıyı oynat veya duraklat</string>
@@ -35,7 +36,7 @@
     <string name="pref_category_system">Sistem ayarları</string>
     <string name="restore_default">Varsayılan</string>
     <string name="restore_intro">Varsayılan ayarlar geri yüklenecek. Telefonunuzdaki veriler silinmez</string>
-    <string name="vector_large_circle">M200,100 a100,100 0 1,0 1,0 z</string>
+    <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
     <string name="vector_large_crossA">M160,160 L240,240</string>
     <string name="vector_large_crossB">M240,160 L160,240</string>
     <string name="wechat_package">com.tencent.mm</string>

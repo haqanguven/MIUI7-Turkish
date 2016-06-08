@@ -20,6 +20,9 @@
     <string name="permission_risky_privacy">Gizlilik ilişkisi</string>
     <string name="permission_risky_security">Güvenlik ilişkisi</string>
     <string name="permission_extra">Diğer erişimler</string>
+    <string name="appstore_setting">Uygulama mağazası</string>
+    <string name="appstore_setting_keyword">Uygulama mağazası</string>
+    <string name="path_appstore_setting">Uygulama mağazası/Ayarlar</string>
     <string name="app_name">Mi market</string>
     <string name="app_name_discover">Keşfet</string>
     <string name="recommendation_tag">Öne çıkan</string>
@@ -84,6 +87,7 @@
     <string name="pref_title_delete_package">Paketi sil</string>
     <string name="pref_title_feedback">Geri bildirim</string>
     <string name="pref_title_show_real_time_data">Gerçek zamanlı veriyi göster</string>
+    <string name="pref_title_auto_update_market">Uygulama mağazasını otomatik güncelle</string>
     <string name="clear_search_record_message">Arama geçmişi temizlensin mi?</string>
     <string name="result_of_clear_history">Arama geçmişi temizlendi</string>
     <string name="pref_summary_auto_update_via_wifi">"Wifi'e bağlanıldığında otomatik olarak uygulamaları güncelle"</string>
@@ -93,6 +97,7 @@
     <string name="pref_summary_web_dev0">Site:</string>
     <string name="pref_summary_web_dev1">http://dev.xiaomi.com</string>
     <string name="pref_summary_delete_package">Yükledikten sonra paketi sil</string>
+    <string name="pref_summary_auto_update_market">Wifi ağına bağlıyken uygulama mağazası yeni sürüme otomatik güncelle</string>
     <string name="clear_cache_message">Önbellek temizlensin mi?</string>
     <string name="clear_cache_succeed">Önbellek temizlendi</string>
     <string name="clear_cache_failed">Önbellek temizlenemedi. Daha sonra tekrar deneyin</string>
@@ -176,6 +181,7 @@
     <string name="rank_app_name">%1$s. %2$s</string>
     <string name="publish_info">%1$s-%2$s yayınlanan %3$s sürüm</string>
     <string name="permissions_title">%1$s izin ayrıntıları</string>
+    <string name="permissions_title_fallback">İzinler</string>
     <string name="permissions_expand_title">Diğer izinler</string>
     <string name="version_name">%1$s sürüm</string>
     <string name="search_not_found">%1$s bulunamadı</string>

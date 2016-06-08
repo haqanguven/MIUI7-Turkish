@@ -93,7 +93,6 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="passport_login_notice">Oturum açılıyor</string>
 	<string name="passport_login_check_find_device">Cihaz durumu kontrol ediliyor</string>
     <string name="passport_login_check_find_device_failed">Cihaz durumu kontrol edilemedi. Ağ bağlantınızı kontrol edin</string>
-    <string name="passport_login_check_find_device_failed_message">Lütfen ağ bağlantınızı kontrol edin</string>
     <string name="passport_login_find_device_bind">Bu cihaz Mi hesap numarası mevcut ile ilişkili (%s). Bu cihazı etkinleştirmek için oturum açın</string>
     <string name="passport_retry">Yeniden dene</string>
     <string name="passport_back">Geri</string>
@@ -170,7 +169,8 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="account">Hesap</string>
     <string name="micloud_account_name">Mi hesap</string>
     <string name="logout_failed">Oturum kapatılamıyor</string>
-    <string name="timeout_retry">İstek zaman aşımına uğradı. Lütfen yeniden deneyin</string>
+    <string name="turning_off_find_device">Cihazı bul kapatılıyor</string>
+    <string name="turn_off_find_device_failed_title">Cihazı bul kapatılamıyor</string>
     <string name="no_response_retry">Cevap yok. Lütfen yeniden deneyin</string>
     <string name="alert_title_remove_account">Hesap kaldırılsın mı?</string>
     <string name="remove_account_notice">Mi hesabınızdan senkronize edilen mesajlarınız, kişileriniz ve diğer verilerinizle ne yapmak istersiniz?</string>
@@ -180,6 +180,7 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="wipe_data_dialog_title">Bazı ögeler henüz senkronize edilmedi</string>
     <string name="wipe_data_dialog_msg">%s devam etmeniz durumunda silinecektir</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="delete_bank_card_failed">Kart kaldırma hatası. Tekrar deneyin</string>
     <string name="sina_weibo">Sina weibo</string>
     <string name="bind_sina_weibo">Sina weibo hesabına bağlanın</string>
     <string name="bind_weibo_description">Sina weibo arkadaşlarınızı ekleyin</string>
@@ -221,6 +222,7 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="account_user_birthday">Doğum günü</string>
     <string name="account_user_name_dialog_title">Kullanıcı adınızı girin</string>
     <string name="account_empty_user_name">Mi hesabı kullanıcı adınızı girin</string>
+    <string name="account_error_all_space_user_name">Ad sadece boşluk karakterleri içeremez</string>
     <string name="account_error_shorter_user_name">Kullanıcı adı 2 karakterden uzun olmalıdır</string>
     <string name="account_error_longer_user_name">Kullanıcı adı 20 karakterden uzun olamaz</string>
     <string name="account_error_user_birthday">Girdiğiniz doğum günü geçersiz</string>
@@ -350,4 +352,18 @@ Bu soruların yanıtlarını hatırlayacağınızdan emin olun"</string>
     <string name="cta_declaration_ignore">Yoksay</string>
     <string name="cta_declaration_agree_and_continue">Kabul et</string>
     <string name="cta_declaration_exit">Çıkış</string>
+    <string name="find_device_access_denied">Durum alınamıyor. Erişim engellendi</string>
+    <string name="find_device_account_error">Hesap hatasından dolayı durum alınamıyor</string>
+    <string name="find_device_null_credential_error">Cihaz bilgileri alınamıyor. Xiaomi müşteri hizmetleri ile iletişime geçin</string>
+    <string name="find_device_request_prepare_error">Durum alınamıyor. Daha sonra tekrar deneyin</string>
+    <string name="find_device_request_error">Durum bilgisi istenemiyor. Daha sonra tekrar deneyin</string>
+    <string name="find_device_bad_response_error">Sunucu hatasından dolayı durum alınamıyor. Daha sonra tekrar deneyin</string>
+    <string name="find_device_io_error">Ağa bağlanılamıyor</string>
+    <string name="find_device_interrupted">İşlem kesintiye uğradı. Daha sonra tekrar deneyin</string>
+    <string name="find_device_operation_failed_error">Bir hata oluştu</string>
+    <string name="find_device_unknown_error">Durum alınamıyor. Daha sonra tekrar deneyin</string>
+    <string name="find_device_error_password_recently_changed">Şifrenizi son 3 gün içerisinde değiştirdiniz. Güvenlik nedenlerinden dolayı cihazı bul özelliği kapatılamıyor</string>
+    <string name="find_device_error_password_not_confirmed">Cihazı bul özelliği kapatılamıyor. Mi Hesap şifrenizi yeniden girin ve ardından tekrar deneyin</string>
+    <string name="find_device_operation_failed_error_unknown">Bir hata meydana geldi. Daha sonra tekrar deneyin</string>
+    <string name="find_device_remote_exception">RPC hatası</string>
 </resources>

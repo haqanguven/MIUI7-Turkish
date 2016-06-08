@@ -20,12 +20,6 @@ Seçilen klavyeler: "</string>
     <string name="other_settings_user_experience">Kullanıcı deneyimi programı</string>
     <string name="other_settings_user_experience_summary">"Anonim kullanıcı verileri göndererek Miui'nin gelişimine katkıda bulunun (%s)"</string>
     <string name="other_settings_user_experience_summary1">Gizlilik politikası</string>
-    <string name="other_settings_permission">Miui servis izinleri</string>
-    <string name="other_settings_permission_summary">Mi bulut ve diğer temel özellik hizmetleri için izinleri vermenize ihtiyaçları vardır</string>
-    <string name="alert_dialog_title">Bazı servislerin hatalı davranmalarına neden olabilir</string>
-    <string name="alert_dialog_msg">"Bu izinler (örneğin cihazınızın arama sırasında iletişim bilgileri görüntülemek mümkün olmayacaktır olmadan) beklendiği gibi MIUI temel özellikleri ve hizmetlerden bazıları çalışmak mümkün olmayacaktır. Eğer bu izinleri devre dışı bırakırsanız belli bir aktivite için gerekli yaparken, MIUI en uygulamaları ayrı ayrı izinler soracaktır."</string>
-    <string name="alert_dialog_btn_close">Devre dışı bırak</string>
-    <string name="alert_dialog_btn_open">İptal et</string>
     <string name="next">İleri</string>
     <string name="skip_underline"><u>Bu adımı atla</u></string>
     <string name="sim_dectection_next">Devam</string>

@@ -588,7 +588,7 @@ Birlikte daha fazla fotoğraf çekinin"</string>
     <string name="create_baby_album_dialog_msg">%s için albüm oluşturulsun mu?</string>
     <string name="input_nickname_toast">Bebeğin adını girin</string>
     <string name="baby_sexy">Cinsiyet</string>
-    <string name="you_are" />
+    <string name="you_are">Bebek ile ilişkiniz</string>
     <string name="baby_suffix">Bebek</string>
     <string name="already_create_baby_album">Bebek albümü Mi bulutta zaten mevcut</string>
     <string name="input_baby_name">Adı girin</string>
@@ -663,7 +663,10 @@ Birlikte daha fazla fotoğraf çekinin"</string>
     <string name="menu_item_sort_size">Boyut</string>
     <string name="menu_item_sort_date">Tarih</string>
     <string name="menu_item_sort_name">İsim</string>
-    <string name="album_detail_page_empty">Video veya fotoğraf yok</string>
+    <string name="album_detail_page_empty">Fotoğraf veya video yok</string>
+    <string name="album_detail_clear_local_page_empty">Silinecek yedeklenmiş fotoğraf veya video yok</string>
+    <string name="clear_local_photo_direction">Fotoğraf veya videoları cihazınızdan silerseniz Mi bulut alanınızda saklanmaya devam edecektir</string>
+    <string name="release_space_finish_format">Dahili depolama alanında %s alan yer açıldı</string>
     <string name="app_name_view_picture">Resmi görüntüle</string>
     <string name="video_err">Video oynatılamıyor</string>
     <string name="exit_video_play">Çıkış</string>
@@ -695,6 +698,8 @@ Birlikte daha fazla fotoğraf çekinin"</string>
     <string name="operation_disable_auto_upload">Otomatik yedeklemeyi kapat</string>
     <string name="operation_show_in_photos_tab">Fotoğraflar sekmesinde göster</string>
     <string name="operation_not_show_in_photos_tab">Fotoğraflar sekmesinde gösterme</string>
+    <string name="operation_do_delete_local_thumnail">Cihazdan sil</string>
+    <string name="operation_enter_delte_thumbnail">Yedeklenmiş fotoğraf veya videoları cihazdan sil</string>
     <string name="auto_upload_enable_toast">Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenecek</string>
     <string name="auto_upload_disable_toast">Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenmeyecek</string>
     <string name="auto_upload_disable_tip">Otomatik yedekleme devre dışı bırakıldı</string>
@@ -940,7 +945,14 @@ Birlikte daha fazla fotoğraf çekinin"</string>
     <string name="slim_tip_title">Fotoğraf boyutunu küçültme hakkında</string>
     <string name="slim_tip_msg">Wifi ağı hazır olduğunda fotoğraf boyutu otomatik olarak azalacaktır. To download full-resolution files from Mi Cloud, tap \"Download photo\" in Details.</string>
     <string name="slimming">Azaltılıyor</string>
-    <string name="user_agreement2">" Hizmet şartları"</string>
+    <string name="backup_detail_page_title">Mi bulut yedekleri</string>
+    <string name="backuping">Yedekleniyor: %1$d/%2$d</string>
+    <string name="backup_waiting_button_text">Şimdi yedekle</string>
+    <string name="network_unsatisfied_button_text">Ağa bağlan</string>
+    <string name="sync_off_button_text">Senkronizasyonu aç</string>
+    <string name="cloud_space_full_button_text">Daha fazla Mi bulut alanı alın</string>
+    <string name="local_space_full_button_text">Alan temizle</string>
+    <string name="user_agreement2">Hizmet şartları</string>
     <string name="user_agreement4">Gizlilik politikası</string>
     <string name="user_agree">Kabul et</string>
     <string name="do_not_remind_me">Tekrar gösterme</string>

@@ -20,6 +20,7 @@
     <string name="status_bar_toggle_quiet_mode">Uyku</string>
     <string name="status_bar_toggle_paper_mode">Okuma</string>
     <string name="status_bar_toggle_midrop">Mi damla</string>
+    <string name="status_bar_toggle_cast">Oyuncu</string>
     <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
     <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
     <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
@@ -98,6 +99,8 @@
     <string name="copy">Kopyala</string>
     <string name="paste">Yapıştır</string>
     <string name="replace">Değiştir</string>
+    <string name="frequent_phrases">Sık ifadeler</string>
+    <string name="add_frequent_phrases">Sık ifadeler ekle</string>
     <string name="alwaysUsePrompt">Bu seçimi hatırla</string>
     <string name="auto_start_warning_title">%s otomatik başlamasına izin verilsin mi?</string>
     <string name="auto_start_warning_allow">İzin ver</string>
